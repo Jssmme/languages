@@ -3355,7 +3355,7 @@ msgstr "首先打开一个进程"
 
 #: frmultimap2unit.rsforsomeweirdreason
 msgid "For some weird reason \""
-msgstr "For some weird reason \""
+msgstr "由于某些奇怪的原因 \""
 
 #: frmultimap2unit.rsinstructionpointerlistsize
 msgctxt "frmultimap2unit.rsinstructionpointerlistsize"
@@ -3391,7 +3391,7 @@ msgstr "已处理\n数据\n"
 
 #: frmultimap2unit.rsputbetweentomarsasanautostoprange
 msgid "(Put between *'s to mark as an auto stop range)"
-msgstr "(Put between *'s to mark as an auto stop range)"
+msgstr "(在*之间标记为自动停止范围)"
 
 #: frmultimap2unit.rsrangesemptyforallmax
 msgid "Ranges: (Empty for all) (Max %d)"
@@ -3407,23 +3407,23 @@ msgstr "选择一个模块或给出你的范围"
 
 #: frmultimap2unit.rssorrybutyourcpudoesntseemtobeabletosetatargetprocess
 msgid "Sorry, but your CPU doesn't seem to be able to set a target PROCESS"
-msgstr "Sorry, but your CPU doesn't seem to be able to set a target PROCESS"
+msgstr "抱歉,你的CPU似乎无法设置目标进程"
 
 #: frmultimap2unit.rssorrybutyourcpuseemstobeleackingiptfeature
 msgid "Sorry, but your CPU seems to be lacking the Intel Processor Trace feature which Ultimap2 makes use of"
-msgstr "Sorry, but your CPU seems to be lacking the Intel Processor Trace feature which Ultimap2 makes use of"
+msgstr "抱歉,你的CPU似乎缺少Ultimap2所需的Intel处理器追踪功能"
 
 #: frmultimap2unit.rssorrybutyourcpusimplementationoftheiptfeatureistooold
 msgid "Sorry, but your CPU's implementation of the Intel Processor Trace feature is too old. Ultimap uses multiple ToPA entries"
-msgstr "Sorry, but your CPU's implementation of the Intel Processor Trace feature is too old. Ultimap uses multiple ToPA entries"
+msgstr "抱歉,你的CPU的Intel处理器追踪功能实现太旧了。Ultimap需要使用多个ToPA条目"
 
 #: frmultimap2unit.rstargetadifferentprocess
 msgid "Target a different process. Ultimap2 will suspend the target when the buffer is full, and suspending the thing that empties the buffer is not a good idea"
-msgstr "Target a different process. Ultimap2 will suspend the target when the buffer is full, and suspending the thing that empties the buffer is not a good idea"
+msgstr "请选择一个不同的进程。当缓冲区满时Ultimap2会暂停目标进程,暂停清空缓冲区的进程不是个好主意"
 
 #: frmultimap2unit.rstherangeyouhaveprovidedisanexitrangebeaware
 msgid "The range you have provided is an 'Exit' range. Be aware that this doesn't mean it will always stop at that range, or that the result is what you expect. A context switch to another thread between the start and stop can add a lot of other data"
-msgstr "The range you have provided is an 'Exit' range. Be aware that this doesn't mean it will always stop at that range, or that the result is what you expect. A context switch to another thread between the start and stop can add a lot of other data"
+msgstr "你提供的范围是一个'退出'范围。请注意这并不意味着它总会在该范围停止,或结果符合你的预期。在开始和停止之间切换到其他线程可能会添加大量其他数据"
 
 #: frmultimap2unit.rsthesizehastobe12kborhigher
 msgid "The size has to be 12KB or higher"
@@ -3497,7 +3497,7 @@ msgstr " 字节写入 "
 
 #: gnuassembler.rsconfigureavalidbinutilssetupfirst
 msgid "Configure a valid binutils setup first"
-msgstr "Configure a valid binutils setup first"
+msgstr "请先配置有效的 binutils 设置"
 
 #: gnuassembler.rscouldnotbefound
 msgctxt "gnuassembler.rscouldnotbefound"
@@ -3506,7 +3506,7 @@ msgstr " 无法找到"
 
 #: gnuassembler.rsdoesntseemtobeavalidelffile
 msgid " doesn't seem to be a valid ELF file"
-msgstr " doesn't seem to be a valid ELF file"
+msgstr " 似乎不是一个有效的 ELF 文件"
 
 #: gnuassembler.rsgnuassemblererror
 msgid "GNU Assembler error"
@@ -3518,11 +3518,11 @@ msgstr "ELF 文件无效"
 
 #: gnuassembler.rsnobinutilsinstalled
 msgid "No binutils installed"
-msgstr "No binutils installed"
+msgstr "未安装 binutils"
 
 #: gnuassembler.rstheaobfor
 msgid "The AOB for "
-msgstr "The AOB for "
+msgstr "AOB 用于 "
 
 #: gnuassembler.rstheproperformatofasectionis
 msgid "The proper format of .asection is : .asection <name> <preferedaddress>"
@@ -3534,11 +3534,11 @@ msgstr ".msection 的格式是 : .msection <name> <address> <optional expected s
 
 #: gnuassembler.rstook
 msgid " took "
-msgstr " took "
+msgstr " 花费 "
 
 #: gnuassembler.rswhereexpected
 msgid " where expected"
-msgstr " where expected"
+msgstr " 在预期位置"
 
 #: groupscancommandparser.rsgscpcustomtypenotrecognized
 msgid "Custom type not recognized: "
@@ -4059,7 +4059,7 @@ msgstr "编辑地址"
 
 #: mainunit.rsexpired
 msgid "EXPIRED"
-msgstr "EXPIRED"
+msgstr "过期"
 
 #: mainunit.rsfailedtoload
 msgid "failed to load"
@@ -4123,7 +4123,7 @@ msgstr "\"群组扫描\"数据无效"
 
 #: mainunit.rsgroupscanresultwithnogroupscanparser
 msgid "Groupscan result with no groupscanparser"
-msgstr "Groupscan result with no groupscanparser"
+msgstr "群组扫描结果没有群组扫描解析器"
 
 #: mainunit.rsheight
 msgid " , height="
@@ -4145,7 +4145,7 @@ msgstr "嗯... 今儿我心情好就饶你一次, 下不为例, 无耻的盗版�
 
 #: mainunit.rsinvalidscanfolder
 msgid "%s is not accessible like it should.  Please configure a proper location in the settings"
-msgstr ""
+msgstr "%s 无法正常访问. 请在设置中配置一个合适的位置"
 
 #: mainunit.rsinvalidstartaddress
 msgid "Invalid start address: %s"
@@ -4194,7 +4194,7 @@ msgstr "覆盖 "
 
 #: mainunit.rspart
 msgid " part "
-msgstr " part "
+msgstr " 部分 "
 
 #: mainunit.rsprevious
 msgctxt "mainunit.rsprevious"
@@ -4338,7 +4338,7 @@ msgstr "数值 %"
 
 #: mainunit.rswasclickedatpositon
 msgid " was clicked at positon "
-msgstr " was clicked at positon "
+msgstr " 被点击于位置 "
 
 #: mainunit.rswhatareyousayingyouregoingtocontinueusingceillegal
 msgid "WHAT!!! Are you saying you're going to continue using CE ILLEGALLY??? If you say yes, i'm going to mail the cops to get you and send you to jail!!!"
@@ -5948,7 +5948,7 @@ msgstr "无效的 scandata 版本"
 #: pointerscanconnector.rscouldnotberesolved
 msgctxt "pointerscanconnector.rscouldnotberesolved"
 msgid " could not be resolved"
-msgstr " could not be resolved"
+msgstr " 无法解析"
 
 #: pointerscanconnector.rserrorwhileconnecting
 msgid "Error while connecting: "
@@ -6036,7 +6036,7 @@ msgstr "HELLO 之后初始化"
 
 #: pointerscancontroller.rspscimpossibleerroruseloadedpointermapwasfalseetc
 msgid "Impossible error: UseLoadedPointermap was false when a child message got handled"
-msgstr "Impossible error: UseLoadedPointermap was false when a child message got handled"
+msgstr "不可能的错误: 当处理子节点消息时 UseLoadedPointermap 为 false"
 
 #: pointerscancontroller.rspscinvalidchildpassword
 msgid "Invalid child password"
@@ -6044,7 +6044,7 @@ msgstr "无效的子节点密码"
 
 #: pointerscancontroller.rspscinvalidcommandwhilewaitingforhello
 msgid "Invalid command while waiting for hello"
-msgstr "Invalid command while waiting for hello"
+msgstr "等待hello时收到无效命令"
 
 #: pointerscancontroller.rspscinvalidhandshakesignature
 msgid "Invalid handshake signature"
@@ -6096,7 +6096,7 @@ msgstr "no resume ptr file reader present"
 
 #: pointerscancontroller.rspscparentdidntrespondproperlytopscmdprepareformytermination
 msgid "Parent didn't respond properly to PSCMD_PREPAREFORMYTERMINATION"
-msgstr "Parent didn't respond properly to PSCMD_PREPAREFORMYTERMINATION"
+msgstr "父节点没有正确响应 PSCMD_PREPAREFORMYTERMINATION"
 
 #: pointerscancontroller.rspscsleeping
 msgid ":Sleeping"
@@ -6140,11 +6140,11 @@ msgstr "父节点试图发送负数的路径"
 
 #: pointerscancontroller.rspsctheparenttriedtosendmemorepathsthanallowedaafterupdate
 msgid "The parent tried to send me more paths than allowed (after update)"
-msgstr "The parent tried to send me more paths than allowed (after update)"
+msgstr "父节点试图发送超过允许的路径给我(更新后)"
 
 #: pointerscancontroller.rspscthepointerlisthandlerwasdestroyedwithoutagoodreason
 msgid "The pointerlisthandler was destroyed without a good reason"
-msgstr "The pointerlisthandler was destroyed without a good reason"
+msgstr "指针列表处理器被无故销毁"
 
 #: pointerscancontroller.rspscthescanwasterminated
 msgid "The scan was terminated"
@@ -7220,7 +7220,7 @@ msgstr "重命名群组"
 
 #: structuresfrm2.rssf2secletthegroupthiscolumnshouldbecomepartof
 msgid "Select the group this column should become part of"
-msgstr "Select the group this column should become part of"
+msgstr "选择此栏目要加入的群组"
 
 #: structuresfrm2.rssf2setnamerename
 msgid "Set name/Rename"
@@ -8102,11 +8102,11 @@ msgstr "添加菜单项目"
 
 #: tformdesigner.noselection.caption
 msgid "NoSelection"
-msgstr "NoSelection"
+msgstr "未选择"
 
 #: tformdesigner.paintbox.caption
 msgid "CEPaintBox"
-msgstr "CEPaintBox"
+msgstr "绘图框"
 
 #: tformdesigner.paintbox.hint
 msgid "PaintBox"
@@ -8115,7 +8115,7 @@ msgstr "颜料盒"
 #: tformdesigner.popupmenu.caption
 msgctxt "TFORMDESIGNER.POPUPMENU.CAPTION"
 msgid "PopupMenu"
-msgstr "PopupMenu"
+msgstr "弹出菜单"
 
 #: tformdesigner.popupmenu.hint
 msgctxt "tformdesigner.popupmenu.hint"
@@ -8125,7 +8125,7 @@ msgstr "弹出菜单"
 #: tformdesigner.radiobutton.caption
 msgctxt "TFORMDESIGNER.RADIOBUTTON.CAPTION"
 msgid "RadioButton"
-msgstr "RadioButton"
+msgstr "单选按钮"
 
 #: tformdesigner.radiobutton.hint
 msgctxt "tformdesigner.radiobutton.hint"
@@ -8145,7 +8145,7 @@ msgstr "滚动条"
 #: tformdesigner.selectdirectorydialog.caption
 msgctxt "TFORMDESIGNER.SELECTDIRECTORYDIALOG.CAPTION"
 msgid "SelectDirectoryDialog"
-msgstr "SelectDirectoryDialog"
+msgstr "选择目录对话框"
 
 #: tformdesigner.selectdirectorydialog.hint
 msgctxt "tformdesigner.selectdirectorydialog.hint"
@@ -8685,7 +8685,7 @@ msgstr "使用 APC 创建新的线程"
 
 #: tformsettings.codefinder.caption
 msgid "CodeFinder"
-msgstr "CodeFinder"
+msgstr "代码查找器"
 
 #: tformsettings.combothreadpriority.text
 msgctxt "tformsettings.combothreadpriority.text"
@@ -10945,7 +10945,7 @@ msgstr "执行Lua脚本吗?"
 
 #: tfrmluascriptquestion.groupbox5.caption
 msgid "Future reference:"
-msgstr "Future reference:"
+msgstr "未来参考:"
 
 #: tfrmluascriptquestion.label16.caption
 msgctxt "tfrmluascriptquestion.label16.caption"
@@ -12895,7 +12895,7 @@ msgstr "自动信任所有新子节点的稳定性"
 #: tfrmsetuppsnnode.cbautotrustchildren.hint
 msgctxt "TFRMSETUPPSNNODE.CBAUTOTRUSTCHILDREN.HINT"
 msgid "Normally when a worker terminates before the scan is done it will send all it's paths to it's connected node and then close, but if the system would crash it wouldn't be able to send it's queues to the node, causing in a loss of possible paths to examine"
-msgstr "Normally when a worker terminates before the scan is done it will send all it's paths to it's connected node and then close, but if the system would crash it wouldn't be able to send it's queues to the node, causing in a loss of possible paths to examine"
+msgstr "通常当一个工作进程在扫描完成前终止时,它会将所有路径发送到已连接的节点然后关闭,但如果系统崩溃,它将无法将队列发送到节点,导致可能要检查的路径丢失"
 
 #: tfrmsetuppsnnode.cbconnecttoothernode.caption
 msgid "Connect to other node as"
@@ -14631,7 +14631,7 @@ msgstr "重置"
 #: tfrmultimap.button6.hint
 msgctxt "tfrmultimap.button6.hint"
 msgid "If you lost track of what happened, use this. It will set execution count back to 0 of all the branches it has found"
-msgstr "If you lost track of what happened, use this. It will set execution count back to 0 of all the branches it has found"
+msgstr "如果你不知道发生了什么,请使用此按钮。它会将所有已找到的分支的执行计数重置为0"
 
 #: tfrmultimap.caption
 msgctxt "tfrmultimap.caption"
@@ -14802,7 +14802,7 @@ msgstr "重置"
 #: tfrmultimap2.btnreset.hint
 msgctxt "TFRMULTIMAP2.BTNRESET.HINT"
 msgid "If you lost track of what happened, use this. It will set execution count back to 0 of all the branches it has found"
-msgstr "If you lost track of what happened, use this. It will set execution count back to 0 of all the branches it has found"
+msgstr "如果你不知道发生了什么,请使用此按钮。它会将所有已找到的分支的执行计数重置为0"
 
 #: tfrmultimap2.btnresetcount.caption
 msgctxt "TFRMULTIMAP2.BTNRESETCOUNT.CAPTION"
@@ -14826,7 +14826,7 @@ msgstr "自动处理 tracefiles"
 
 #: tfrmultimap2.cbautoprocess.hint
 msgid "When enabled this will check the filesize every few seconds, and will process the files when they have grown beyond the given size."
-msgstr "When enabled this will check the filesize every few seconds, and will process the files when they have grown beyond the given size."
+msgstr "启用后将每隔几秒检查一次文件大小,当文件大小超过指定大小时就会处理这些文件."
 
 #: tfrmultimap2.cbdontdeletetracefiles.caption
 msgid "Don't delete trace files"
@@ -14834,7 +14834,7 @@ msgstr "不删除跟踪文件"
 
 #: tfrmultimap2.cbdontdeletetracefiles.hint
 msgid "Normally Cheat Engine will delete the trace files after they have been processed. But if you wish to save them for your own use, check this box"
-msgstr "Normally Cheat Engine will delete the trace files after they have been processed. But if you wish to save them for your own use, check this box"
+msgstr "通常 Cheat Engine 会在处理完跟踪文件后删除它们。如果你想保存这些文件供自己使用,请勾选此项"
 
 #: tfrmultimap2.cbfilterfuturepaths.caption
 msgid "Exclude new addresses"
@@ -14856,11 +14856,11 @@ msgstr "勾选后所有新添加的代码的入口点将会视为与过滤器不
 
 #: tfrmultimap2.cbparsetotextfile.caption
 msgid "Parse trace to textfile"
-msgstr "Parse trace to textfile"
+msgstr "将跟踪解析到文本文件"
 
 #: tfrmultimap2.cbparsetotextfile.hint
 msgid "When enabled will write the sequence of events as they happen as plain text to a file called cpu#trace.txt."
-msgstr "When enabled will write the sequence of events as they happen as plain text to a file called cpu#trace.txt."
+msgstr "启用后将按事件发生顺序将其写入名为 cpu#trace.txt 的纯文本文件中。"
 
 #: tfrmultimap2.cbpausetargetwhileprocessing.caption
 msgid "Pause target while processing"
@@ -14995,7 +14995,7 @@ msgstr "Process data later"
 
 #: tfrmultimap2.rblogtofolder.hint
 msgid "CE will write the results to disk as quickly as possible but won't process it until the recording is stopped, or a filter function is being used."
-msgstr "CE will write the results to disk as quickly as possible but won't process it until the recording is stopped, or a filter function is being used."
+msgstr "CE 会尽快将结果写入磁盘，但在录制停止或使用过滤功能之前不会处理这些数据。"
 
 #: tfrmultimap2.rbruntimeparsing.caption
 msgid "Process data while recording"
@@ -15129,7 +15129,7 @@ msgstr "强制为英语"
 #: thotkeyform.cbforceenglishactivate.hint
 msgctxt "thotkeyform.cbforceenglishactivate.hint"
 msgid "Tries to set the language of the windows speech synthesizer to English when speaking this. Won't speak if there is no English voice installed"
-msgstr "Tries to set the language of the windows speech synthesizer to English when speaking this. Won't speak if there is no English voice installed"
+msgstr "尝试在朗读时将 Windows 语音合成器的语言设置为英语。如果没有安装英语语音包将无法朗读"
 
 #: thotkeyform.cbforceenglishdeactivate.caption
 msgctxt "THOTKEYFORM.CBFORCEENGLISHDEACTIVATE.CAPTION"
@@ -15139,7 +15139,7 @@ msgstr "强制为英语"
 #: thotkeyform.cbforceenglishdeactivate.hint
 msgctxt "THOTKEYFORM.CBFORCEENGLISHDEACTIVATE.HINT"
 msgid "Tries to set the language of the windows speech synthesizer to English when speaking this. Won't speak if there is no English voice installed"
-msgstr "Tries to set the language of the windows speech synthesizer to English when speaking this. Won't speak if there is no English voice installed"
+msgstr "尝试在朗读时将 Windows 语音合成器的语言设置为英语。如果没有安装英语语音包将无法朗读"
 
 #: thotkeyform.edtactivatetext.text
 msgid "{MRDescription} Activated"
@@ -17990,7 +17990,7 @@ msgstr "启用不可执行失败"
 
 #: debughelper.rsfaileddeppermanently
 msgid "Failed enabling No Execute AND blocked it from every changing. Fuck"
-msgstr ""
+msgstr "启用不可执行失败并永久阻止了更改。糟糕"
 
 
 #: debughelper.rsfailuregettingdepinformation
@@ -18226,12 +18226,12 @@ msgstr "这是已分配的内存,你拥有读、写、执行权限"
 
 #: frmautoinjectunit.rsdescribethatthiscodewilldisablethescript
 msgid "code from here till the end of the code will be used to disable the cheat"
-msgstr "从这里到代码结尾的代码将用于禁用作弊"
+msgstr "禁用作弊时将会执行从这里到代码结尾的代码"
 
 
 #: frmautoinjectunit.rsdescribethatthiscodewillenablethescript
 msgid "code from here to '[DISABLE]' will be used to enable the cheat"
-msgstr "从这里到'[DISABLE]'的代码将用于启用作弊"
+msgstr "启用作弊时将会执行从这里到'[DISABLE]'的代码"
 
 
 #: frmautoinjectunit.rserrorinscript
@@ -18413,17 +18413,17 @@ msgstr "S=静态 D=动态 E=可执行"
 #: frmluaengineunit.rsluaengine
 msgctxt "frmluaengineunit.rsluaengine"
 msgid "Lua Engine"
-msgstr ""
+msgstr "Lua引擎"
 
 
 #: frmmemviewpreferencesunit.rshexedit
 msgid "Hexedit"
-msgstr ""
+msgstr "十六进制编辑"
 
 
 #: frmmodifyregistersunit.rsfailuresettingdbvmchangeregonbp
 msgid "Failure setting a DBVM ChangeRegOnBP breakpoint"
-msgstr ""
+msgstr "设置DBVM寄存器改变断点失败"
 
 
 #: frmregistersunit.rslabelregisterhint
@@ -18431,42 +18431,44 @@ msgid ""
 "DoubleClick: Browse this memory region.\n"
 "Right Mouse Click: Register Value will be copied to Clipboard and Context Menu will open."
 msgstr ""
+"双击: 浏览此内存区域。\n"
+"右键单击: 寄存器值将被复制到剪贴板并打开上下文菜单。"
 
 
 #: frmregistersunit.rsnodescription
 msgctxt "frmregistersunit.rsnodescription"
 msgid "No Description"
-msgstr ""
+msgstr "无描述"
 
 
 #: frmstructurecompareunit.rsareyousureyo
 msgctxt "frmstructurecompareunit.rsareyousureyo"
 msgid "Are you sure you wish to start a new scan?"
-msgstr ""
+msgstr "你确定要开始新的扫描吗?"
 
 
 #: frmstructurecompareunit.rsgeneratedscanning
 msgctxt "frmstructurecompareunit.rsgeneratedscanning"
 msgid "Generated. Scanning..."
-msgstr ""
+msgstr "已生成。正在扫描..."
 
 
 #: frmstructurecompareunit.rsgeneratingstringmap
 msgctxt "frmstructurecompareunit.rsgeneratingstringmap"
 msgid "Generating stringmap"
-msgstr ""
+msgstr "正在生成字符串映射"
 
 
 #: frmstructurecompareunit.rsinvalidgroup
 
 #: frmstructurecompareunit.rsmaxaddressesshown
 msgid "Max addresses shown :"
-msgstr ""
+msgstr "显示的最大地址数量:"
 
 
 #: frmstructurecompareunit.rsmaxreached
 msgid "...<max reached>..."
-msgstr ""
+msgstr "...<已达到最大值>..."
 
 
 #: frmstructurecompareunit.rssameaddress
@@ -18474,60 +18476,60 @@ msgstr ""
 #: frmstructurecompareunit.rsscan
 msgctxt "frmstructurecompareunit.rsscan"
 msgid "Scan"
-msgstr ""
+msgstr "扫描"
 
 
 #: frmstructurecompareunit.rsscanningfoun
 
 #: frmstructurecompareunit.rsspsinvalidstruct
 msgid "Invalid structure pointerfile"
-msgstr ""
+msgstr "无效的结构指针文件"
 
 
 #: frmstructurecompareunit.rsspslock
 msgctxt "frmstructurecompareunit.rsspslock"
 msgid "Lock"
-msgstr ""
+msgstr "锁定"
 
 
 #: frmstructurecompareunit.rsspsneednewce
 msgid "You'll need a newer CE version to open this file"
-msgstr ""
+msgstr "需要更新版本的CE才能打开此文件"
 
 
 #: frmstructurecompareunit.rsspsnoerror
 msgid "No error"
-msgstr ""
+msgstr "无错误"
 
 
 #: frmstructurecompareunit.rsspsuaddress
 msgctxt "frmstructurecompareunit.rsspsuaddress"
 msgid "Address"
-msgstr ""
+msgstr "地址"
 
 
 #: frmstructurecompareunit.rsspsuaddress2
 msgctxt "frmstructurecompareunit.rsspsuaddress2"
 msgid "Address 2"
-msgstr ""
+msgstr "地址 2"
 
 
 #: frmstructurecompareunit.rsspsuerrorduringscannoscanresults
 msgctxt "frmstructurecompareunit.rsspsuerrorduringscannoscanresults"
 msgid "Error during scan. No scanresults available"
-msgstr ""
+msgstr "扫描时出错。没有可用的扫描结果"
 
 
 #: frmstructurecompareunit.rsspsuexception
 msgctxt "frmstructurecompareunit.rsspsuexception"
 msgid "Exception:"
-msgstr ""
+msgstr "异常:"
 
 
 #: frmstructurecompareunit.rsspsufound
 msgctxt "frmstructurecompareunit.rsspsufound"
 msgid "Found:"
-msgstr ""
+msgstr "找到:"
 
 
 #: frmstructurecompareunit.rsspsufuuuu
@@ -18547,148 +18549,148 @@ msgstr ""
 #: frmstructurecompareunit.rsspsunotyetimplemented
 msgctxt "frmstructurecompareunit.rsspsunotyetimplemented"
 msgid "Not yet implemented"
-msgstr ""
+msgstr "尚未实现"
 
 
 #: frmstructurecompareunit.rsspsuoffset
 msgctxt "frmstructurecompareunit.rsspsuoffset"
 msgid "Offset "
-msgstr ""
+msgstr "偏移量 "
 
 
 #: frmstructurecompareunit.rsspsurescan
 msgctxt "frmstructurecompareunit.rsspsurescan"
 msgid "Rescan"
-msgstr ""
+msgstr "重新扫描"
 
 
 #: frmstructurecompareunit.rsspsuscandonefound
 msgctxt "frmstructurecompareunit.rsspsuscandonefound"
 msgid "Scan done! Found "
-msgstr ""
+msgstr "扫描完成! 找到 "
 
 
 #: frmstructurecompareunit.rsstop
 msgctxt "frmstructurecompareunit.rsstop"
 msgid "Stop"
-msgstr ""
+msgstr "停止"
 
 
 #: frmstructurecompareunit.rsstructurecompare
 msgctxt "frmstructurecompareunit.rsstructurecompare"
 msgid "Structure Compare"
-msgstr ""
+msgstr "结构比较"
 
 
 #: frmstructurecompareunit.rsterminating
 msgctxt "frmstructurecompareunit.rsterminating"
 msgid "Terminating..."
-msgstr ""
+msgstr "正在终止..."
 
 
 #: frmstructurecompareunit.rsthisaddressisnotaccessible
 msgctxt "frmstructurecompareunit.rsthisaddressisnotaccessible"
 msgid "This address is not accessible"
-msgstr ""
+msgstr "此地址无法访问"
 
 
 #: frmstructurecompareunit.rstoosmallalign
 msgid "Alignsize must be greater than 0"
-msgstr ""
+msgstr "对齐大小必须大于0"
 
 
 #: frmstructures2elementinfounit.rsmustselectstructure
 msgid "For a nested structure you must select a predefined structure"
-msgstr ""
+msgstr "对于嵌套结构,你必须选择一个预定义的结构"
 
 
 #: frmstructures2elementinfounit.rsundefined
 msgctxt "frmstructures2elementinfounit.rsundefined"
 msgid "Undefined"
-msgstr ""
+msgstr "未定义"
 
 
 #: frmstructuresnewstructureunit.rsguessfieldtypes
 msgid "Guess Field Types"
-msgstr ""
+msgstr "猜测字段类型"
 
 
 #: frmstructuresnewstructureunit.rssize
 msgctxt "frmstructuresnewstructureunit.rssize"
 msgid "Size:"
-msgstr ""
+msgstr "大小:"
 
 
 #: frmstructuresnewstructureunit.rsstructurename
 msgid "Structure Name:"
-msgstr ""
+msgstr "结构名称:"
 
 
 #: frmstructuresnewstructureunit.rsuseautotypesifavailable
 msgid "Use Auto Types If Available"
-msgstr ""
+msgstr "如果可用则使用自动类型"
 
 
 #: frmstructuresnewstructureunit.rswindowtitle
 msgid "New Structure"
-msgstr ""
+msgstr "新建结构"
 
 
 #: frmthreadlistunit.rscurrent
 msgid "Current"
-msgstr ""
+msgstr "当前"
 
 
 #: frmthreadlistunit.rsentrypoint
 msgid "Entry Point"
-msgstr ""
+msgstr "入口点"
 
 
 #: frmtracerunit.rsdbvmbreakandtraceneedsdbvm
 msgid "DBVM Break and Trace needs DBVM. Loading DBVM can potentially cause a system freeze. Are you sure?"
-msgstr ""
+msgstr "DBVM断点和跟踪需要DBVM。加载DBVM可能会导致系统冻结。你确定吗?"
 
 
 #: frmtracerunit.rstracer
 msgctxt "frmtracerunit.rstracer"
 msgid "Tracer"
-msgstr ""
+msgstr "跟踪器"
 
 
 #: frmtracerunit.rswaitingfortracetostart
 msgid "Waiting for trace to start"
-msgstr ""
+msgstr "等待跟踪开始"
 
 
 #: frmultimap2unit.rsrangesneeddbvminwindows10
 msgid "To use ranges with Ultimap2 in windows 10, you must hide the fact that you use ranges from it. To be able to do that DBVM needs to be running. There is a chance running DBVM can crash your system and make you lose your data(So don't forget to save first). Do you want to run DBVM?"
-msgstr ""
+msgstr "要在Windows 10中使用Ultimap2的范围功能,你必须隐藏使用范围的事实。为此需要运行DBVM。运行DBVM可能会导致系统崩溃并丢失数据(所以别忘了先保存)。你要运行DBVM吗?"
 
 
 #: frmultimap2unit.rsthread
 msgctxt "frmultimap2unit.rsthread"
 msgid "Thread"
-msgstr ""
+msgstr "线程"
 
 
 #: frmultimap2unit.rsyoumustselectabuffersize
 msgid "You must select a buffersize"
-msgstr ""
+msgstr "你必须选择一个缓冲区大小"
 
 
 #: groupscancommandparser.rsaobdoesnotsupportrange
 msgid "AOB does not support range"
-msgstr ""
+msgstr "AOB不支持范围"
 
 
 #: groupscancommandparser.rsarangecantbeawildcard
 msgid "A range can't be a wildcard"
-msgstr ""
+msgstr "范围不能是通配符"
 
 
 #: groupscancommandparser.rsarangetypeneedsarangeforvalue
 msgid "A range type needs a range for value"
-msgstr ""
+msgstr "范围类型需要一个值的范围"
 
 
 #: hexviewunit.rscouldnotbeinterpretedasavalue
@@ -18696,67 +18698,67 @@ msgstr ""
 #: hexviewunit.rswritecombine
 msgctxt "hexviewunit.rswritecombine"
 msgid "Write Combine"
-msgstr ""
+msgstr "写入合并"
 
 
 #: hotkeys.rsdeactivateonrelease
 msgid "Deactivate on release"
-msgstr ""
+msgstr "释放时停用"
 
 
 #: hotkeys.rsrestoretooriginalonrelease
 msgid "Restore to original on release"
-msgstr ""
+msgstr "释放时恢复原状"
 
 
 #: kerneldebuggerinterface.rskernelmodeneedsdbvm
 msgid "You can't use kerneldebug in 64-bit without DBVM"
-msgstr ""
+msgstr "在64位系统中不能在没有DBVM的情况下使用内核调试"
 
 
 #: libcepack.askpermission
 
 #: luahandler.rsnonmainthreadluaerror
 msgid "Lua error in a secondary thread"
-msgstr ""
+msgstr "次要线程中的Lua错误"
 
 
 #: luahandler.rsscriptcorruptedvar
 
 #: luastructure.rsinvalidindex
 msgid "Invalid index"
-msgstr ""
+msgstr "无效的索引"
 
 
 #: luasyntax.syns_attrreservedword2
 msgid "Reserved word 2"
-msgstr ""
+msgstr "保留字 2"
 
 
 #: luasyntax.syns_attrreservedword3
 msgid "Reserved word 3"
-msgstr ""
+msgstr "保留字 3"
 
 
 #: luasyntax.syns_attrreservedword4
 msgid "Reserved word 4"
-msgstr ""
+msgstr "保留字 4"
 
 
 #: mainunit.rsareyousure
 msgctxt "mainunit.rsareyousure"
 msgid "Are you sure?"
-msgstr ""
+msgstr "你确定吗？"
 
 
 #: mainunit.rsbusy
 msgid "<busy>"
-msgstr ""
+msgstr "<忙碌中>"
 
 
 #: mainunit.rsclearingmeansslowness
 msgid "Clearing the assigned memory for this process will cause it to obtain all the memory it needs again which can cause a temporary slowdown in the target. Make sure the value you're interested in gets accessed once before you scan. Continue?"
-msgstr ""
+msgstr "清除此进程的已分配内存将导致它重新获取所需的所有内存，这可能会导致目标暂时变慢。请确保在扫描之前先访问一次你感兴趣的值。是否继续？"
 
 
 #: mainunit.rscomparetosavedscan
@@ -18767,12 +18769,12 @@ msgstr "对比首次扫描"
 
 #: mainunit.rsdbvmwatchfailed
 msgid "dbvm_watch failed"
-msgstr ""
+msgstr "dbvm_watch 失败"
 
 
 #: mainunit.rsdoyouwantthegroupwithaddress
 msgid "Do you want a header with address support ?"
-msgstr ""
+msgstr "你想要一个支持地址的标头吗？"
 
 
 #: mainunit.rsenablespeedhack
@@ -18783,7 +18785,7 @@ msgstr "启用速度修改"
 
 #: mainunit.rsfileinuse
 msgid "<File in use>"
-msgstr ""
+msgstr "<文件使用中>"
 
 
 #: mainunit.rsfilewillbegone
@@ -18803,64 +18805,64 @@ msgstr "修改过"
 
 #: mainunit.rsnetworkoption
 msgid "Network option :"
-msgstr ""
+msgstr "网络选项:"
 
 
 #: mainunit.rsnewvalueuponactivatingaddress
 msgid "New value upon activating address"
-msgstr ""
+msgstr "激活地址时的新值"
 
 
 #: mainunit.rsnewvalueupondeactivatingaddress
 msgid "New value upon deactivating address"
-msgstr ""
+msgstr "停用地址时的新值"
 
 
 #: mainunit.rspleasewait
 msgctxt "mainunit.rspleasewait"
 msgid "<Processing>"
-msgstr ""
+msgstr "<处理中>"
 
 
 #: mainunit.rspreviousvaluelist
 msgid "Previous value list"
-msgstr ""
+msgstr "上一个值列表"
 
 
 #: mainunit.rsprocessing
 msgctxt "mainunit.rsprocessing"
 msgid "<Processing>"
-msgstr ""
+msgstr "<处理中>"
 
 
 #: mainunit.rsrequiresdbvmcapablecpu
 msgid "This function requires an CPU with virtualization support. If your system has that then make sure that you're currently not running inside a virtual machine. (Windows has some security features that can run programs inside a VM)"
-msgstr ""
+msgstr "此功能需要支持虚拟化的CPU。如果你的系统支持，请确保当前不是在虚拟机中运行。(Windows有一些安全功能会在VM中运行程序)"
 
 
 #: mainunit.rsrequiresdbvmept
 msgid "DBVM find routines needs DBVM for EPT/NP page hooking. Loading DBVM can potentially cause a system freeze. Are you sure?"
-msgstr ""
+msgstr "DBVM查找例程需要DBVM来进行EPT/NP页面钩取。加载DBVM可能会导致系统冻结。你确定吗？"
 
 
 #: mainunit.rsrequiresept
 msgid "This function requires that your CPU supports 'Intel Extended Page Table (EPT) or AMD Nested Paging' which your CPU lacks"
-msgstr ""
+msgstr "此功能需要你的CPU支持'Intel扩展页表(EPT)或AMD嵌套分页'，但你的CPU不支持"
 
 
 #: mainunit.rsselectthesavedresult
 msgid "Select the saved results you wish to use"
-msgstr ""
+msgstr "选择你要使用的已保存结果"
 
 
 #: mainunit.rsselectthesavedscanresulttodeletefromthelistbelow
 msgid "Select the saved scan result to delete from the list below"
-msgstr ""
+msgstr "从下面的列表中选择要删除的已保存扫描结果"
 
 
 #: mainunit.strerrorwhileopeningprocessmac
 msgid ". Have you disabled 'System Integrity Protection'(SIP) yet?"
-msgstr ""
+msgstr ". 你是否已禁用'系统完整性保护'(SIP)？"
 
 
 #: mainunit2.cenamewithversion
@@ -18878,62 +18880,62 @@ msgstr ""
 
 #: mainunit2.rswonthaveanyeffectuntilyouopenanewprocess
 msgid "(Won't have any effect until you (re)open a process)"
-msgstr ""
+msgstr "(在你(重新)打开一个进程之前不会生效)"
 
 
 #: mainunit2.strignorevalue
 msgid "Ignore value"
-msgstr ""
+msgstr "忽略值"
 
 
 #: manualmoduleloader.rsmmlnotavalidheader
 msgid "Not a valid header"
-msgstr ""
+msgstr "不是有效的头部"
 
 
 #: memorybrowserformunit.rsbecauseofunhandledexeption
 
 #: memorybrowserformunit.rsinjectdylib
 msgid "Inject DYLIB"
-msgstr ""
+msgstr "注入 DYLIB"
 
 
 #: memorybrowserformunit.rsremovebreakpoint
 msgid "Remove breakpoint"
-msgstr ""
+msgstr "移除断点"
 
 
 #: memorybrowserformunit.rssetbreakpoint
 msgctxt "memorybrowserformunit.rssetbreakpoint"
 msgid "Set breakpoint"
-msgstr ""
+msgstr "设置断点"
 
 
 #: memorybrowserformunit.rssetcustomalignment
 msgctxt "memorybrowserformunit.rssetcustomalignment"
 msgid "Set custom alignment"
-msgstr ""
+msgstr "设置自定义对齐"
 
 
 #: memorybrowserformunit.rssomethinghappened
 msgid "something happened"
-msgstr ""
+msgstr "发生了一些事情"
 
 
 #: memoryrecordunit.rsadjustmrwithrelativeaddress
 msgid "Do you wish to adjust memory records with relative addresses as well?"
-msgstr ""
+msgstr "你是否也要调整具有相对地址的内存记录？"
 
 
 #: memoryrecordunit.rsunknown
 msgctxt "memoryrecordunit.rsunknown"
 msgid "Unknown"
-msgstr ""
+msgstr "未知"
 
 
 #: memscan.rsmspointertypenotrecognised
 msgid "Pointer type not recognised: "
-msgstr ""
+msgstr "无法识别的指针类型："
 
 
 #: networkinterfaceapi.rsinvalidceserverversion
@@ -18942,191 +18944,191 @@ msgstr ""
 
 #: opensave.rsinvalidluafortrainer
 msgid "The lua script in this trainer has some issues and will therefore not load"
-msgstr ""
+msgstr "此修改器中的lua脚本存在问题,因此无法加载"
 
 
 #: opensave.rsyoureabouttoloadanunsignedobfuscatedtableareyousure
 msgid "You're about to load an unsigned obfuscated table while running with admin privileges. Are you sure?"
-msgstr ""
+msgstr "你正在以管理员权限运行时加载未签名的混淆表。你确定吗?"
 
 
 #: peinfounit.rspeclrruntimetable
 msgid "CLR Runtime table"
-msgstr ""
+msgstr "CLR运行时表"
 
 
 #: pointerscancontroller.rspscthechilddidntrespondtopsupdatereplycmdeverythingokasexpected
 msgid "The child didn't respond to PSUPDATEREPLYCMD_EVERYTHINGOK as expected"
-msgstr ""
+msgstr "子进程未按预期响应PSUPDATEREPLYCMD_EVERYTHINGOK"
 
 
 #: pointerscancontroller.rssavingpointermap
 msgid "Saving pointermap"
-msgstr ""
+msgstr "正在保存指针映射"
 
 
 #: pointerscannerfrm.rspsexporttodatabasebiggersizeornot
 msgid "Do you want \"result\" table with indexes and keys? It will take up additional disk space."
-msgstr ""
+msgstr "你想要带有索引和键的\"result\"表吗?这将占用额外的磁盘空间。"
 
 
 #: pointerscannerfrm.rspsexporttodatabasebiggersizeornot_resultid
 msgid "Do you want resultid column filled? It will take up additional disk space."
-msgstr ""
+msgstr "你想要填充结果ID列吗?这将占用额外的磁盘空间。"
 
 
 #: pointerscannerfrm.rspsimporting_sortmethod
 msgid "Do you wish to use offsets sum for sorting?"
-msgstr ""
+msgstr "你想使用偏移量总和进行排序吗?"
 
 
 #: pointerscannerfrm.rspsimporting_sortornot
 msgid "Do you wish to sort pointerlist by level, then module, then offsets?"
-msgstr ""
+msgstr "你想按层级、模块、偏移量的顺序对指针列表进行排序吗?"
 
 
 #: pointerscannersettingsfrm.rsmaxdeviation
 msgid "Max deviation"
-msgstr ""
+msgstr "最大偏差"
 
 
 #: pointerscannersettingsfrm.rsmaxdeviationexplentation
 msgid "The maximum offset size by which the ending offset can differ"
-msgstr ""
+msgstr "结束偏移量可以不同的最大偏移量大小"
 
 
 #: processwindowunit.rsapplications
 msgctxt "processwindowunit.rsapplications"
 msgid "Applications"
-msgstr ""
+msgstr "应用程序"
 
 
 #: processwindowunit.rsprocesses
 msgctxt "processwindowunit.rsprocesses"
 msgid "Processes"
-msgstr ""
+msgstr "进程"
 
 
 #: processwindowunit.rswindows
 msgctxt "processwindowunit.rswindows"
 msgid "Windows"
-msgstr ""
+msgstr "窗口"
 
 
 #: structuresfrm2.rs2bytewithvalue2
 
 #: structuresfrm2.rsarrayofbyte
 msgid "Array of Byte"
-msgstr ""
+msgstr "字节数组"
 
 
 #: structuresfrm2.rsbytewithvalue
 
 #: structuresfrm2.rschanges
 msgid "Changes"
-msgstr ""
+msgstr "变化"
 
 
 #: structuresfrm2.rscreatenewstructurefromchanged
 msgid "Create new structure from changed"
-msgstr ""
+msgstr "从已更改的创建新结构"
 
 
 #: structuresfrm2.rscreatenewstructurefromunchanged
 msgid "Create new structure from unchanged"
-msgstr ""
+msgstr "从未更改的创建新结构"
 
 
 #: structuresfrm2.rsfillintheoffsetyouwanttogoto
 msgid "Fill in the Offset you want to go to"
-msgstr ""
+msgstr "填写你想要跳转到的偏移量"
 
 
 #: structuresfrm2.rsgotooffset
 msgctxt "structuresfrm2.rsgotooffset"
 msgid "Go to Offset"
-msgstr ""
+msgstr "跳转到偏移量"
 
 
 #: structuresfrm2.rshex
 msgid "(Hex)"
-msgstr ""
+msgstr "(十六进制)"
 
 
 #: structuresfrm2.rslinkwithmemoryview
 msgid "Link with memoryview"
-msgstr ""
+msgstr "与内存视图链接"
 
 
 #: structuresfrm2.rslinkwithmemoryviewwindow
 msgid "Link with memoryview window"
-msgstr ""
+msgstr "与内存视图窗口链接"
 
 
 #: structuresfrm2.rsnamethenewstructure
 msgid "Name the new structure"
-msgstr ""
+msgstr "命名新结构"
 
 
 #: structuresfrm2.rspointer
 msgctxt "structuresfrm2.rspointer"
 msgid "Pointer"
-msgstr ""
+msgstr "指针"
 
 
 #: structuresfrm2.rspointertoinstanceofclassname
 
 #: structuresfrm2.rsstopwatchforchanges
 msgid "Stop watch for changes"
-msgstr ""
+msgstr "停止监视变化"
 
 
 #: structuresfrm2.rsstructureaccessoutsidemainthread
 msgid "Structure access outside of main thread is not allowed. Synchronize first"
-msgstr ""
+msgstr "不允许在主线程之外访问结构。请先同步"
 
 
 #: structuresfrm2.rsstructurename
 msgid "Structure name"
-msgstr ""
+msgstr "结构名称"
 
 
 #: structuresfrm2.rsthestructuregotchanged
 msgid "The structure got changed. Aborting"
-msgstr ""
+msgstr "结构已更改。正在中止"
 
 
 #: structuresfrm2.rsunchanged
 msgid "Unchanged"
-msgstr ""
+msgstr "未更改"
 
 
 #: structuresfrm2.rsunicodestring
 msgctxt "structuresfrm2.rsunicodestring"
 msgid "Unicode"
-msgstr ""
+msgstr "Unicode"
 
 
 #: structuresfrm2.rsunlinkfrommemoryviewwindow
 msgid "Unlink from memoryview window"
-msgstr ""
+msgstr "从内存视图窗口取消链接"
 
 
 #: structuresfrm2.rswarnaboutlessthan2addresses
 msgid "It's not recommended to run the structure compare with just one address in a group"
-msgstr ""
+msgstr "不建议在一个组中只使用一个地址运行结构比较"
 
 
 #: structuresfrm2.rswasoldvalue
 
 #: structuresfrm2.rswatchforchanges
 msgid "Watch for changes"
-msgstr ""
+msgstr "监视变化"
 
 
 #: structuresfrm2.rswhichmemoryviewtolinkwith
 msgid "Which memoryview to link with?"
-msgstr ""
+msgstr "要与哪个内存视图链接？"
 
 
 #: tabout.label3.caption
@@ -19136,291 +19138,291 @@ msgstr ""
 
 #: tabout.label6.caption
 msgid "C Compiler by Tiny C-Compiler"
-msgstr ""
+msgstr "由 Tiny C-Compiler 提供的 C 编译器"
 
 
 #: tadvancedoptions.lvcodelist.columns[0].caption
 msgctxt "tadvancedoptions.lvcodelist.columns[0].caption"
 msgid "Address"
-msgstr ""
+msgstr "地址"
 
 
 #: tadvancedoptions.lvcodelist.columns[1].caption
 msgctxt "tadvancedoptions.lvcodelist.columns[1].caption"
 msgid "Name"
-msgstr ""
+msgstr "名称"
 
 
 #: tadvancedoptions.micopytoclipboard.caption
 msgctxt "tadvancedoptions.micopytoclipboard.caption"
 msgid "Copy address to clipboard"
-msgstr ""
+msgstr "复制地址到剪贴板"
 
 
 #: tadvancedoptions.midbvmfindwhatcodeaccesses.caption
 msgid "DBVM Find...."
-msgstr ""
+msgstr "DBVM 查找..."
 
 
 #: tadvancedoptions.minewgroup.caption
 msgctxt "tadvancedoptions.minewgroup.caption"
 msgid "New group"
-msgstr ""
+msgstr "新建组"
 
 
 #: tadvancedoptions.misetcolor.caption
 msgid "Set color"
-msgstr ""
+msgstr "设置颜色"
 
 
 #: tanchoreditor.caption
 msgid "AnchorEditor"
-msgstr ""
+msgstr "锚点编辑器"
 
 
 #: tanchoreditor.cbbottomanchorenabled.caption
 msgctxt "tanchoreditor.cbbottomanchorenabled.caption"
 msgid "Enabled"
-msgstr ""
+msgstr "启用"
 
 
 #: tanchoreditor.cbleftanchorenabled.caption
 msgctxt "tanchoreditor.cbleftanchorenabled.caption"
 msgid "Enabled"
-msgstr ""
+msgstr "启用"
 
 
 #: tanchoreditor.cbrightanchorenabled.caption
 msgctxt "tanchoreditor.cbrightanchorenabled.caption"
 msgid "Enabled"
-msgstr ""
+msgstr "启用"
 
 
 #: tanchoreditor.cbtopanchorenabled.caption
 msgctxt "tanchoreditor.cbtopanchorenabled.caption"
 msgid "Enabled"
-msgstr ""
+msgstr "启用"
 
 
 #: tanchoreditor.gbborderspace.caption
 msgid "border space"
-msgstr ""
+msgstr "边框间距"
 
 
 #: tanchoreditor.gbbottom.caption
 msgid "Bottom anchor"
-msgstr ""
+msgstr "底部锚点"
 
 
 #: tanchoreditor.gbleft.caption
 msgid "Left anchor"
-msgstr ""
+msgstr "左侧锚点"
 
 
 #: tanchoreditor.gbright.caption
 msgid "Right anchor"
-msgstr ""
+msgstr "右侧锚点"
 
 
 #: tanchoreditor.gbtop.caption
 msgid "Top anchor"
-msgstr ""
+msgstr "顶部锚点"
 
 
 #: tanchoreditor.label2.caption
 msgctxt "tanchoreditor.label2.caption"
 msgid "Control"
-msgstr ""
+msgstr "控件"
 
 
 #: tanchoreditor.label3.caption
 msgctxt "tanchoreditor.label3.caption"
 msgid "Control"
-msgstr ""
+msgstr "控件"
 
 
 #: tanchoreditor.label5.caption
 msgctxt "tanchoreditor.label5.caption"
 msgid "Control"
-msgstr ""
+msgstr "控件"
 
 
 #: tanchoreditor.label6.caption
 msgctxt "tanchoreditor.label6.caption"
 msgid "Control"
-msgstr ""
+msgstr "控件"
 
 
 #: tcalloralldialog.button1.caption
 msgctxt "tcalloralldialog.button1.caption"
 msgid "All"
-msgstr ""
+msgstr "全部"
 
 
 #: tcalloralldialog.button2.caption
 msgid "Call's only"
-msgstr ""
+msgstr "仅调用"
 
 
 #: tcalloralldialog.button3.caption
 msgctxt "tcalloralldialog.button3.caption"
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 
 #: tcalloralldialog.caption
 msgctxt "tcalloralldialog.caption"
 msgid "Code Filter"
-msgstr ""
+msgstr "代码过滤器"
 
 
 #: tcalloralldialog.label1.caption
 msgid "Load all instructions into the list or just the CALL's ?"
-msgstr ""
+msgstr "加载所有指令到列表还是仅加载 CALL 指令？"
 
 
 #: tformaddresschange.cbhex.caption
 msgctxt "tformaddresschange.cbhex.caption"
 msgid "Hexadecimal"
-msgstr ""
+msgstr "十六进制"
 
 
 #: tformaddresschange.cbsigned.caption
 msgctxt "tformaddresschange.cbsigned.caption"
 msgid "Signed"
-msgstr ""
+msgstr "有符号"
 
 
 #: tformaddresschange.labeladdress.caption
 msgctxt "tformaddresschange.labeladdress.caption"
 msgid "Address:"
-msgstr ""
+msgstr "地址："
 
 
 #: tformaddresschange.labeldescription.caption
 msgctxt "tformaddresschange.labeldescription.caption"
 msgid "Description"
-msgstr ""
+msgstr "描述"
 
 
 #: tformaddresschange.labeltype.caption
 msgctxt "tformaddresschange.labeltype.caption"
 msgid "Type"
-msgstr ""
+msgstr "类型"
 
 
 #: tformaddresschange.miaddaddresstolist.caption
 msgctxt "tformaddresschange.miaddaddresstolist.caption"
 msgid "Add this address to the list"
-msgstr ""
+msgstr "将此地址添加到列表"
 
 
 #: tformaddresschange.miaddoffsetabove.caption
 msgid "Add Offset Above"
-msgstr ""
+msgstr "在上方添加偏移"
 
 
 #: tformaddresschange.miaddoffsetbelow.caption
 msgid "Add Offset Below"
-msgstr ""
+msgstr "在下方添加偏移"
 
 
 #: tformaddresschange.micopy.caption
 msgctxt "tformaddresschange.micopy.caption"
 msgid "Copy"
-msgstr ""
+msgstr "复制"
 
 
 #: tformaddresschange.micopyaddresstoclipboard.caption
 msgctxt "tformaddresschange.micopyaddresstoclipboard.caption"
 msgid "Copy this address to Clipboard"
-msgstr ""
+msgstr "复制此地址到剪贴板"
 
 
 #: tformaddresschange.micopyfinaladdresstoclipboard.caption
 msgctxt "tformaddresschange.micopyfinaladdresstoclipboard.caption"
 msgid "Copy this address to Clipboard"
-msgstr ""
+msgstr "复制此地址到剪贴板"
 
 
 #: tformaddresschange.micopyvaluetoclipboard.caption
 msgid "Copy this value to Clipboard"
-msgstr ""
+msgstr "复制此值到剪贴板"
 
 
 #: tformaddresschange.micut.caption
 msgctxt "tformaddresschange.micut.caption"
 msgid "Cut"
-msgstr ""
+msgstr "剪切"
 
 
 #: tformaddresschange.mipaste.caption
 msgctxt "tformaddresschange.mipaste.caption"
 msgid "Paste"
-msgstr ""
+msgstr "粘贴"
 
 
 #: tformaddresschange.miremoveoffset.caption
 msgctxt "tformaddresschange.miremoveoffset.caption"
 msgid "Remove Offset"
-msgstr ""
+msgstr "移除偏移"
 
 
 #: tformdesigner.cecustombutton.caption
 msgctxt "tformdesigner.cecustombutton.caption"
 msgid "CECustomButton"
-msgstr ""
+msgstr "CE自定义按钮"
 
 
 #: tformdesigner.cecustombutton.hint
 msgctxt "tformdesigner.cecustombutton.hint"
 msgid "CECustomButton"
-msgstr ""
+msgstr "CE自定义按钮"
 
 
 #: tformdesigner.checklistbox.caption
 msgctxt "tformdesigner.checklistbox.caption"
 msgid "CheckListBox"
-msgstr ""
+msgstr "复选列表框"
 
 
 #: tformdesigner.checklistbox.hint
 msgctxt "tformdesigner.checklistbox.hint"
 msgid "CheckListBox"
-msgstr ""
+msgstr "复选列表框"
 
 
 #: tformdesigner.colorbox.caption
 msgctxt "tformdesigner.colorbox.caption"
 msgid "ColorBox"
-msgstr ""
+msgstr "颜色框"
 
 
 #: tformdesigner.colorbox.hint
 msgctxt "tformdesigner.colorbox.hint"
 msgid "ColorBox"
-msgstr ""
+msgstr "颜色框"
 
 
 #: tformdesigner.lazvirtualstringtree.caption
 msgid "LazVirtualStringTree"
-msgstr ""
+msgstr "Laz虚拟字符串树"
 
 
 #: tformdesigner.lazvirtualstringtree.hint
 msgid "VirtualStringTree"
-msgstr ""
+msgstr "虚拟字符串树"
 
 
 #: tformdesigner.menuitem2.caption
 msgid "Add unlisted object"
-msgstr ""
+msgstr "添加未列出的对象"
 
 
 #: tformdesigner.mianchoreditor2.caption
 msgctxt "tformdesigner.mianchoreditor2.caption"
 msgid "Anchor Editor"
-msgstr ""
+msgstr "锚点编辑器"
 
 
 #: tformfoundcodelistextra.lblcr3.caption
@@ -19461,51 +19463,51 @@ msgstr ""
 #: tformfoundcodelistextra.sbshowipt.hint
 msgctxt "tformfoundcodelistextra.sbshowipt.hint"
 msgid "Stack view"
-msgstr ""
+msgstr "堆栈视图"
 
 
 #: tformpointerorpointee.btnfindwhatwritespointee.caption
 msgid "Find what writes to the address pointed at by this pointer"
-msgstr ""
+msgstr "查找写入此指针所指向地址的内容"
 
 
 #: tformpointerorpointee.btnfindwhatwritespointer.caption
 msgid "Find what writes to this pointer"
-msgstr ""
+msgstr "查找写入此指针的内容"
 
 
 #: tformsettings.btnmakekerneldebugpossible.caption
 msgid "Make possible"
-msgstr ""
+msgstr "使其可能"
 
 
 #: tformsettings.btnrestorekernelprotection.caption
 msgid "Restore Protection"
-msgstr ""
+msgstr "恢复保护"
 
 
 #: tformsettings.cballbyte.caption
 msgctxt "tformsettings.cballbyte.caption"
 msgid "Byte"
-msgstr ""
+msgstr "字节"
 
 
 #: tformsettings.cballcustom.caption
 msgctxt "tformsettings.cballcustom.caption"
 msgid "All Custom Types"
-msgstr ""
+msgstr "所有自定义类型"
 
 
 #: tformsettings.cballdouble.caption
 msgctxt "tformsettings.cballdouble.caption"
 msgid "Double"
-msgstr ""
+msgstr "双精度"
 
 
 #: tformsettings.cballdword.caption
 msgctxt "tformsettings.cballdword.caption"
 msgid "4 Bytes"
-msgstr ""
+msgstr "4字节"
 
 
 #: tformsettings.cballocsaddtowatchedregions.caption
@@ -19517,19 +19519,19 @@ msgstr "自动将CE分配的内存添加为监视区域"
 #: tformsettings.cballqword.caption
 msgctxt "tformsettings.cballqword.caption"
 msgid "8 Bytes"
-msgstr ""
+msgstr "8字节"
 
 
 #: tformsettings.cballsingle.caption
 msgctxt "tformsettings.cballsingle.caption"
 msgid "Float"
-msgstr ""
+msgstr "单精度"
 
 
 #: tformsettings.cballword.caption
 msgctxt "tformsettings.cballword.caption"
 msgid "2 Bytes"
-msgstr ""
+msgstr "2字节"
 
 
 #: tformsettings.cbalwaysaskforpassword.caption
@@ -19624,48 +19626,48 @@ msgstr "在目标JIT代码转为本地代码的情况下使用此选项"
 
 #: tformsettings.cbgdbwritecode2.caption
 msgid "Use debugserver to write code"
-msgstr ""
+msgstr "使用调试服务器写入代码"
 
 
 #: tformsettings.cbgdbwritecode2.hint
 msgctxt "tformsettings.cbgdbwritecode2.hint"
 msgid "Use this in case the target JIT's code to native code"
-msgstr ""
+msgstr "在目标JIT代码转为本地代码的情况下使用此选项"
 
 
 #: tformsettings.cbhideiptcapability.caption
 msgid "Hide IPT features from GUI"
-msgstr ""
+msgstr "在GUI中隐藏IPT功能"
 
 
 #: tformsettings.cbhideiptcapability.hint
 msgid "In case you really do not wish to be reminded of this"
-msgstr ""
+msgstr "如果你真的不想被提醒这个功能"
 
 
 #: tformsettings.cbipttracesize.text
 msgid "8KB"
-msgstr ""
+msgstr "8KB"
 
 
 #: tformsettings.cblaunchgdbserver.caption
 msgid "On debugstart launch gdbserver and connect to localhost on the given port"
-msgstr ""
+msgstr "在调试开始时启动gdbserver并连接到指定端口的localhost"
 
 
 #: tformsettings.cblaunchgdbserver.hint
 msgid "When the debugger starts instead of asking for an HOST/PORT just launch a gdbserver instance yourself and connect to that"
-msgstr ""
+msgstr "当调试器启动时,不询问主机/端口,而是自行启动gdbserver实例并连接到它"
 
 
 #: tformsettings.cbluagarbagecollectall.caption
 msgid "Collect all garbage every few seconds"
-msgstr ""
+msgstr "每隔几秒收集所有垃圾"
 
 
 #: tformsettings.cbluaonlycollectwhenlarger.caption
 msgid "Only when the size is bigger than:"
-msgstr ""
+msgstr "仅当大小大于:"
 
 
 #: tformsettings.cbluapassivegarbagecollection.caption
@@ -19848,82 +19850,82 @@ msgstr ""
 
 #: tformsettings.groupbox4.caption
 msgid "Prefered breakpoint method"
-msgstr ""
+msgstr "首选断点方法"
 
 
 #: tformsettings.label17.caption
 msgctxt "tformsettings.label17.caption"
 msgid "Seconds"
-msgstr ""
+msgstr "秒"
 
 
 #: tformsettings.label20.caption
 msgid "Megabyte"
-msgstr ""
+msgstr "兆字节"
 
 
 #: tformsettings.label25.caption
 msgctxt "tformsettings.label25.caption"
 msgid "ms"
-msgstr ""
+msgstr "毫秒"
 
 
 #: tformsettings.label26.caption
 msgid "GDBServer launch command"
-msgstr ""
+msgstr "GDBServer启动命令"
 
 
 #: tformsettings.label27.caption
 msgctxt "tformsettings.label27.caption"
 msgid "Port"
-msgstr ""
+msgstr "端口"
 
 
 #: tformsettings.lblmaxiptsize.caption
 msgid "Maximum ipt tracesize"
-msgstr ""
+msgstr "最大IPT跟踪大小"
 
 
 #: tformsettings.lblrepeatdelay.caption
 msgid "Repeat scan delay"
-msgstr ""
+msgstr "重复扫描延迟"
 
 
 #: tformsettings.lblrosettalaunchcommand.caption
 msgid "Rosetta debugserver launch command"
-msgstr ""
+msgstr "Rosetta调试服务器启动命令"
 
 
 #: tformsettings.lblrosettaport.caption
 msgctxt "tformsettings.lblrosettaport.caption"
 msgid "Port"
-msgstr ""
+msgstr "端口"
 
 
 #: tformsettings.miunexpectedbreakpointsbreak.caption
 msgctxt "tformsettings.miunexpectedbreakpointsbreak.caption"
 msgid "Break"
-msgstr ""
+msgstr "中断"
 
 
 #: tformsettings.miunexpectedbreakpointsbreakwheninsideregion.caption
 msgid "Break when inside specific regions"
-msgstr ""
+msgstr "在特定区域内时中断"
 
 
 #: tformsettings.miunexpectedbreakpointsignore.caption
 msgid "Ignore"
-msgstr ""
+msgstr "忽略"
 
 
 #: tformsettings.rbmacdebugtasklevel.caption
 msgid "Task Level"
-msgstr ""
+msgstr "任务级别"
 
 
 #: tformsettings.rbmacdebugthreadlevel.caption
 msgid "Thread level"
-msgstr ""
+msgstr "线程级别"
 
 
 #: tformsettings.tabsheet1.caption
@@ -19934,7 +19936,7 @@ msgstr ""
 #: tformsettings.tsgdbdebug.caption
 msgctxt "tformsettings.tsgdbdebug.caption"
 msgid "GDB Server"
-msgstr ""
+msgstr "GDB服务器"
 
 
 #: tformsettings.tslua.caption
@@ -20062,33 +20064,33 @@ msgstr ""
 #: tfrmautoinject.mifindprevious.caption
 msgctxt "tfrmautoinject.mifindprevious.caption"
 msgid "Find Previous"
-msgstr ""
+msgstr "查找上一个"
 
 
 #: tfrmautoinject.miluasyntaxcheck.caption
 msgid "Syntax Check"
-msgstr ""
+msgstr "语法检查"
 
 
 #: tfrmautoinject.mimoveleft.caption
 msgid "Move left"
-msgstr ""
+msgstr "向左移动"
 
 
 #: tfrmautoinject.mimoveright.caption
 msgid "Move right"
-msgstr ""
+msgstr "向右移动"
 
 
 #: tfrmautoinject.minewtab.caption
 msgid "New Tab"
-msgstr ""
+msgstr "新建标签页"
 
 
 #: tfrmautoinject.minewwindow.caption
 msgctxt "tfrmautoinject.minewwindow.caption"
 msgid "New Window"
-msgstr ""
+msgstr "新建窗口"
 
 
 #: tfrmautoinject.mipaste.caption
@@ -20099,19 +20101,19 @@ msgstr ""
 #: tfrmautoinject.miredo.caption
 msgctxt "tfrmautoinject.miredo.caption"
 msgid "Redo"
-msgstr ""
+msgstr "重做"
 
 
 #: tfrmautoinject.mirenametab.caption
 msgctxt "tfrmautoinject.mirenametab.caption"
 msgid "Rename"
-msgstr ""
+msgstr "重命名"
 
 
 #: tfrmautoinject.mireplace.caption
 msgctxt "tfrmautoinject.mireplace.caption"
 msgid "Replace"
-msgstr ""
+msgstr "替换"
 
 
 #: tfrmautoinject.miundo.caption
@@ -20121,28 +20123,28 @@ msgstr ""
 
 #: tfrmbranchmapper.button1.caption
 msgid "Start mapping"
-msgstr ""
+msgstr "开始映射"
 
 
 #: tfrmbranchmapper.button2.caption
 msgctxt "tfrmbranchmapper.button2.caption"
 msgid "Save results to file"
-msgstr ""
+msgstr "保存结果到文件"
 
 
 #: tfrmbranchmapper.caption
 msgid "Branch Mapper"
-msgstr ""
+msgstr "分支映射器"
 
 
 #: tfrmbranchmapper.label1.caption
 msgid "Record branch destinations in the following threads:"
-msgstr ""
+msgstr "记录以下线程中的分支目标:"
 
 
 #: tfrmbranchmapper.label2.caption
 msgid "Found: "
-msgstr ""
+msgstr "找到: "
 
 
 #: tfrmbranchmapper.panel1.caption
@@ -20158,203 +20160,203 @@ msgstr ""
 
 #: tfrmchangedaddresses.labelcodeaddress.caption
 msgid "Code Address"
-msgstr ""
+msgstr "代码地址"
 
 
 #: tfrmchangedaddresses.micbshowassigned.caption
 msgctxt "tfrmchangedaddresses.micbshowassigned.caption"
 msgid "Show as signed"
-msgstr ""
+msgstr "显示为有符号"
 
 
 #: tfrmchangedaddresses.michangevalue.caption
 msgctxt "tfrmchangedaddresses.michangevalue.caption"
 msgid "Change value"
-msgstr ""
+msgstr "更改值"
 
 
 #: tfrmchangedaddresses.micodeaddressbrowsememoryregion.caption
 msgid "Browse Memory Region"
-msgstr ""
+msgstr "浏览内存区域"
 
 
 #: tfrmchangedaddresses.micodeaddresscopy.caption
 msgid "Copy Code Address to Clipboard"
-msgstr ""
+msgstr "复制代码地址到剪贴板"
 
 
 #: tfrmchangedaddresses.micodeaddressdisassemblememoryregion.caption
 msgid "Disassemble Memory Region"
-msgstr ""
+msgstr "反汇编内存区域"
 
 
 #: tfrmchangedaddresses.micommonalitiessubgroup.caption
 msgid "Find commonalities between addresses"
-msgstr ""
+msgstr "查找地址之间的共同点"
 
 
 #: tfrmchangedaddresses.micopyaddresstoclipboard.caption
 msgctxt "tfrmchangedaddresses.micopyaddresstoclipboard.caption"
 msgid "Copy address to clipboard"
-msgstr ""
+msgstr "复制地址到剪贴板"
 
 
 #: tfrmchangedaddresses.micopyvaluetoclipboard.caption
 msgctxt "tfrmchangedaddresses.micopyvaluetoclipboard.caption"
 msgid "Copy value to clipboard"
-msgstr ""
+msgstr "复制值到剪贴板"
 
 
 #: tfrmchangedaddresses.migroupclear.caption
 msgid "Clear Selection"
-msgstr ""
+msgstr "清除选择"
 
 
 #: tfrmchangedaddresses.mimarkasgroup1.caption
 msgid "Mark selection as group 1"
-msgstr ""
+msgstr "将选择标记为组1"
 
 
 #: tfrmchangedaddresses.mimarkasgroup2.caption
 msgid "Mark selection as group 2 (Nothing means everything else)"
-msgstr ""
+msgstr "将选择标记为组2(无选择表示其他所有)"
 
 
 #: tfrmchangedaddresses.miscanforcommonalities.caption
 msgid "Scan for commonalities"
-msgstr ""
+msgstr "扫描共同点"
 
 
 #: tfrmchangedaddresses.misetfilter.caption
 msgctxt "tfrmchangedaddresses.misetfilter.caption"
 msgid "Filter"
-msgstr ""
+msgstr "过滤器"
 
 
 #: tfrmchangedaddresses.mishowiptlog.caption
 msgid "Show IPT log"
-msgstr ""
+msgstr "显示IPT日志"
 
 
 #: tfrmchangedaddresses.panelcontent.caption
 msgid "PanelContent"
-msgstr ""
+msgstr "面板内容"
 
 
 #: tfrmchangedaddressescommonalityscanner.caption
 msgid "Commonality scanner"
-msgstr ""
+msgstr "共同点扫描器"
 
 
 #: tfrmchangedaddressescommonalityscanner.lvregisters.columns[0].caption
 msgid "Register"
-msgstr ""
+msgstr "寄存器"
 
 
 #: tfrmchangedaddressescommonalityscanner.lvregisters.columns[1].caption
 msgid "Status"
-msgstr ""
+msgstr "状态"
 
 
 #: tfrmcodecavescanner.label4.caption
 msgctxt "tfrmcodecavescanner.label4.caption"
 msgid "                      "
-msgstr ""
+msgstr "                      "
 
 
 #: tfrmcodefilter.btncancel.caption
 msgctxt "tfrmcodefilter.btncancel.caption"
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 
 #: tfrmcodefilter.btncancel.hint
 msgid "Cancels the current operation"
-msgstr ""
+msgstr "取消当前操作"
 
 
 #: tfrmcodefilter.btnfilteroutexecutedaddresses.caption
 msgid "Has not been executed"
-msgstr ""
+msgstr "未执行"
 
 
 #: tfrmcodefilter.btnfilteroutexecutedaddresses.hint
 msgid "Removes all addresses from the list that have been executed, and resets the breakpoints on the remaining addresses if the filter is active"
-msgstr ""
+msgstr "从列表中移除所有已执行的地址,如果过滤器处于活动状态,则重置剩余地址的断点"
 
 
 #: tfrmcodefilter.btnfilteroutnonexecutedaddresses.caption
 msgid "Has been executed"
-msgstr ""
+msgstr "已执行"
 
 
 #: tfrmcodefilter.btnfilteroutnonexecutedaddresses.hint
 msgid "Removes all addresses from the list that have not been executed, and resets the breakpoints on the remaining addresses if the filter is active"
-msgstr ""
+msgstr "从列表中移除所有未执行的地址,如果过滤器处于活动状态,则重置剩余地址的断点"
 
 
 #: tfrmcodefilter.btnfromunwindinfo.caption
 msgid "From Unwind Info"
-msgstr ""
+msgstr "从展开信息"
 
 
 #: tfrmcodefilter.btnloadaddressesbydisassembling.caption
 msgid "From Disassembler"
-msgstr ""
+msgstr "从反汇编器"
 
 
 #: tfrmcodefilter.btnloadaddressesbydisassembling.hint
 msgid "Disassembles the code and marks calls.  This can be inaccurate and might end up writing 0xcc's at random/wrong locations"
-msgstr ""
+msgstr "反汇编代码并标记调用。这可能不准确,并可能在随机/错误位置写入0xcc"
 
 
 #: tfrmcodefilter.btnloadaddressesfromfile.caption
 msgid "From File"
-msgstr ""
+msgstr "从文件"
 
 
 #: tfrmcodefilter.btnloadaddressesfromfile.hint
 msgid "Loads a file containing a list of addresses (e.g from a previous filter session or from the branch mapper)"
-msgstr ""
+msgstr "加载包含地址列表的文件(例如来自之前的过滤会话或分支映射器)"
 
 
 #: tfrmcodefilter.btnloadaddressesfromtrace.caption
 msgid "From Trace"
-msgstr ""
+msgstr "从跟踪"
 
 
 #: tfrmcodefilter.btnloadaddressesfromtrace.hint
 msgid "Load a previous trace and filters out the CALL's from there"
-msgstr ""
+msgstr "加载之前的跟踪并从中过滤出CALL指令"
 
 
 #: tfrmcodefilter.btnshowlist.caption
 msgctxt "tfrmcodefilter.btnshowlist.caption"
 msgid "Refresh list"
-msgstr ""
+msgstr "刷新列表"
 
 
 #: tfrmcodefilter.btnstart.caption
 msgctxt "tfrmcodefilter.btnstart.caption"
 msgid "Start"
-msgstr ""
+msgstr "开始"
 
 
 #: tfrmcodefilter.btnstop.caption
 msgctxt "tfrmcodefilter.btnstop.caption"
 msgid "Stop"
-msgstr ""
+msgstr "停止"
 
 
 #: tfrmcodefilter.caption
 msgctxt "tfrmcodefilter.caption"
 msgid "Code Filter"
-msgstr ""
+msgstr "代码过滤器"
 
 
 #: tfrmcodefilter.frmlaunchbranchmapper.caption
 msgid "Launch branch mapper"
-msgstr ""
+msgstr "启动分支映射器"
 
 
 #: tfrmcodefilter.frmlaunchbranchmapper.hint
@@ -20364,6 +20366,10 @@ msgid ""
 "\n"
 "<WARNING: SLOW and recommended as last resort>"
 msgstr ""
+"启动单步执行(仅分支)跟踪并记录遇到的所有唯一IP。你可以将结果与\"从文件\"地址列表一起使用\n"
+"确保你感兴趣的代码至少执行一次\n"
+"\n"
+"<警告:速度很慢,建议作为最后手段>"
 
 
 #: tfrmcodefilter.groupbox1.caption
