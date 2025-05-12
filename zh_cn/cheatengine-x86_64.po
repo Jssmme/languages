@@ -17872,24 +17872,24 @@ msgid "Lua formula"
 msgstr "Lua函数"
 #, object-pascal-format
 msgid "Error attaching the windows debugger: %s"
-msgstr ""
+msgstr "附加Windows调试器时出错: %s"
 
 
 #: addresslist.rssortonclick
 msgid "Sort on click"
-msgstr ""
+msgstr "点击排序"
 
 
 #: advancedoptionsunit.straddanyhow
 msgid "Add anyhow? (It will break restore and undo if overlapping entries get modified)"
-msgstr ""
+msgstr "是否仍要添加?(如果修改了重叠的条目,将会破坏恢复和撤销功能)"
 
 
 #: assemblerunit.rsinvalid64bitvaluefor32bitfield
 
 #: assemblerunit.rsinvalidvaluefor32bit
 msgid "The value provided can not be encoded in a 32-bit field"
-msgstr ""
+msgstr "提供的值无法编码为32位字段"
 
 
 #: autoassembler.rsfailurealloc
@@ -17902,14 +17902,14 @@ msgstr ""
 
 #: autoassembler.rsnearbyallocationerror
 msgid "Nearby allocation error"
-msgstr ""
+msgstr "附近内存分配错误"
 
 
 #: autoassembler.rsnearbyallocationerrormessagequestion
 
 #: autoassembler.rsnopreferedrangeallocwarning
 msgid "None of the ALLOC statements specify a prefered address.  Did you take into account that the JMP instruction is going to be 14 bytes long?"
-msgstr ""
+msgstr "ALLOC语句中没有指定首选地址。你是否考虑到JMP指令将占用14个字节?"
 
 
 #: autoassembler.rstheaddressincreatethreadandwaitisnotvalid
@@ -17918,43 +17918,43 @@ msgstr ""
 
 #: cefuncproc.rsthiscantakesometime
 msgid "This can take some time if you are missing the PDB's and CE will look frozen. Are you sure?"
-msgstr ""
+msgstr "如果缺少PDB文件,这可能需要一些时间,并且CE会看起来卡住。确定要继续吗?"
 
 
 #: dbk32functions.rsdbkblockedduetovulnerabledriverblocklist
 msgid "Failure starting dbk because the vulnerable driver blocklist is enabled and dbk has been added to it. Want to know how to disable this?"
-msgstr ""
+msgstr "由于启用了易受攻击的驱动程序黑名单且dbk已被添加到其中,因此无法启动dbk。想知道如何禁用它吗?"
 
 
 #: dbk32functions.rsfailuretoconfiguretheultimapdriver
 msgid "Failure to configure the ultimap driver"
-msgstr ""
+msgstr "配置ultimap驱动程序失败"
 
 
 #: dbk32functions.rstheservicecouldntgetopenedultimap
 msgid "The ultimap service couldn't get opened and also couldn't get created.  (No admin rights?)"
-msgstr ""
+msgstr "无法打开或创建ultimap服务。(没有管理员权限?)"
 
 
 #: dbvmdebuggerinterface.rsdbvmfunctionneedsdbvm
 msgid "Sorry, but you need DBVM for DBVM level debugging"
-msgstr ""
+msgstr "抱歉,DBVM级别调试需要DBVM支持"
 
 
 #: dbvmdebuggerinterface.rsdbvmlevelnotfor32bit
 msgid "DBVM level debug does not work on the 32-bit CE"
-msgstr ""
+msgstr "DBVM级别调试不适用于32位CE"
 
 
 #: debuggertypedefinitions.rsdbvmbreakpoint
 msgctxt "debuggertypedefinitions.rsdbvmbreakpoint"
 msgid "DBVM Breakpoint"
-msgstr ""
+msgstr "DBVM断点"
 
 
 #: debuggertypedefinitions.rsdbvmnativebreakpoint
 msgid "DBVM-Level Breakpoint"
-msgstr ""
+msgstr "DBVM级别断点"
 
 
 #: debughelper.rsasktoenablenx
@@ -17962,28 +17962,30 @@ msgid ""
 "For execute page exceptions the target process must support No-Execute page support. Currently this process doesn't have this enabled, but if you think the process itself does support it you can enable it.\n"
 "Do you wish to enable No-Execute support for this process?"
 msgstr ""
+"对于执行页异常,目标进程必须支持不可执行页。当前进程未启用此功能,但如果你认为进程本身支持此功能,则可以启用它。\n"
+"是否要为此进程启用不可执行支持?"
 
 
 #: debughelper.rscantenabledep
 msgid "Data execution prevention is not enabled in this process and can not be enabled"
-msgstr ""
+msgstr "此进程未启用数据执行保护,且无法启用"
 
 
 #: debughelper.rsdebuggerattachaborted
 msgid "Debugger attach aborted"
-msgstr ""
+msgstr "调试器附加已中止"
 
 
 #: debughelper.rsdebuggerinterfacedoesnotsupportdbvmbreakpoints
 
 #: debughelper.rsdepsettingtimeout
 msgid "Timeout while trying to set DEP policy. Continue with the breakpoint?"
-msgstr ""
+msgstr "设置DEP策略超时。是否继续设置断点?"
 
 
 #: debughelper.rsfaileddep
 msgid "Failed enabling No Execute"
-msgstr ""
+msgstr "启用不可执行失败"
 
 
 #: debughelper.rsfaileddeppermanently
@@ -17993,30 +17995,30 @@ msgstr ""
 
 #: debughelper.rsfailuregettingdepinformation
 msgid "Failure getting DEP information for this process. No Execute Breakpoint support"
-msgstr ""
+msgstr "获取此进程的DEP信息失败。不可执行断点支持"
 
 
 #: debughelper.rsnoexecutepageexceptionsforyou
 msgid "Execute page exception breakpoints are not possible on your system"
-msgstr ""
+msgstr "您的系统不支持执行页异常断点"
 
 
 #: debughelper.rsprocesssucksnodepsupport
 msgid "Ooops, looks like the process does not support No Execute"
-msgstr ""
+msgstr "糟糕,看起来该进程不支持不可执行"
 
 
 #: debughelper.rsthefollowingaddressesexecute
 
 #: debughelper.rsvmwareisrunningiptbad
 msgid "VMWare seems to be running. It's known that some versions of vmware will cause a BSOD in combination with intel IPT. Do you still want to use intel IPT?"
-msgstr ""
+msgstr "看起来正在运行VMWare。已知某些版本的VMWare与Intel IPT结合使用时会导致蓝屏。你仍然要使用Intel IPT吗?"
 
 
 #: disassemblerviewunit.rscopy
 msgctxt "disassemblerviewunit.rscopy"
 msgid "Copy"
-msgstr ""
+msgstr "复制"
 
 
 #: disassemblerviewunit.rsdebugsymbolsarebeingloaded
@@ -18025,75 +18027,75 @@ msgstr ""
 
 #: disassemblerviewunit.rsstructuresarebeingparsed
 msgid "Structures are being parsed"
-msgstr ""
+msgstr "正在解析结构"
 
 
 #: dissectcodeunit.rsdissectdataloaded
 msgid "Dissect data loaded"
-msgstr ""
+msgstr "已加载分析数据"
 
 
 #: feces.rsispasswordcorrect
 msgid "Is the password correct?"
-msgstr ""
+msgstr "密码是否正确?"
 
 
 #: formaddresschangeunit.rsacaddoffsethint
 msgid "Click: Add New Offset. Ctrl+Click: Add New Offset to the opposite location"
-msgstr ""
+msgstr "点击: 添加新偏移。Ctrl+点击: 在相反位置添加新偏移"
 
 
 #: formaddresschangeunit.rsacremoveoffsethint
 msgid "Click: Remove Offset. Ctrl+Click: Remove Offset from the opposite location"
-msgstr ""
+msgstr "点击: 移除偏移。Ctrl+点击: 从相反位置移除偏移"
 
 
 #: formchangedaddresses.rsareyouwishtodelete
 msgid "Are you sure you wish to delete these entries(s)?"
-msgstr ""
+msgstr "您确定要删除这些条目吗?"
 
 
 #: formchangedaddresses.rscodeaccessesaddresses
 
 #: formchangedaddresses.rscodeaccessessingleaddress
 msgid "This address has been accessed by the code you selected"
-msgstr ""
+msgstr "你选择的代码已访问此地址"
 
 
 #: formchangedaddresses.rsdeleteaddresses
 msgid "Delete addresses"
-msgstr ""
+msgstr "删除地址"
 
 
 #: formchangedaddresses.rsdesignatesomeaddresses
 msgid "Please designate a group to at least some addresses"
-msgstr ""
+msgstr "请至少为一些地址指定一个组"
 
 
 #: formchangedaddresses.rsdisassemblethisaddress
 msgid "Disassemble this address"
-msgstr ""
+msgstr "反汇编此地址"
 
 
 #: formchangedaddresses.rsenterluaformula
 msgid "Enter a Lua formula to use to filter. E.g RCX==0x2301adc0.  Empty for no filter"
-msgstr ""
+msgstr "输入用于过滤的Lua公式。例如 RCX==0x2301adc0。留空表示不过滤"
 
 
 #: formchangedaddresses.rsfilter
 msgctxt "formchangedaddresses.rsfilter"
 msgid "Filter"
-msgstr ""
+msgstr "过滤"
 
 
 #: formchangedaddresses.rsgivethenewvalue
 msgid "Give the new value"
-msgstr ""
+msgstr "输入新值"
 
 
 #: formchangedaddresses.rsinvalidgroups
 msgid "Invalid groups"
-msgstr ""
+msgstr "无效的组"
 
 
 #: formchangedaddresses.rsneedsiptfindwhat
@@ -18101,14 +18103,14 @@ msgctxt "formchangedaddresses.rsneedsiptfindwhat"
 msgid ""
 "The debugger did not collect any IPT data. This may be due to the Intel PT feature not being enabled in settings/malfunctioning, or that the option to also log the trace in \"find what...\" results was disabled. Do you wish to enable this for this debugging session? You will need to recollect this information again though.\n"
 "(This is for this session only. If you wish to always turn it on from the start, go to settings->debugger options, and enable \"Use Intel-PT feature\" and the suboption for recording elements in \"find what ...\" routines)"
-msgstr ""
+msgstr "调试器未收集任何IPT数据。这可能是因为Intel PT功能在设置中未启用/故障,或者在\"查找...\"结果中记录跟踪的选项被禁用。你想在此调试会话中启用它吗?不过你需要重新收集这些信息。\n(这仅适用于此会话。如果你希望从一开始就始终启用它,请转到设置->调试器选项,并启用\"使用Intel-PT功能\"以及在\"查找...\"例程中记录元素的子选项)"
 
 
 #: formchangedaddresses.rsnoaddressesleftforgroup
 
 #: formchangedaddresses.rsvaluechange
 msgid "Value Change"
-msgstr ""
+msgstr "值更改"
 
 
 #: formfoundcodelistextraunit.rsneedsiptfindwhat
@@ -18116,120 +18118,120 @@ msgctxt "formfoundcodelistextraunit.rsneedsiptfindwhat"
 msgid ""
 "The debugger did not collect any IPT data. This may be due to the Intel PT feature not being enabled in settings/malfunctioning, or that the option to also log the trace in \"find what...\" results was disabled. Do you wish to enable this for this debugging session? You will need to recollect this information again though.\n"
 "(This is for this session only. If you wish to always turn it on from the start, go to settings->debugger options, and enable \"Use Intel-PT feature\" and the suboption for recording elements in \"find what ...\" routines)"
-msgstr ""
+msgstr "调试器未收集任何IPT数据。这可能是因为Intel PT功能在设置中未启用/故障,或者在\"查找...\"结果中记录跟踪的选项被禁用。你想在此调试会话中启用它吗?不过你需要重新收集这些信息。\n(这仅适用于此会话。如果你希望从一开始就始终启用它,请转到设置->调试器选项,并启用\"使用Intel-PT功能\"以及在\"查找...\"例程中记录元素的子选项)"
 
 
 #: formmemoryregionsunit.rswritecombine
 msgctxt "formmemoryregionsunit.rswritecombine"
 msgid "Write Combine"
-msgstr ""
+msgstr "写入合并"
 
 
 #: formsettingsunit.rsallcustomtypes
 msgctxt "formsettingsunit.rsallcustomtypes"
 msgid "All Custom Types"
-msgstr ""
+msgstr "所有自定义类型"
 
 
 #: formsettingsunit.rsattachtoforegroundprocess
 msgid "Attach to current foreground process"
-msgstr ""
+msgstr "附加到当前前台进程"
 
 
 #: formsettingsunit.rsfailmmregistry
 msgid "Failure getting the Memory Management registry key"
-msgstr ""
+msgstr "获取内存管理注册表键失败"
 
 
 #: formsettingsunit.rsfailuretoopenregistry
 msgid "Failure to open the registry entry"
-msgstr ""
+msgstr "打开注册表项失败"
 
 
 #: formsettingsunit.rsinvalidsymbolsynctimer
 msgid "The provided value for the symbol sync timer is invalid"
-msgstr ""
+msgstr "提供的符号同步计时器值无效"
 
 
 #: formsettingsunit.rsluaoptions
 msgctxt "formsettingsunit.rsluaoptions"
 msgid "Lua"
-msgstr ""
+msgstr "Lua"
 
 
 #: formsettingsunit.rsspectreregistrychanged
 msgid "The registry keys has been changed accordingly.  Reboot your system to make it take effect"
-msgstr ""
+msgstr "注册表键已相应更改。重启系统以使其生效"
 
 
 #: formsettingsunit.rsspectrerestore
 msgid "Your protection has been restored. Please restart your system to make it take effect"
-msgstr ""
+msgstr "你的保护已恢复。请重启系统以使其生效"
 
 
 #: formsettingsunit.rsspectrewarning
 msgid ""
 "WARNING! Making kernelmode possible will slightly increase the speed of your system, BUT it will make you vulnerable to Spectre attacks\n"
 "Are you ok with this? (You can later re-enable this protection)"
-msgstr ""
+msgstr "警告!启用内核模式会略微提高系统速度,但会使你容易受到Spectre攻击\n你确定要这样做吗?(你可以稍后重新启用此保护)"
 
 
 #: formsettingsunit.rssymbols
 msgctxt "formsettingsunit.rssymbols"
 msgid "Symbols"
-msgstr ""
+msgstr "符号"
 
 
 #: frmautoinjectunit.rs14bytejmp
 msgctxt "frmautoinjectunit.rs14bytejmp"
 msgid "14 Byte JMP (>2GB Distance)"
-msgstr ""
+msgstr "14字节跳转(>2GB距离)"
 
 
 #: frmautoinjectunit.rs5bytejmp
 msgctxt "frmautoinjectunit.rs5bytejmp"
 msgid "5 Byte JMP (<2GB Distance)"
-msgstr ""
+msgstr "5字节跳转(<2GB距离)"
 
 
 #: frmautoinjectunit.rsaaaobtemplate_author
 msgid "Author"
-msgstr ""
+msgstr "作者"
 
 
 #: frmautoinjectunit.rsaaaobtemplate_blabla
 msgid "This script does blah blah blah"
-msgstr ""
+msgstr "此脚本执行某些操作"
 
 
 #: frmautoinjectunit.rsaaaobtemplate_date
 msgid "Date"
-msgstr ""
+msgstr "日期"
 
 
 #: frmautoinjectunit.rsaaaobtemplate_game
 msgid "Game"
-msgstr ""
+msgstr "游戏"
 
 
 #: frmautoinjectunit.rsaaaobtemplate_version
 msgid "Version"
-msgstr ""
+msgstr "版本"
 
 
 #: frmautoinjectunit.rsaadescribeallocatedmemory
 msgid "this is allocated memory, you have read,write,execute access"
-msgstr ""
+msgstr "这是已分配的内存,你拥有读、写、执行权限"
 
 
 #: frmautoinjectunit.rsdescribethatthiscodewilldisablethescript
 msgid "code from here till the end of the code will be used to disable the cheat"
-msgstr ""
+msgstr "从这里到代码结尾的代码将用于禁用作弊"
 
 
 #: frmautoinjectunit.rsdescribethatthiscodewillenablethescript
 msgid "code from here to '[DISABLE]' will be used to enable the cheat"
-msgstr ""
+msgstr "从这里到'[DISABLE]'的代码将用于启用作弊"
 
 
 #: frmautoinjectunit.rserrorinscript
@@ -18238,7 +18240,7 @@ msgstr ""
 
 #: frmautoinjectunit.rseverythingok
 msgid "Everything ok"
-msgstr ""
+msgstr "一切正常"
 
 
 #: frmautoinjectunit.rslessthan2gbdistance
@@ -18258,22 +18260,22 @@ msgstr ""
 
 #: frmautoinjectunit.rsnewnamequestion
 msgid "What should the new name be?"
-msgstr ""
+msgstr "新名称是什么?"
 
 
 #: frmautoinjectunit.rsoriginalcode
 msgid "Original code"
-msgstr ""
+msgstr "原始代码"
 
 
 #: frmautoinjectunit.rsplaceyourcodehere
 msgid "place your code here"
-msgstr ""
+msgstr "在此处放置代码"
 
 
 #: frmautoinjectunit.rsrenametab
 msgid "Rename tab"
-msgstr ""
+msgstr "重命名标签页"
 
 
 #: frmbranchmapperunit.rsfoundnr
@@ -18281,84 +18283,84 @@ msgstr ""
 #: frmbranchmapperunit.rssaveresultstofile
 msgctxt "frmbranchmapperunit.rssaveresultstofile"
 msgid "Save results to file"
-msgstr ""
+msgstr "保存结果到文件"
 
 
 #: frmbranchmapperunit.rsstartmapping
 msgid "Start Mapping"
-msgstr ""
+msgstr "开始映射"
 
 
 #: frmbranchmapperunit.rsstop
 msgctxt "frmbranchmapperunit.rsstop"
 msgid "Stop"
-msgstr ""
+msgstr "停止"
 
 
 #: frmchangedaddressescommonalityscannerunit.rsbaseaddress
 msgctxt "frmchangedaddressescommonalityscannerunit.rsbaseaddress"
 msgid "Base Address"
-msgstr ""
+msgstr "基址"
 
 
 #: frmchangedaddressescommonalityscannerunit.rsdblclicklaunchcomp
 msgid "Doubleclick to launch structure compare"
-msgstr ""
+msgstr "双击启动结构比较"
 
 
 #: frmchangedaddressescommonalityscannerunit.rsshowresults
 msgid "Doubleclick to show scanner/results"
-msgstr ""
+msgstr "双击显示扫描器/结果"
 
 
 #: frmcodefilterunit.rsaddresslist
 
 #: frmcodefilterunit.rsassemblyscanpleasewait
 msgid "Assembly Scan. Please wait"
-msgstr ""
+msgstr "汇编扫描中,请稍候"
 
 
 #: frmcodefilterunit.rscancel
 msgid "Cancel List Refresh"
-msgstr ""
+msgstr "取消列表刷新"
 
 
 #: frmcodefilterunit.rscodefilter
 msgctxt "frmcodefilterunit.rscodefilter"
 msgid "Code Filter"
-msgstr ""
+msgstr "代码过滤器"
 
 
 #: frmcodefilterunit.rsfilteringaddresses
 msgid "Filtering addresses"
-msgstr ""
+msgstr "正在过滤地址"
 
 
 #: frmcodefilterunit.rsno
 msgctxt "frmcodefilterunit.rsno"
 msgid "No"
-msgstr ""
+msgstr "否"
 
 
 #: frmcodefilterunit.rsopenanaddressfile
 msgid "Open an address file"
-msgstr ""
+msgstr "打开地址文件"
 
 
 #: frmcodefilterunit.rssaveanaddressfile
 msgid "Save an address file"
-msgstr ""
+msgstr "保存地址文件"
 
 
 #: frmcodefilterunit.rssettingbreakpoints
 msgid "Setting breakpoints"
-msgstr ""
+msgstr "正在设置断点"
 
 
 #: frmcodefilterunit.rsshowrefreshlist
 msgctxt "frmcodefilterunit.rsshowrefreshlist"
 msgid "Refresh list"
-msgstr ""
+msgstr "刷新列表"
 
 
 #: frmcodefilterunit.rsxisaninvalidrange
@@ -18366,7 +18368,7 @@ msgstr ""
 #: frmcodefilterunit.rsyes
 msgctxt "frmcodefilterunit.rsyes"
 msgid "Yes"
-msgstr ""
+msgstr "是"
 
 
 #: frmcr3switcherunit.rsdbvmcr3log
@@ -18376,7 +18378,7 @@ msgstr ""
 
 #: frmcr3switcherunit.rsdescribedbvmroutine
 msgid "DBVM will record all CR3 values it encounters up to 512 unique ones). How long should it wait? (In seconds)"
-msgstr ""
+msgstr "DBVM将记录遇到的所有CR3值(最多512个不同的值)。需要等待多长时间?(以秒为单位)"
 
 
 #: frmcr3switcherunit.rslongwaitwarning
@@ -18386,26 +18388,26 @@ msgstr ""
 #: frmdisassemblyscanunit.rsdone
 msgctxt "frmdisassemblyscanunit.rsdone"
 msgid "Done"
-msgstr ""
+msgstr "完成"
 
 
 #: frmexceptionregionlistunit.rsconfirmdeleteregion
 
 #: frmexceptionregionlistunit.rseraselistquestion
 msgid "Are you sure the erase the list?"
-msgstr ""
+msgstr "你确定要清空列表吗"
 
 
 #: frmexetrainergeneratorunit.rstrainerfilemissing
 
 #: frmgroupscanalgoritmgeneratorunit.rsrange
 msgid "Range"
-msgstr ""
+msgstr "范围"
 
 
 #: frmgroupscanalgoritmgeneratorunit.rssstaticddynamiceexecutable
 msgid "S=Static D=Dynamic E=Executable"
-msgstr ""
+msgstr "S=静态 D=动态 E=可执行"
 
 
 #: frmluaengineunit.rsluaengine
@@ -19509,7 +19511,7 @@ msgstr ""
 #: tformsettings.cballocsaddtowatchedregions.caption
 msgctxt "tformsettings.cballocsaddtowatchedregions.caption"
 msgid "Automatically add allocated memory by CE as watched regions"
-msgstr ""
+msgstr "自动将CE分配的内存添加为监视区域"
 
 
 #: tformsettings.cballqword.caption
@@ -19532,93 +19534,92 @@ msgstr ""
 
 #: tformsettings.cbalwaysaskforpassword.caption
 msgid "Always ask for password when signing"
-msgstr ""
+msgstr "签名时始终要求输入密码"
 
 
 #: tformsettings.cbalwaysattempttolaunchasadmin.caption
 msgid "Always attempt to launch as admin"
-msgstr ""
+msgstr "始终尝试以管理员权限启动"
 
 
 #: tformsettings.cbalwaysforceload.caption
 msgid "Always force load modules"
-msgstr ""
+msgstr "始终强制加载模块"
 
 
 #: tformsettings.cbalwaysforceload.hint
 msgid ""
 "When enabled CE's internal injectDLL routine will not use loadlibrary in the target at all and always use manual mapping to load the dll\n"
 "(When disabled CE will still use manual mapping when normal dll injection fails)"
-msgstr ""
+msgstr "启用后,CE的内部injectDLL程序将完全不使用目标进程中的loadlibrary,而始终使用手动映射来加载dll\n(禁用时,CE仍会在普通dll注入失败时使用手动映射)"
 
 
 #: tformsettings.cbasktoattachtorosetta.caption
 msgid "Ask to attach"
-msgstr ""
+msgstr "询问是否附加进程"
 
 
 #: tformsettings.cbasktoclearlistonopen.caption
 msgid "Ask to clear list on opening new process"
-msgstr ""
+msgstr "打开新进程时询问是否清空列表"
 
 
 #: tformsettings.cbasktoclearlistonopen.hint
 msgid "When unchecked CE will not clear the list when opening a process"
-msgstr ""
-
+msgstr "未选中时,CE在打开进程时不会清空列表"
 
 #: tformsettings.cbattachdebuggertorosettaonprocessopen.caption
 msgid "Attach debugger to Rosetta targets when opening a process"
-msgstr ""
+msgstr "打开进程时将调试器附加到 Rosetta 目标"
 
 
 #: tformsettings.cbclearsymbolsonprocessopen.caption
 msgctxt "tformsettings.cbclearsymbolsonprocessopen.caption"
 msgid "Clear all symbols when a new process is opened"
-msgstr ""
+msgstr "打开新进程时清除所有符号"
 
 
 #: tformsettings.cbdbvmdebugkernelmodebreaks.caption
 msgid "Kernelmode breaks (when possible)"
-msgstr ""
+msgstr "内核模式断点(如果可能)"
 
 
 #: tformsettings.cbdbvmdebugtargetedprocessonly.caption
 msgid "Targeted process only"
-msgstr ""
+msgstr "仅针对目标进程"
 
 
 #: tformsettings.cbdbvmdebugtriggercow.caption
 msgid "Trigger copy-on-write before activating watches"
-msgstr ""
+msgstr "激活监视前触发写时复制"
 
 
 #: tformsettings.cbdisabledarkmodesupport.caption
 msgid "Disable Dark Mode support (Requires a restart)"
-msgstr ""
+msgstr "禁用深色模式支持(需要重启)"
 
 
 #: tformsettings.cbdontdeletesymbols.caption
 msgctxt "tformsettings.cbdontdeletesymbols.caption"
 msgid "Don't delete symbols when synchronizing"
-msgstr ""
+msgstr "同步时不删除符号"
 
 
 #: tformsettings.cbdontdeletesymbols.hint
 msgctxt "tformsettings.cbdontdeletesymbols.hint"
 msgid "When synchronizing and another CE instance has updated the symbols of the current process, only load new symbols, don't delete symbols that got removed"
-msgstr ""
+msgstr "当同步时,如果另一个CE实例已更新当前进程的符号,则只加载新符号,不删除已移除的符号"
 
 
 #: tformsettings.cbgdbwritecode.caption
 msgid "Use GDB to write code"
-msgstr ""
+msgstr "使用GDB写入代码"
 
 
 #: tformsettings.cbgdbwritecode.hint
 msgctxt "tformsettings.cbgdbwritecode.hint"
 msgid "Use this in case the target JIT's code to native code"
-msgstr ""
+msgstr "在目标JIT代码转为本地代码的情况下使用此选项"
 
 
 #: tformsettings.cbgdbwritecode2.caption
@@ -19669,113 +19670,113 @@ msgstr ""
 
 #: tformsettings.cbluapassivegarbagecollection.caption
 msgid "Passive garbage collection"
-msgstr ""
+msgstr "被动垃圾回收"
 
 
 #: tformsettings.cbluapassivegarbagecollection.hint
 msgid "Constantly runs a few steps of the garbage collector sequence. (Will take a while till all garbage is cleaned if there is a lot)"
-msgstr ""
+msgstr "持续运行垃圾回收器序列的几个步骤。(如果垃圾很多,清理完需要一段时间)"
 
 
 #: tformsettings.cbmanualmapveh.caption
 msgid "Manual map vehdebug dll"
-msgstr ""
+msgstr "手动映射 vehdebug dll"
 
 
 #: tformsettings.cbneverchangeprotection.caption
 msgid "Never change memory protection when editing"
-msgstr ""
+msgstr "编辑时不改变内存保护"
 
 
 #: tformsettings.cbneverchangeprotection.hint
 msgid "When enabled CE will never call \"VirtualProtectEx\" before it changes memory. This means that read-only memory can not be changed then.  (code is usually read only)"
-msgstr ""
+msgstr "启用后CE在更改内存前不会调用\"VirtualProtectEx\"。这意味着只读内存将无法被更改。(代码通常是只读的)"
 
 
 #: tformsettings.cbrecordiptforfindwhatroutines.caption
 msgid "Record trace in elements of \"Find what ... \" routines"
-msgstr ""
+msgstr "在\"查找什么...\"例程的元素中记录跟踪"
 
 
 #: tformsettings.cbrecordiptforfindwhatroutines.hint
 msgid ""
 "When selected every single element in \"find what ...\" routines will get a copy of the trace for that threat at that time. (Can eat a lot of memory if this is high)\n"
 "When deselected you can only get the trace information when stopped on a breakpoint. "
-msgstr ""
+msgstr "选中时,\"查找什么...\"例程中的每个元素都会获得当时该线程的跟踪副本。(如果数量很大会占用大量内存)\n取消选中时,只有在断点停止时才能获取跟踪信息。"
 
 
 #: tformsettings.cbsavememoryregionscansettings.caption
 msgid "Save the memoryregions to scan options"
-msgstr ""
+msgstr "保存内存区域扫描选项"
 
 
 #: tformsettings.cbsavememoryregionscansettings.hint
 msgid "Saves \"Writable\" \"Executable\" \"Copy-On-Write\"  "
-msgstr ""
+msgstr "保存\"可写\"\"可执行\"\"写时复制\"选项"
 
 
 #: tformsettings.cbskippdb.caption
 msgid "Do not load external debug symbols like .PDB/.DBG files (Breaks tables that use these symbols)"
-msgstr ""
+msgstr "不加载外部调试符号如 .PDB/.DBG 文件(会破坏使用这些符号的表)"
 
 
 #: tformsettings.cbskip_page_writecombine.caption
 msgid "Don't scan memory that is protected with the Write Combine option"
-msgstr ""
+msgstr "不扫描受写入合并选项保护的内存"
 
 
 #: tformsettings.cbsymbolsyncinterval.caption
 msgctxt "tformsettings.cbsymbolsyncinterval.caption"
 msgid "Synchronize every few seconds"
-msgstr ""
+msgstr "每隔几秒同步一次"
 
 
 #: tformsettings.cbsymbolsyncinterval.hint
 msgctxt "tformsettings.cbsymbolsyncinterval.hint"
 msgid "When checked the symbols will be synchronized with other CE instances every few seconds. When not checked, only when a CE instance gets closed or a different process gets opened"
-msgstr ""
+msgstr "选中时,符号将每隔几秒与其他 CE 实例同步。未选中时,仅在 CE 实例关闭或打开不同进程时同步"
 
 
 #: tformsettings.cbsynchronizesymbols.caption
 msgctxt "tformsettings.cbsynchronizesymbols.caption"
 msgid "Synchronize symbols"
-msgstr ""
+msgstr "同步符号"
 
 
 #: tformsettings.cbsynchronizesymbols.hint
 msgctxt "tformsettings.cbsynchronizesymbols.hint"
 msgid "Share symbollists with other CE instances that have the same process open, and remember them when closing and reopening CE"
-msgstr ""
+msgstr "与打开相同进程的其他 CE 实例共享符号列表,并在关闭和重新打开 CE 时记住它们"
 
 
 #: tformsettings.cbusedbvmdebugger.caption
 msgid "DBVM-level debugger"
-msgstr ""
+msgstr "DBVM 调试器"
 
 
 #: tformsettings.cbusegdbserver.caption
 msgid "GDB Server Debugger"
-msgstr ""
+msgstr "GDB 服务器调试器"
 
 
 #: tformsettings.cbuseintelpt.caption
 msgid "Use intel-PT feature when the debugger is enabled"
-msgstr ""
+msgstr "当调试器启用时使用 Intel-PT 功能"
 
 
 #: tformsettings.cbusemacdebugger.caption
 msgid "MacOS debugger"
-msgstr ""
+msgstr "MacOS 调试器"
 
 
 #: tformsettings.cbuserosettadebugserver.caption
 msgid "Use rosetta debugserver on rosetta targets"
-msgstr ""
+msgstr "在 Rosetta 目标上使用 Rosetta 调试服务器"
 
 
 #: tformsettings.cbusethreadforfreeze.caption
 msgid "Use thread for freeze"
-msgstr ""
+msgstr "使用线程进行冻结"
 
 
 #: tformsettings.edtgdbport.text
@@ -19944,86 +19945,86 @@ msgstr ""
 
 #: tformsettings.tsmacdebuggerinterface.caption
 msgid "Mac Debug"
-msgstr ""
+msgstr "Mac调试"
 
 
 #: tformsettings.tssymbols.caption
 msgctxt "tformsettings.tssymbols.caption"
 msgid "Symbols"
-msgstr ""
+msgstr "符号"
 
 
 #: tfoundcodedialog.description.caption
 msgid "example"
-msgstr ""
+msgstr "示例"
 
 
 #: tfoundcodedialog.mifindwhatcodeaccesses.caption
 msgctxt "tfoundcodedialog.mifindwhatcodeaccesses.caption"
 msgid "Find out what addresses this code accesses"
-msgstr ""
+msgstr "查找此代码访问的地址"
 
 
 #: tframehotkeyconfig.btnexcludeprocesses.caption
 msgctxt "tframehotkeyconfig.btnexcludeprocesses.caption"
 msgid "More..."
-msgstr ""
+msgstr "更多..."
 
 
 #: tframehotkeyconfig.cbcenteronpopup.caption
 msgctxt "tframehotkeyconfig.cbcenteronpopup.caption"
 msgid "Center Cheat Engine when bringing to front"
-msgstr ""
+msgstr "将Cheat Engine置于前台时居中显示"
 
 
 #: tframehotkeyconfig.cbhideallwindows.caption
 msgctxt "tframehotkeyconfig.cbhideallwindows.caption"
 msgid "Hide some/all windows instead of trying to bring cheat engine to front"
-msgstr ""
+msgstr "隐藏部分/所有窗口而不是尝试将Cheat Engine置于前台"
 
 
 #: tfrmaaeditprefs.cbfontquality.hint
 msgctxt "tfrmaaeditprefs.cbfontquality.hint"
 msgid "The font quality can impact speed"
-msgstr ""
+msgstr "字体质量会影响速度"
 
 
 #: tfrmaaeditprefs.label2.caption
 msgctxt "tfrmaaeditprefs.label2.caption"
 msgid "Font quality"
-msgstr ""
+msgstr "字体质量"
 
 
 #: tfrmaccessedmemory.lbllost.caption
 msgid "Lost"
-msgstr ""
+msgstr "丢失"
 
 
 #: tfrmaccessedmemory.vsresults.header.columns[0].text
 msgid "Page Base"
-msgstr ""
+msgstr "页基址"
 
 
 #: tfrmaccessedmemory.vsresults.header.columns[1].text
 msgid "First Accessed By"
-msgstr ""
+msgstr "首次访问者"
 
 
 #: tfrmautoinject.btnexecute.caption
 msgctxt "tfrmautoinject.btnexecute.caption"
 msgid "Execute"
-msgstr ""
+msgstr "执行"
 
 
 #: tfrmautoinject.menuitem2.caption
 msgctxt "tfrmautoinject.menuitem2.caption"
 msgid "Lua syntax highlighting preferences"
-msgstr ""
+msgstr "Lua语法高亮首选项"
 
 
 #: tfrmautoinject.menuitem3.caption
 msgid "Auto assembler syntax highlighting preferences"
-msgstr ""
+msgstr "自动汇编器语法高亮首选项"
 
 
 #: tfrmautoinject.mi14bytejmp.caption
@@ -22457,7 +22458,7 @@ msgstr ""
 
 #: tmainform.miobfuscatetable.caption
 msgid "Obfuscate currently loaded table"
-msgstr ""
+msgstr "混淆当前加载的表"
 
 
 #: tmainform.mionlyshowcurrentcomparetocolumn.caption

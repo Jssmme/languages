@@ -56,7 +56,7 @@ msgstr "修补"
 
 #: patchscan-rwo
 msgid "Restore with original"
-msgstr "用原稿还原"
+msgstr "用原版还原"
 
 #: patchscan-rp
 msgid "Reapply patch"
