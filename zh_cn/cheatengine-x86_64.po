@@ -15201,11 +15201,11 @@ msgstr "删除"
 
 #: thotkeyform.tabsheet1.caption
 msgid "TabSheet1"
-msgstr "TabSheet1"
+msgstr "表格1"
 
 #: thotkeyform.tabsheet2.caption
 msgid "TabSheet2"
-msgstr "TabSheet2"
+msgstr "表格2"
 
 #: tinputboxtop.button1.caption
 msgctxt "TINPUTBOXTOP.BUTTON1.CAPTION"
@@ -15219,16 +15219,16 @@ msgstr "取消"
 
 #: tinputboxtop.edit1.text
 msgid "edit1"
-msgstr "edit1"
+msgstr "编辑1"
 
 #: tinputboxtop.label1.caption
 msgctxt "TINPUTBOXTOP.LABEL1.CAPTION"
 msgid "Label1"
-msgstr "Label1"
+msgstr "标签1"
 
 #: tlgunit.rsyouwin
 msgid "OMG, You must have cheated or don't have a life. (Although some people claim that thats the same)"
-msgstr "天啊, 你不要在欺骗自已了. (尽管有些人声称这是一样的)"
+msgstr "天啊, 你要么开了挂要么没有生活. (尽管有些人声称这是一样的)"
 
 #: tmainform.a1.caption
 msgid "a"
@@ -15342,8 +15342,8 @@ msgstr "重新计算新的地址"
 
 #: tmainform.caption
 msgctxt "TMAINFORM.CAPTION"
-msgid "Cheat Engine 6.7"
-msgstr "Cheat Engine 6.7"
+msgid "Cheat Engine 7.6"
+msgstr "Cheat Engine 7.6"
 
 #: tmainform.cbcasesensitive.caption
 msgctxt "TMAINFORM.CBCASESENSITIVE.CAPTION"
@@ -22212,18 +22212,18 @@ msgstr ""
 
 #: tfrmultimap2.lvthreads.columns[3].caption
 msgid "Processing"
-msgstr ""
+msgstr "处理中"
 
 
 #: tfrmultimap2.menuitem2.caption
 msgctxt "tfrmultimap2.menuitem2.caption"
 msgid "File"
-msgstr ""
+msgstr "文件"
 
 
 #: tfrmultimap2.menuitem3.caption
 msgid "Open tracefile reader"
-msgstr ""
+msgstr "打开跟踪文件阅读器"
 
 
 #: tfrmultimap2.menuitem4.caption
@@ -23030,7 +23030,7 @@ msgstr ""
 
 #: tmemorybrowser.tbtogglebreakpoint.caption
 msgid "Toggle Breakpoint"
-msgstr ""
+msgstr "切换断点"
 
 
 #: tmemorybrowser.tbtogglebreakpoint.hint
@@ -23051,31 +23051,31 @@ msgstr ""
 
 #: tprocesswindow.miconvertpidtodecimal.caption
 msgid "Convert PID to decimal"
-msgstr ""
+msgstr "将PID转换为十进制"
 
 
 #: tprocesswindow.mirefresh.caption
 msgctxt "tprocesswindow.mirefresh.caption"
 msgid "Refresh"
-msgstr ""
+msgstr "刷新"
 
 
 #: tprocesswindow.tsapplications.caption
 msgctxt "tprocesswindow.tsapplications.caption"
 msgid "Applications"
-msgstr ""
+msgstr "应用"
 
 
 #: tprocesswindow.tsprocesses.caption
 msgctxt "tprocesswindow.tsprocesses.caption"
 msgid "Processes"
-msgstr ""
+msgstr "进程"
 
 
 #: tprocesswindow.tswindows.caption
 msgctxt "tprocesswindow.tswindows.caption"
 msgid "Windows"
-msgstr ""
+msgstr "窗口"
 
 
 #: tregisters.labelregisters.caption
@@ -23129,23 +23129,23 @@ msgstr ""
 #: tregisters.mibrowsememoryregion.caption
 msgctxt "tregisters.mibrowsememoryregion.caption"
 msgid "Browse this memory region"
-msgstr ""
+msgstr "浏览相关内存区域"
 
 
 #: tregisters.micopyallregisterstoclipboard.caption
 msgid "Copy all registers values to clipboard"
-msgstr ""
+msgstr "复制所有寄存器值到剪贴板"
 
 
 #: tregisters.micopyregistervaluetoclipboard.caption
 msgid "Copy selected register value to clipboard"
-msgstr ""
+msgstr "将选定的寄存器值复制到剪贴板"
 
 
 #: tregisters.midisassemblememoryregion.caption
 msgctxt "tregisters.midisassemblememoryregion.caption"
 msgid "Disassemble this memory region"
-msgstr ""
+msgstr "反汇编该内存区域"
 
 
 #: ttypeform.bitlengthedit.text
@@ -23157,7 +23157,7 @@ msgstr ""
 #: ttypeform.buttoncancel.caption
 msgctxt "ttypeform.buttoncancel.caption"
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 
 #: ttypeform.buttonok.caption
