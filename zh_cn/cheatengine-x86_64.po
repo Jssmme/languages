@@ -20374,24 +20374,24 @@ msgstr ""
 
 #: tfrmcodefilter.groupbox1.caption
 msgid "Load address list"
-msgstr ""
+msgstr "加载地址列表"
 
 
 #: tfrmcodefilter.label1.caption
 msgid ""
 "This will place software breakpoints(0xcc) on many locations of interest (Usually CALLs) and then track which ones get executed and which ones do not.\n"
 "By specifying that some code has been executed and some not you can filter down the list till it's only ones you're interested in"
-msgstr ""
+msgstr "这将在许多感兴趣的位置(通常是CALL指令)放置软件断点(0xcc),然后跟踪哪些被执行,哪些没有。\n通过指定某些代码已执行而某些未执行,你可以过滤列表直到只剩下你感兴趣的部分"
 
 
 #: tfrmcodefilter.label3.caption
 msgid "Addresses executed since last filter operation:"
-msgstr ""
+msgstr "自上次过滤操作以来执行的地址:"
 
 
 #: tfrmcodefilter.lbladdresslist.caption
 msgid "Address List"
-msgstr ""
+msgstr "地址列表"
 
 
 #: tfrmcodefilter.lblexecutecount.caption
@@ -20402,34 +20402,34 @@ msgstr ""
 
 #: tfrmcodefilter.lblstatus.caption
 msgid "Doing something"
-msgstr ""
+msgstr "正在执行操作"
 
 
 #: tfrmcodefilter.lvresults.columns[0].caption
 msgctxt "tfrmcodefilter.lvresults.columns[0].caption"
 msgid "Address"
-msgstr ""
+msgstr "地址"
 
 
 #: tfrmcodefilter.lvresults.columns[1].caption
 msgid "Executed"
-msgstr ""
+msgstr "已执行"
 
 
 #: tfrmcodefilter.miclearlist.caption
 msgctxt "tfrmcodefilter.miclearlist.caption"
 msgid "Clear list"
-msgstr ""
+msgstr "清除列表"
 
 
 #: tfrmcodefilter.mideleteselecteditems.caption
 msgid "Delete selected addresses"
-msgstr ""
+msgstr "删除选中的地址"
 
 
 #: tfrmcodefilter.misaveaddresslist.caption
 msgid "Save addresslist"
-msgstr ""
+msgstr "保存地址列表"
 
 
 #: tfrmcodefilter.panel1.caption
@@ -20441,93 +20441,93 @@ msgstr ""
 #: tfrmcr3switcher.btnsetcr3.caption
 msgctxt "tfrmcr3switcher.btnsetcr3.caption"
 msgid "Set"
-msgstr ""
+msgstr "设置"
 
 
 #: tfrmcr3switcher.caption
 msgid "Pagebase Switcher (CR3)"
-msgstr ""
+msgstr "页基址切换器 (CR3)"
 
 
 #: tfrmcr3switcher.edtnewcr3.hint
 msgid "Set to 0 or empty and click set to go back to normal windows or DBK memory API"
-msgstr ""
+msgstr "设置为0或留空并点击设置以返回到普通Windows或DBK内存API"
 
 
 #: tfrmcr3switcher.label1.caption
 msgid "Select or type the new page base address (CR3) for this memory view window"
-msgstr ""
+msgstr "为此内存视图窗口选择或输入新的页基址(CR3)"
 
 
 #: tfrmcr3switcher.menuitem1.caption
 msgid "Record CR3 list"
-msgstr ""
+msgstr "记录 CR3 列表"
 
 
 #: tfrmd3dhooksnapshotconfig.gbpictureformat.caption
 msgid "Picture Format"
-msgstr ""
+msgstr "图片格式"
 
 
 #: tfrmd3dhooksnapshotconfig.rbformatbmp.caption
 msgid "BMP (Fast, but requires a gigantic harddisk) "
-msgstr ""
+msgstr "BMP (速度快，但需要巨大的硬盘空间)"
 
 
 #: tfrmd3dhooksnapshotconfig.rbformatpng.caption
 msgid "PNG (Slow, small files)"
-msgstr ""
+msgstr "PNG (速度慢，文件小)"
 
 
 #: tfrmdbvmwatchconfig.btnok.caption
 msgid "Start watch"
-msgstr ""
+msgstr "开始监视"
 
 
 #: tfrmdbvmwatchconfig.button2.caption
 msgctxt "tfrmdbvmwatchconfig.button2.caption"
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 
 #: tfrmdbvmwatchconfig.caption
 msgid "DBVM Watch Config"
-msgstr ""
+msgstr "DBVM 监视配置"
 
 
 #: tfrmdbvmwatchconfig.cblockpage.caption
 msgid "Lock page"
-msgstr ""
+msgstr "锁定页面"
 
 
 #: tfrmdbvmwatchconfig.cblockpage.hint
 msgid "This prevents the given page to get swapped out and later replaced by another physical address.  (Make sure you unlock before the game quits)"
-msgstr ""
+msgstr "这可以防止给定页面被换出并在之后被另一个物理地址替换。(确保在游戏退出前解锁)"
 
 
 #: tfrmdbvmwatchconfig.cbmultiplerip.caption
 msgid "Same instruction multiple times (different registers)"
-msgstr ""
+msgstr "同一指令多次执行(不同寄存器)"
 
 
 #: tfrmdbvmwatchconfig.cbsavefpu.caption
 msgid "Log FPU data"
-msgstr ""
+msgstr "记录 FPU 数据"
 
 
 #: tfrmdbvmwatchconfig.cbsavestack.caption
 msgid "Log stack"
-msgstr ""
+msgstr "记录堆栈"
 
 
 #: tfrmdbvmwatchconfig.cbsavestack.hint
 msgid "Saves a stacksnapshot of 4KB for each logged entry"
-msgstr ""
+msgstr "为每个记录的条目保存 4KB 的堆栈快照"
 
 
 #: tfrmdbvmwatchconfig.cbwholepage.caption
 msgid "Log whole page instead of address range"
-msgstr ""
+msgstr "记录整个页面而不是地址范围"
 
 
 #: tfrmdbvmwatchconfig.edtmaxentries.text
@@ -20538,53 +20538,53 @@ msgstr ""
 #: tfrmdbvmwatchconfig.edtphysicaladdress.texthint
 msgctxt "tfrmdbvmwatchconfig.edtphysicaladdress.texthint"
 msgid "Physical Address"
-msgstr ""
+msgstr "物理地址"
 
 
 #: tfrmdbvmwatchconfig.gbaccesstype.caption
 msgid "Access Type"
-msgstr ""
+msgstr "访问类型"
 
 
 #: tfrmdbvmwatchconfig.label3.caption
 msgid "Max buffersize (entries)"
-msgstr ""
+msgstr "最大缓冲区大小(条目)"
 
 
 #: tfrmdbvmwatchconfig.lblphysicaladdress.caption
 msgid "Physical Address:"
-msgstr ""
+msgstr "物理地址:"
 
 
 #: tfrmdbvmwatchconfig.lblvirtualaddress.caption
 msgid "Virtual Address: "
-msgstr ""
+msgstr "虚拟地址: "
 
 
 #: tfrmdbvmwatchconfig.rbexecuteaccess.caption
 msgid "Execute Access"
-msgstr ""
+msgstr "执行访问"
 
 
 #: tfrmdbvmwatchconfig.rbreadaccess.caption
 msgid "Read/Write Access"
-msgstr ""
+msgstr "读/写访问"
 
 
 #: tfrmdbvmwatchconfig.rbwriteaccess.caption
 msgid "Write Access "
-msgstr ""
+msgstr "写入访问"
 
 
 #: tfrmdebuggerattachtimeout.button1.caption
 msgid "Cancel wait"
-msgstr ""
+msgstr "取消等待"
 
 
 #: tfrmdebuggerattachtimeout.caption
 msgctxt "tfrmdebuggerattachtimeout.caption"
 msgid "Debugger attach timeout"
-msgstr ""
+msgstr "调试器附加超时"
 
 
 #: tfrmdebuggerattachtimeout.label1.caption
@@ -20594,7 +20594,7 @@ msgid ""
 "Beware though that this will not stop the attaching process currently going on in the target process so you may have to restart the target process if you do wish to debug anyhow (and it may still freeze a few moments while symbols are being waited for)\n"
 "\n"
 "(This window will disappear automatically when attaching has finished. Closing it manually is the same as pressing cancel)"
-msgstr ""
+msgstr "调试器附加需要一些时间。当有许多符号或系统运行缓慢时这是正常的，请耐心等待。但如果您没有时间等待或程序已崩溃到桌面，则可以取消等待。\n\n请注意，这不会停止目标进程中当前正在进行的附加过程，因此如果您仍然希望进行调试，可能需要重新启动目标进程(在等待符号时可能仍会冻结几分钟)\n\n(附加完成后此窗口将自动消失。手动关闭与按取消效果相同)"
 
 
 #: tfrmdebuggerattachtimeout.lblstatus.caption
@@ -20605,278 +20605,278 @@ msgstr ""
 #: tfrmdebugsymbolstructurelist.btnsearch.caption
 msgctxt "tfrmdebugsymbolstructurelist.btnsearch.caption"
 msgid "Search"
-msgstr ""
+msgstr "搜索"
 
 
 #: tfrmdebugsymbolstructurelist.btnselect.caption
 msgctxt "tfrmdebugsymbolstructurelist.btnselect.caption"
 msgid "Select"
-msgstr ""
+msgstr "选择"
 
 
 #: tfrmdebugsymbolstructurelist.caption
 msgid "Symbol structures"
-msgstr ""
+msgstr "符号结构"
 
 
 #: tfrmdebugsymbolstructurelist.label2.caption
 msgid "Search pattern:"
-msgstr ""
+msgstr "搜索模式:"
 
 
 #: tfrmdebugsymbolstructurelist.lblcount.caption
 msgid "There are currently xxx structures in the database"
-msgstr ""
+msgstr "数据库中当前有xxx个结构"
 
 
 #: tfrmdebugsymbolstructurelist.lvstructlist.columns[0].caption
 msgctxt "tfrmdebugsymbolstructurelist.lvstructlist.columns[0].caption"
 msgid "Structures"
-msgstr ""
+msgstr "结构"
 
 
 #: tfrmdissectcode.label10.caption
 msgid "Custom range stop"
-msgstr ""
+msgstr "自定义范围结束"
 
 
 #: tfrmdissectcode.label8.caption
 msgid "Custom range start"
-msgstr ""
+msgstr "自定义范围开始"
 
 
 #: tfrmdissectcode.menuitem1.caption
 msgctxt "tfrmdissectcode.menuitem1.caption"
 msgid "File"
-msgstr ""
+msgstr "文件"
 
 
 #: tfrmdissectcode.menuitem2.caption
 msgctxt "tfrmdissectcode.menuitem2.caption"
 msgid "Open"
-msgstr ""
+msgstr "打开"
 
 
 #: tfrmdissectcode.menuitem3.caption
 msgctxt "tfrmdissectcode.menuitem3.caption"
 msgid "Save"
-msgstr ""
+msgstr "保存"
 
 
 #: tfrmdriverlist.menuitem1.caption
 msgid "Find Exportname"
-msgstr ""
+msgstr "查找导出名称"
 
 
 #: tfrmenumeratedlls.copysymbolname.caption
 msgid "Copy Symbol Name"
-msgstr ""
+msgstr "复制符号名称"
 
 
 #: tfrmenumeratedlls.mifindnext.caption
 msgctxt "tfrmenumeratedlls.mifindnext.caption"
 msgid "Find Next..."
-msgstr ""
+msgstr "查找下一个..."
 
 
 #: tfrmexceptionignorelist.btnadd.caption
 msgid "Add Exception "
-msgstr ""
+msgstr "添加异常"
 
 
 #: tfrmexceptionignorelist.caption
 msgid "Exception ignore list"
-msgstr ""
+msgstr "异常忽略列表"
 
 
 #: tfrmexceptionignorelist.label1.caption
 msgid "The following exceptions will be ignored"
-msgstr ""
+msgstr "以下异常将被忽略"
 
 
 #: tfrmexceptionignorelist.label2.caption
 msgid "Exception code"
-msgstr ""
+msgstr "异常代码"
 
 
 #: tfrmexceptionignorelist.midelete.caption
 msgctxt "tfrmexceptionignorelist.midelete.caption"
 msgid "Delete"
-msgstr ""
+msgstr "删除"
 
 
 #: tfrmexetrainergenerator.cbccode.caption
 msgid "C-Code"
-msgstr ""
+msgstr "C代码"
 
 
 #: tfrmexetrainergenerator.cbincludes.caption
 msgid "C-#includes"
-msgstr ""
+msgstr "C-#包含"
 
 
 #: tfrmfinddialog.btnfind.caption
 msgctxt "tfrmfinddialog.btnfind.caption"
 msgid "Find"
-msgstr ""
+msgstr "查找"
 
 
 #: tfrmfinddialog.button1.caption
 msgctxt "tfrmfinddialog.button1.caption"
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 
 #: tfrmfinddialog.caption
 msgctxt "tfrmfinddialog.caption"
 msgid "Find"
-msgstr ""
+msgstr "查找"
 
 
 #: tfrmfinddialog.cbcasesensitive.caption
 msgctxt "tfrmfinddialog.cbcasesensitive.caption"
 msgid "Case sensitive"
-msgstr ""
+msgstr "区分大小写"
 
 
 #: tfrmfinddialog.gbdirection.caption
 msgid "Direction"
-msgstr ""
+msgstr "方向"
 
 
 #: tfrmfinddialog.label1.caption
 msgctxt "tfrmfinddialog.label1.caption"
 msgid "Text"
-msgstr ""
+msgstr "文本"
 
 
 #: tfrmfinddialog.lbldescription.caption
 msgid "Enter the text to search:"
-msgstr ""
+msgstr "输入要搜索的文本:"
 
 
 #: tfrmfinddialog.rbdirectiondown.caption
 msgid "Down"
-msgstr ""
+msgstr "向下"
 
 
 #: tfrmfinddialog.rbdirectionup.caption
 msgid "Up"
-msgstr ""
+msgstr "向上"
 
 
 #: tfrmfloatingpointpanel.cbclassicview.caption
 msgid "Classic view"
-msgstr ""
+msgstr "经典视图"
 
 
 #: tfrmfloatingpointpanel.cbcontextsection.text
 msgid "XMMRegisters"
-msgstr ""
+msgstr "XMM寄存器"
 
 
 #: tfrmfloatingpointpanel.cbdisplaytype.text
 msgctxt "tfrmfloatingpointpanel.cbdisplaytype.text"
 msgid "Float"
-msgstr ""
+msgstr "浮点"
 
 
 #: tfrmfoundlistpreferences.btncancel.caption
 msgctxt "tfrmfoundlistpreferences.btncancel.caption"
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 
 #: tfrmfoundlistpreferences.btnfont.caption
 msgid "Font"
-msgstr ""
+msgstr "字体"
 
 
 #: tfrmfoundlistpreferences.btnok.caption
 msgctxt "tfrmfoundlistpreferences.btnok.caption"
 msgid "OK"
-msgstr ""
+msgstr "好"
 
 
 #: tfrmfoundlistpreferences.caption
 msgid "Foundlist Customizer"
-msgstr ""
+msgstr "搜索结果列表自定义器"
 
 
 #: tfrmfoundlistpreferences.cbshowstaticasstatic.caption
 msgid "Show static addresses using their static notation"
-msgstr ""
+msgstr "使用静态表示法显示静态地址"
 
 
 #: tfrmfoundlistpreferences.cbusethisfontsize.caption
 msgid "override font size"
-msgstr ""
+msgstr "覆盖字体大小"
 
 
 #: tfrmfoundlistpreferences.label1.caption
 msgctxt "tfrmfoundlistpreferences.label1.caption"
 msgid "Static"
-msgstr ""
+msgstr "静态"
 
 
 #: tfrmfoundlistpreferences.label2.caption
 msgid "Example"
-msgstr ""
+msgstr "示例"
 
 
 #: tfrmfoundlistpreferences.label3.caption
 msgid "Dynamic"
-msgstr ""
+msgstr "动态"
 
 
 #: tfrmfoundlistpreferences.label4.caption
 msgid "Normal value"
-msgstr ""
+msgstr "正常值"
 
 
 #: tfrmfoundlistpreferences.label5.caption
 msgctxt "tfrmfoundlistpreferences.label5.caption"
 msgid "Changed value"
-msgstr ""
+msgstr "已更改的值"
 
 
 #: tfrmfoundlistpreferences.label6.caption
 msgctxt "tfrmfoundlistpreferences.label6.caption"
 msgid "Background color"
-msgstr ""
+msgstr "背景颜色"
 
 
 #: tfrmfoundlistpreferences.label7.caption
 msgid "'Compare To' header color"
-msgstr ""
+msgstr "'比较到'标题颜色"
 
 
 #: tfrmfoundlistpreferences.listview1.columns[0].caption
 msgctxt "tfrmfoundlistpreferences.listview1.columns[0].caption"
 msgid "Address"
-msgstr ""
+msgstr "地址"
 
 
 #: tfrmfoundlistpreferences.listview1.columns[1].caption
 msgctxt "tfrmfoundlistpreferences.listview1.columns[1].caption"
 msgid "Value"
-msgstr ""
+msgstr "值"
 
 
 #: tfrmfoundlistpreferences.pnlexample.caption
 msgid "pnlExample"
-msgstr ""
+msgstr "示例面板"
 
 
 #: tfrmgdbserverconnectdialog.button1.caption
 msgctxt "tfrmgdbserverconnectdialog.button1.caption"
 msgid "Connect"
-msgstr ""
+msgstr "连接"
 
 
 #: tfrmgdbserverconnectdialog.caption
 msgid "GDB Server connect"
-msgstr ""
+msgstr "GDB 服务器连接"
 
 
 #: tfrmgdbserverconnectdialog.edit1.text
@@ -20892,88 +20892,88 @@ msgstr ""
 
 #: tfrmgdbserverconnectdialog.label1.caption
 msgid "Hostname"
-msgstr ""
+msgstr "主机名"
 
 
 #: tfrmgdbserverconnectdialog.label2.caption
 msgctxt "tfrmgdbserverconnectdialog.label2.caption"
 msgid "Port"
-msgstr ""
+msgstr "端口"
 
 
 #: tfrmhighlightereditor.button1.caption
 msgctxt "tfrmhighlightereditor.button1.caption"
 msgid "OK"
-msgstr ""
+msgstr "好"
 
 
 #: tfrmhighlightereditor.button2.caption
 msgctxt "tfrmhighlightereditor.button2.caption"
 msgid "Cancel"
-msgstr ""
+msgstr "取消"
 
 
 #: tfrmhighlightereditor.caption
 msgid "Highlighter configurator"
-msgstr ""
+msgstr "高亮配置器"
 
 
 #: tfrmhighlightereditor.cbbold.caption
 msgid "Bold"
-msgstr ""
+msgstr "粗体"
 
 
 #: tfrmhighlightereditor.cbitalic.caption
 msgid "Italic"
-msgstr ""
+msgstr "斜体"
 
 
 #: tfrmhighlightereditor.cbstrikeout.caption
 msgid "Strikeout"
-msgstr ""
+msgstr "删除线"
 
 
 #: tfrmhighlightereditor.cbunderline.caption
 msgid "Underline"
-msgstr ""
+msgstr "下划线"
 
 
 #: tfrmhighlightereditor.label2.caption
 msgctxt "tfrmhighlightereditor.label2.caption"
 msgid "Background Color"
-msgstr ""
+msgstr "背景颜色"
 
 
 #: tfrmhighlightereditor.label3.caption
 msgid "Foreground Color"
-msgstr ""
+msgstr "前景颜色"
 
 
 #: tfrmhighlightereditor.label4.caption
 msgid "Style"
-msgstr ""
+msgstr "样式"
 
 
 #: tfrmiptlogdisplay.btnfetchall.caption
 msgctxt "tfrmiptlogdisplay.btnfetchall.caption"
 msgid "Fetch All"
-msgstr ""
+msgstr "获取全部"
 
 
 #: tfrmiptlogdisplay.btnfetchmore.caption
 msgctxt "tfrmiptlogdisplay.btnfetchmore.caption"
 msgid "Fetch more"
-msgstr ""
+msgstr "获取更多"
 
 
 #: tfrmiptlogdisplay.caption
 msgid "IPT Log Display"
-msgstr ""
+msgstr "IPT 日志显示"
 
 
 #: tfrmiptlogdisplay.cbshowastree.caption
 msgid "Show as tree"
-msgstr ""
+msgstr "以树形显示"
 
 
 #: tfrmiptlogdisplay.lblcount.caption
@@ -20985,313 +20985,313 @@ msgstr ""
 #: tfrmiptlogdisplay.lvresults.columns[0].caption
 msgctxt "tfrmiptlogdisplay.lvresults.columns[0].caption"
 msgid "Frequency"
-msgstr ""
+msgstr "频率"
 
 
 #: tfrmiptlogdisplay.lvresults.columns[1].caption
 msgctxt "tfrmiptlogdisplay.lvresults.columns[1].caption"
 msgid "Address"
-msgstr ""
+msgstr "地址"
 
 
 #: tfrmiptlogdisplay.lvresults.columns[2].caption
 msgctxt "tfrmiptlogdisplay.lvresults.columns[2].caption"
 msgid "Instruction"
-msgstr ""
+msgstr "指令"
 
 
 #: tfrmiptlogdisplay.menuitem1.caption
 msgctxt "tfrmiptlogdisplay.menuitem1.caption"
 msgid "Expand all"
-msgstr ""
+msgstr "全部展开"
 
 
 #: tfrmiptlogdisplay.menuitem2.caption
 msgctxt "tfrmiptlogdisplay.menuitem2.caption"
 msgid "Collapse all"
-msgstr ""
+msgstr "全部折叠"
 
 
 #: tfrmiptlogdisplay.menuitem3.caption
 msgid "Save to textfile"
-msgstr ""
+msgstr "保存为文本文件"
 
 
 #: tfrmiptlogdisplay.mifile.caption
 msgctxt "tfrmiptlogdisplay.mifile.caption"
 msgid "File"
-msgstr ""
+msgstr "文件"
 
 
 #: tfrmiptlogdisplay.misavetofile.caption
 msgctxt "tfrmiptlogdisplay.misavetofile.caption"
 msgid "Save to file"
-msgstr ""
+msgstr "保存到文件"
 
 
 #: tfrmluaengine.menuitem15.caption
 msgctxt "tfrmluaengine.menuitem15.caption"
 msgid "Lua syntax highlighting preferences"
-msgstr ""
+msgstr "Lua 语法高亮首选项"
 
 
 #: tfrmluaengine.miautocomplete.caption
 msgid "Autocomplete"
-msgstr ""
+msgstr "自动完成"
 
 
 #: tfrmluaengine.micopy.caption
 msgctxt "tfrmluaengine.micopy.caption"
 msgid "Copy"
-msgstr ""
+msgstr "复制"
 
 
 #: tfrmluaengine.mictrlccancelsscript.caption
 msgid "Ctrl+Alt+C cancels current script"
-msgstr ""
+msgstr "Ctrl+Alt+C 取消当前脚本"
 
 
 #: tfrmluaengine.mictrlccancelsscript.hint
 msgid "This makes the the script run under the Lua debugger even when no breakpoint is set. This will allow the script to get canceled when it sees CTRL and C are down (Slows down the script slightly)"
-msgstr ""
+msgstr "这会使脚本在 Lua 调试器下运行，即使没有设置断点。当检测到按下 CTRL 和 C 键时，脚本可以被取消（会略微降低脚本运行速度）"
 
 
 #: tfrmluaengine.micut.caption
 msgctxt "tfrmluaengine.micut.caption"
 msgid "Cut"
-msgstr ""
+msgstr "剪切"
 
 
 #: tfrmluaengine.midebug.caption
 msgctxt "tfrmluaengine.midebug.caption"
 msgid "Debug"
-msgstr ""
+msgstr "调试"
 
 
 #: tfrmluaengine.mifind.caption
 msgctxt "tfrmluaengine.mifind.caption"
 msgid "Find"
-msgstr ""
+msgstr "查找"
 
 
 #: tfrmluaengine.mifindreplace.caption
 msgid "Find/Replace"
-msgstr ""
+msgstr "查找/替换"
 
 
 #: tfrmluaengine.mipaste.caption
 msgctxt "tfrmluaengine.mipaste.caption"
 msgid "Paste"
-msgstr ""
+msgstr "粘贴"
 
 
 #: tfrmluaengine.miredo.caption
 msgctxt "tfrmluaengine.miredo.caption"
 msgid "Redo"
-msgstr ""
+msgstr "重做"
 
 
 #: tfrmluaengine.misavecurrentscriptas.caption
 msgid "Save current script as..."
-msgstr ""
+msgstr "将当前脚本另存为..."
 
 
 #: tfrmluaengine.mishowscriptinoutput.caption
 msgid "Show script in output"
-msgstr ""
+msgstr "在输出中显示脚本"
 
 
 #: tfrmluaengine.miundo.caption
 msgctxt "tfrmluaengine.miundo.caption"
 msgid "Undo"
-msgstr ""
+msgstr "撤销"
 
 
 #: tfrmmemoryrecorddropdownsettings.copy1.caption
 msgctxt "tfrmmemoryrecorddropdownsettings.copy1.caption"
 msgid "Copy"
-msgstr ""
+msgstr "复制"
 
 
 #: tfrmmemoryrecorddropdownsettings.cut1.caption
 msgctxt "tfrmmemoryrecorddropdownsettings.cut1.caption"
 msgid "Cut"
-msgstr ""
+msgstr "剪切"
 
 
 #: tfrmmemoryrecorddropdownsettings.label3.caption
 msgid "*:Text Value to display if no value in the list is found"
-msgstr ""
+msgstr "*:当列表中找不到值时显示的文本值"
 
 
 #: tfrmmemoryrecorddropdownsettings.lblformat.caption
 msgid "Format:"
-msgstr ""
+msgstr "格式:"
 
 
 #: tfrmmemoryrecorddropdownsettings.paste1.caption
 msgctxt "tfrmmemoryrecorddropdownsettings.paste1.caption"
 msgid "Paste"
-msgstr ""
+msgstr "粘贴"
 
 
 #: tfrmmemoryrecorddropdownsettings.undo1.caption
 msgctxt "tfrmmemoryrecorddropdownsettings.undo1.caption"
 msgid "Undo"
-msgstr ""
+msgstr "撤销"
 
 
 #: tfrmmemviewpreferences.btnregisterviewfont.caption
 msgid "Change registerview font"
-msgstr ""
+msgstr "更改寄存器视图字体"
 
 
 #: tfrmmemviewpreferences.cbcenterdisassemblerwhenoutsideview.caption
 msgid "Center disassembler when changing address outside of current view"
-msgstr ""
+msgstr "当更改当前视图外的地址时居中反汇编器"
 
 
 #: tfrmmemviewpreferences.cbfontquality.hint
 msgctxt "tfrmmemviewpreferences.cbfontquality.hint"
 msgid "The font quality can impact speed"
-msgstr ""
+msgstr "字体质量会影响速度"
 
 
 #: tfrmmemviewpreferences.cbfontquality.text
 msgctxt "tfrmmemviewpreferences.cbfontquality.text"
 msgid "Default"
-msgstr ""
+msgstr "默认"
 
 
 #: tfrmmemviewpreferences.cboriginalrenderingsystem.caption
 msgid "Original rendering system (Slow on mac)"
-msgstr ""
+msgstr "原始渲染系统(在Mac上较慢)"
 
 
 #: tfrmmemviewpreferences.cbpastemovescursor.caption
 msgid "Paste moves cursor"
-msgstr ""
+msgstr "粘贴时移动光标"
 
 
 #: tfrmmemviewpreferences.cbpastemovescursor.hint
 msgid "When pasting move the cursor by the size of the paste"
-msgstr ""
+msgstr "粘贴时根据粘贴内容的大小移动光标"
 
 
 #: tfrmmemviewpreferences.groupbox6.caption
 msgid "Register panel"
-msgstr ""
+msgstr "寄存器面板"
 
 
 #: tfrmmemviewpreferences.groupbox7.caption
 msgctxt "tfrmmemviewpreferences.groupbox7.caption"
 msgid "Text"
-msgstr ""
+msgstr "文本"
 
 
 #: tfrmmemviewpreferences.groupbox7.hint
 msgid "Left click to change the font color, rightclick to change the background color"
-msgstr ""
+msgstr "左键点击更改字体颜色，右键点击更改背景颜色"
 
 
 #: tfrmmemviewpreferences.label1.caption
 msgctxt "tfrmmemviewpreferences.label1.caption"
 msgid "Font quality"
-msgstr ""
+msgstr "字体质量"
 
 
 #: tfrmmemviewpreferences.lblhexbreakpoint.caption
 msgctxt "tfrmmemviewpreferences.lblhexbreakpoint.caption"
 msgid "Breakpoint"
-msgstr ""
+msgstr "断点"
 
 
 #: tfrmmemviewpreferences.lblhexcursor.caption
 msgid "Cursor"
-msgstr ""
+msgstr "光标"
 
 
 #: tfrmmemviewpreferences.lblhexdifferent.caption
 msgid "Different"
-msgstr ""
+msgstr "不同"
 
 
 #: tfrmmemviewpreferences.lblhexediting.caption
 msgid "Editing"
-msgstr ""
+msgstr "编辑"
 
 
 #: tfrmmemviewpreferences.lblhexfadecolor.caption
 msgid "FadeColor"
-msgstr ""
+msgstr "淡出颜色"
 
 
 #: tfrmmemviewpreferences.lblhexhighlighted.caption
 msgctxt "tfrmmemviewpreferences.lblhexhighlighted.caption"
 msgid "Highlighted"
-msgstr ""
+msgstr "高亮"
 
 
 #: tfrmmemviewpreferences.lblhexnormal.caption
 msgctxt "tfrmmemviewpreferences.lblhexnormal.caption"
 msgid "Normal"
-msgstr ""
+msgstr "正常"
 
 
 #: tfrmmemviewpreferences.lblhexsecondaryediting.caption
 msgid "SecondaryEditing"
-msgstr ""
+msgstr "次要编辑"
 
 
 #: tfrmmemviewpreferences.lblhexseperator.caption
 msgid "Seperator line"
-msgstr ""
+msgstr "分隔线"
 
 
 #: tfrmmemviewpreferences.lblhexstatic.caption
 msgctxt "tfrmmemviewpreferences.lblhexstatic.caption"
 msgid "Static"
-msgstr ""
+msgstr "静态"
 
 
 #: tfrmmemviewpreferences.lblhextopline.caption
 msgid "Top line"
-msgstr ""
+msgstr "顶部线"
 
 
 #: tfrmmemviewpreferences.lblreghighlightaccess.caption
 msgid "Highlight Access"
-msgstr ""
+msgstr "高亮访问"
 
 
 #: tfrmmemviewpreferences.lblreghighlightchange.caption
 msgid "Highlight Change"
-msgstr ""
+msgstr "高亮更改"
 
 
 #: tfrmmicrotransactions.bitbtn1.caption
 msgid "BUY 10 for $0.99"
-msgstr ""
+msgstr "购买10个,价格$0.99"
 
 
 #: tfrmmicrotransactions.bitbtn2.caption
 msgid "BUY 100 for $8.99"
-msgstr ""
+msgstr "购买100个,价格$8.99"
 
 
 #: tfrmmicrotransactions.bitbtn3.caption
 msgid "BUY 1000 for $79.99"
-msgstr ""
+msgstr "购买1000个,价格$79.99"
 
 
 #: tfrmmicrotransactions.caption
 msgid "Cheat-E-Coins"
-msgstr ""
+msgstr "Cheat-E 金币"
 
 
 #: tfrmmicrotransactions.label1.caption
 msgid "Cheat-E-coins left in your inventory:"
-msgstr ""
+msgstr "你的库存中剩余的 Cheat-E 金币:"
 
 
 #: tfrmmicrotransactions.label2.caption
@@ -21301,18 +21301,18 @@ msgstr ""
 
 #: tfrmmodifyregisters.cbchangeext.caption
 msgid "Change extended state (FPU/XMM)"
-msgstr ""
+msgstr "更改扩展状态 (FPU/XMM)"
 
 
 #: tfrmmodifyregisters.cbusedbvm.caption
 msgid "Use DBVM Cloaked BP's"
-msgstr ""
+msgstr "使用 DBVM 隐藏断点"
 
 
 #: tfrmmodifyregisters.edtpa.texthint
 msgctxt "tfrmmodifyregisters.edtpa.texthint"
 msgid "Physical Address"
-msgstr ""
+msgstr "物理地址"
 
 
 #: tfrmmodifyregisters.label10.caption
@@ -21323,40 +21323,40 @@ msgstr ""
 #: tfrmmodifyregisters.lblflags.caption
 msgctxt "tfrmmodifyregisters.lblflags.caption"
 msgid "Flags"
-msgstr ""
+msgstr "标志位"
 
 
 #: tfrmnetworkconfig.lbloptionalname.caption
 msgid "Name (Optional)"
-msgstr ""
+msgstr "名称(可选)"
 
 
 #: tfrmnetworkconfig.lviplist.columns[0].caption
 msgid "IP/Name"
-msgstr ""
+msgstr "IP/名称"
 
 
 #: tfrmnetworkconfig.lviplist.columns[1].caption
 msgctxt "tfrmnetworkconfig.lviplist.columns[1].caption"
 msgid "Port"
-msgstr ""
+msgstr "端口"
 
 
 #: tfrmnetworkconfig.midelete.caption
 msgctxt "tfrmnetworkconfig.midelete.caption"
 msgid "Delete"
-msgstr ""
+msgstr "删除"
 
 
 #: tfrmnetworkconfig.mirefresh.caption
 msgctxt "tfrmnetworkconfig.mirefresh.caption"
 msgid "Refresh list"
-msgstr ""
+msgstr "刷新列表"
 
 
 #: tfrmpastetableentry.cbchildrenaswell.caption
 msgid "Adjust children as well"
-msgstr ""
+msgstr "同时调整子项"
 
 
 #: tfrmpastetableentry.edtpointerlastoffset.text
@@ -21367,160 +21367,160 @@ msgstr ""
 
 #: tfrmpastetableentry.label4.caption
 msgid "Adjust pointer last offset by: "
-msgstr ""
+msgstr "调整指针最后偏移量:"
 
 
 #: tfrmpointerscanner.cbtype.text
 msgctxt "tfrmpointerscanner.cbtype.text"
 msgid "4 Byte"
-msgstr ""
+msgstr "4 字节"
 
 
 #: tfrmpointerscanner.mihexadecimal.caption
 msgctxt "tfrmpointerscanner.mihexadecimal.caption"
 msgid "Hexadecimal"
-msgstr ""
+msgstr "十六进制"
 
 
 #: tfrmpointerscanner.misigned.caption
 msgctxt "tfrmpointerscanner.misigned.caption"
 msgid "Signed"
-msgstr ""
+msgstr "有符号"
 
 
 #: tfrmpointerscannersettings.cbbenchmark.caption
 msgid "Benchmark system"
-msgstr ""
+msgstr "基准测试系统"
 
 
 #: tfrmpointerscannersettings.cbignoreupperbyte.caption
 msgid "Ignore upper byte of pointers"
-msgstr ""
+msgstr "忽略指针的高字节"
 
 
 #: tfrmpointerscannersettings.cbnegativeoffsets.caption
 msgid "Also scan for negative offsets"
-msgstr ""
+msgstr "同时扫描负偏移"
 
 
 #: tfrmpointerscannersettings.cbnegativeoffsets.hint
 msgid ""
 "Let's you scan for negative offsets\n"
 "Can not be used in combination with compressed pointerscan files"
-msgstr ""
+msgstr "让你扫描负偏移\n不能与压缩的指针扫描文件一起使用"
 
 
 #: tfrmpointerscannersettings.cbscanresidentmemory.caption
 msgid "Only scan resident memory"
-msgstr ""
+msgstr "仅扫描驻留内存"
 
 
 #: tfrmpointerscannersettings.cbscanresidentmemory.hint
 msgid "Skip paged out memory pages"
-msgstr ""
+msgstr "跳过已分页出的内存页"
 
 
 #: tfrmrearrangestructurelist.caption
 msgid "Manage structure list"
-msgstr ""
+msgstr "管理结构列表"
 
 
 #: tfrmrearrangestructurelist.menuitem1.caption
 msgid "Delete selected records"
-msgstr ""
+msgstr "删除选中的记录"
 
 
 #: tfrmreferencedfunctions.mifilter.caption
 msgid "Filter by name"
-msgstr ""
+msgstr "按名称过滤"
 
 
 #: tfrmreferencedfunctions.mifind.caption
 msgctxt "tfrmreferencedfunctions.mifind.caption"
 msgid "Find..."
-msgstr ""
+msgstr "查找..."
 
 
 #: tfrmreferencedfunctions.misort.caption
 msgid "Sort by name"
-msgstr ""
+msgstr "按名称排序"
 
 
 #: tfrmreferencedstrings.lvstringlist.columns[3].caption
 msgctxt "tfrmreferencedstrings.lvstringlist.columns[3].caption"
 msgid "String"
-msgstr ""
+msgstr "字符串"
 
 
 #: tfrmsavedisassembly.cbcomment.caption
 msgctxt "tfrmsavedisassembly.cbcomment.caption"
 msgid "Comment"
-msgstr ""
+msgstr "注释"
 
 
 #: tfrmselectionlist.btnok.caption
 msgid "    OK    "
-msgstr ""
+msgstr "    确定    "
 
 
 #: tfrmsourcedisplay.caption
 msgid "frmSourceDisplay"
-msgstr ""
+msgstr "源代码显示"
 
 
 #: tfrmsourcedisplay.menuitem1.caption
 msgid "View Disassembly"
-msgstr ""
+msgstr "查看反汇编"
 
 
 #: tfrmsourcedisplay.menuitem2.caption
 msgid "Toggle BP"
-msgstr ""
+msgstr "切换断点"
 
 
 #: tfrmsourcedisplay.menuitem3.caption
 msgctxt "tfrmsourcedisplay.menuitem3.caption"
 msgid "Run"
-msgstr ""
+msgstr "运行"
 
 
 #: tfrmsourcedisplay.menuitem4.caption
 msgctxt "tfrmsourcedisplay.menuitem4.caption"
 msgid "Step Into"
-msgstr ""
+msgstr "单步进入"
 
 
 #: tfrmsourcedisplay.menuitem5.caption
 msgctxt "tfrmsourcedisplay.menuitem5.caption"
 msgid "Step Over"
-msgstr ""
+msgstr "单步跳过"
 
 
 #: tfrmsourcedisplay.menuitem6.caption
 msgctxt "tfrmsourcedisplay.menuitem6.caption"
 msgid "Step Out"
-msgstr ""
+msgstr "单步退出"
 
 
 #: tfrmsourcedisplay.menuitem7.caption
 msgid "Run Till..."
-msgstr ""
+msgstr "运行到..."
 
 
 #: tfrmsourcedisplay.tbdebug.caption
 msgctxt "tfrmsourcedisplay.tbdebug.caption"
 msgid "tbDebug"
-msgstr ""
+msgstr "调试工具栏"
 
 
 #: tfrmsourcedisplay.tbrun.hint
 msgid "Run (F9)"
-msgstr ""
+msgstr "运行 (F9)"
 
 
 #: tfrmsourcedisplay.tbruntill.hint
 msgid "(Run Till...) F4"
-msgstr ""
+msgstr "(运行到...) F4"
 
 
 #: tfrmsourcedisplay.tbseparator1.caption
