@@ -21526,91 +21526,91 @@ msgstr "(运行到...) F4"
 #: tfrmsourcedisplay.tbseparator1.caption
 msgctxt "tfrmsourcedisplay.tbseparator1.caption"
 msgid "tbSeparator1"
-msgstr ""
+msgstr "分隔符1"
 
 
 #: tfrmsourcedisplay.tbseparator2.caption
 msgctxt "tfrmsourcedisplay.tbseparator2.caption"
 msgid "tbSeparator2"
-msgstr ""
+msgstr "分隔符2"
 
 
 #: tfrmsourcedisplay.tbseparator3.caption
 msgctxt "tfrmsourcedisplay.tbseparator3.caption"
 msgid "tbSeparator3"
-msgstr ""
+msgstr "分隔符3"
 
 
 #: tfrmsourcedisplay.tbstepinto.hint
 msgid "Step Into (F7)"
-msgstr ""
+msgstr "单步进入 (F7)"
 
 
 #: tfrmsourcedisplay.tbstepout.hint
 msgid "(Step Out) Shift+F8"
-msgstr ""
+msgstr "(单步退出) Shift+F8"
 
 
 #: tfrmsourcedisplay.tbstepover.hint
 msgid "Step Over(F8)"
-msgstr ""
+msgstr "单步跳过(F8)"
 
 
 #: tfrmsourcedisplay.tbtogglebreakpoint.hint
 msgid "Toggle Breakpoint (F5)"
-msgstr ""
+msgstr "切换断点 (F5)"
 
 
 #: tfrmstructurecompare.btnaddaddresslf.caption
 msgctxt "tfrmstructurecompare.btnaddaddresslf.caption"
 msgid "Add Address"
-msgstr ""
+msgstr "添加地址"
 
 
 #: tfrmstructurecompare.btnaddaddressnlf.caption
 msgctxt "tfrmstructurecompare.btnaddaddressnlf.caption"
 msgid "Add Address"
-msgstr ""
+msgstr "添加地址"
 
 
 #: tfrmstructurecompare.btnnewscan.caption
 msgctxt "tfrmstructurecompare.btnnewscan.caption"
 msgid "New Scan"
-msgstr ""
+msgstr "新扫描"
 
 
 #: tfrmstructurecompare.btnscan.caption
 msgctxt "tfrmstructurecompare.btnscan.caption"
 msgid "Scan"
-msgstr ""
+msgstr "扫描"
 
 
 #: tfrmstructurecompare.caption
 msgctxt "tfrmstructurecompare.caption"
 msgid "Structure Compare"
-msgstr ""
+msgstr "结构比较"
 
 
 #: tfrmstructurecompare.cbhexadecimal.caption
 msgctxt "tfrmstructurecompare.cbhexadecimal.caption"
 msgid "Hexadecimal"
-msgstr ""
+msgstr "十六进制"
 
 
 #: tfrmstructurecompare.cbsameonly.caption
 msgid "Only find matching groups"
-msgstr ""
+msgstr "仅查找匹配的组"
 
 
 #: tfrmstructurecompare.cbsameonly.hint
 msgid "With this enabled it will only return results when both group 1 has matching values and group 2 has matching values, and group2's value is not the same as group1"
-msgstr ""
+msgstr "启用此选项后，只有当组1和组2都有匹配值，且组2的值与组1不同时才会返回结果"
 
 
 #: tfrmstructurecompare.combotype.text
 msgctxt "tfrmstructurecompare.combotype.text"
 msgid "4 Bytes"
-msgstr ""
+msgstr "4字节"
 
 
 #: tfrmstructurecompare.edtalignsize.hint
@@ -21639,386 +21639,386 @@ msgstr ""
 #: tfrmstructurecompare.gblf.caption
 msgctxt "tfrmstructurecompare.gblf.caption"
 msgid "Group 1"
-msgstr ""
+msgstr "组 1"
 
 
 #: tfrmstructurecompare.gbnlf.caption
 msgid "Group 2"
-msgstr ""
+msgstr "组 2"
 
 
 #: tfrmstructurecompare.lblalign.caption
 msgid "element compare size"
-msgstr ""
+msgstr "元素比较大小"
 
 
 #: tfrmstructurecompare.lblinfo.caption
 msgctxt "tfrmstructurecompare.lblinfo.caption"
 msgid "Info"
-msgstr ""
+msgstr "信息"
 
 
 #: tfrmstructurecompare.lblmaxlevel.caption
 msgctxt "tfrmstructurecompare.lblmaxlevel.caption"
 msgid "Max Level"
-msgstr ""
+msgstr "最大层级"
 
 
 #: tfrmstructurecompare.lblstructsize.caption
 msgctxt "tfrmstructurecompare.lblstructsize.caption"
 msgid "Structsize"
-msgstr ""
+msgstr "结构大小"
 
 
 #: tfrmstructurecompare.lblvds.caption
 msgctxt "tfrmstructurecompare.lblvds.caption"
 msgid "Variable display type"
-msgstr ""
+msgstr "变量显示类型"
 
 
 #: tfrmstructurecompare.menuitem1.caption
 msgctxt "tfrmstructurecompare.menuitem1.caption"
 msgid "File"
-msgstr ""
+msgstr "文件"
 
 
 #: tfrmstructurecompare.menuitem5.caption
 msgctxt "tfrmstructurecompare.menuitem5.caption"
 msgid "Rescan"
-msgstr ""
+msgstr "重新扫描"
 
 
 #: tfrmstructurecompare.menuitem6.caption
 msgctxt "tfrmstructurecompare.menuitem6.caption"
 msgid "Filter pointerlist"
-msgstr ""
+msgstr "过滤指针列表"
 
 
 #: tfrmstructurecompare.menuitem7.caption
 msgctxt "tfrmstructurecompare.menuitem7.caption"
 msgid "New Window"
-msgstr ""
+msgstr "新窗口"
 
 
 #: tfrmstructurecompare.miclearcache.caption
 msgctxt "tfrmstructurecompare.miclearcache.caption"
 msgid "Clear pointer cache"
-msgstr ""
+msgstr "清除指针缓存"
 
 
 #: tfrmstructurecompare.micopy.caption
 msgctxt "tfrmstructurecompare.micopy.caption"
 msgid "Copy"
-msgstr ""
+msgstr "复制"
 
 
 #: tfrmstructurecompare.micut.caption
 msgctxt "tfrmstructurecompare.micut.caption"
 msgid "Cut"
-msgstr ""
+msgstr "剪切"
 
 
 #: tfrmstructurecompare.mideleteaddress.caption
 msgctxt "tfrmstructurecompare.mideleteaddress.caption"
 msgid "Delete"
-msgstr ""
+msgstr "删除"
 
 
 #: tfrmstructurecompare.mifind.caption
 msgctxt "tfrmstructurecompare.mifind.caption"
 msgid "Find..."
-msgstr ""
+msgstr "查找..."
 
 
 #: tfrmstructurecompare.mifindnext.caption
 msgctxt "tfrmstructurecompare.mifindnext.caption"
 msgid "Find Next"
-msgstr ""
+msgstr "查找下一个"
 
 
 #: tfrmstructurecompare.mimaxaddresses.caption
 msgid "Max addresses shown : 32"
-msgstr ""
+msgstr "最大显示地址数：32"
 
 
 #: tfrmstructurecompare.mimaxaddresses.hint
 msgid "This lets you specify the maximum number of addresses to show per line"
-msgstr ""
+msgstr "这让你可以指定每行显示的最大地址数"
 
 
 #: tfrmstructurecompare.minewscan.caption
 msgctxt "tfrmstructurecompare.minewscan.caption"
 msgid "New scan"
-msgstr ""
+msgstr "新扫描"
 
 
 #: tfrmstructurecompare.miopen.caption
 msgctxt "tfrmstructurecompare.miopen.caption"
 msgid "Open"
-msgstr ""
+msgstr "打开"
 
 
 #: tfrmstructurecompare.mipaste.caption
 msgctxt "tfrmstructurecompare.mipaste.caption"
 msgid "Paste"
-msgstr ""
+msgstr "粘贴"
 
 
 #: tfrmstructurecompare.mishadow.caption
 msgctxt "tfrmstructurecompare.mishadow.caption"
 msgid "Lock"
-msgstr ""
+msgstr "锁定"
 
 
 #: tfrmstructures2.menuitem8.caption
 msgid "Manage structurelist"
-msgstr ""
+msgstr "管理结构列表"
 
 
 #: tfrmstructures2.miaddallinrowtoaddresslist.caption
 msgid "Add all in row to address list"
-msgstr ""
+msgstr "将行中所有内容添加到地址列表"
 
 
 #: tfrmstructures2.michangeallvaluesinrow.caption
 msgid "Change all values in row"
-msgstr ""
+msgstr "更改行中所有值"
 
 
 #: tfrmstructures2.michangetype.caption
 msgid "Change Type"
-msgstr ""
+msgstr "更改类型"
 
 
 #: tfrmstructures2.michangetype2byte.caption
 msgctxt "tfrmstructures2.michangetype2byte.caption"
 msgid "2 Byte"
-msgstr ""
+msgstr "2字节"
 
 
 #: tfrmstructures2.michangetype2bytehex.caption
 msgid "2 Byte (Hex)"
-msgstr ""
+msgstr "2字节 (十六进制)"
 
 
 #: tfrmstructures2.michangetype4byte.caption
 msgctxt "tfrmstructures2.michangetype4byte.caption"
 msgid "4 Byte"
-msgstr ""
+msgstr "4字节"
 
 
 #: tfrmstructures2.michangetype4bytehex.caption
 msgid "4 Byte (Hex)"
-msgstr ""
+msgstr "4字节 (十六进制)"
 
 
 #: tfrmstructures2.michangetype8byte.caption
 msgctxt "tfrmstructures2.michangetype8byte.caption"
 msgid "8 Byte"
-msgstr ""
+msgstr "8字节"
 
 
 #: tfrmstructures2.michangetype8bytehex.caption
 msgid "8 Byte (Hex)"
-msgstr ""
+msgstr "8字节 (十六进制)"
 
 
 #: tfrmstructures2.michangetypearrayofbyte.caption
 msgid "Array Of Byte"
-msgstr ""
+msgstr "字节数组"
 
 
 #: tfrmstructures2.michangetypebyte.caption
 msgctxt "tfrmstructures2.michangetypebyte.caption"
 msgid "Byte"
-msgstr ""
+msgstr "字节"
 
 
 #: tfrmstructures2.michangetypebytehex.caption
 msgid "Byte (Hex)"
-msgstr ""
+msgstr "字节 (十六进制)"
 
 
 #: tfrmstructures2.michangetypedouble.caption
 msgctxt "tfrmstructures2.michangetypedouble.caption"
 msgid "Double"
-msgstr ""
+msgstr "双精度"
 
 
 #: tfrmstructures2.michangetypefloat.caption
 msgctxt "tfrmstructures2.michangetypefloat.caption"
 msgid "Float"
-msgstr ""
+msgstr "浮点数"
 
 
 #: tfrmstructures2.michangetypepointer.caption
 msgctxt "tfrmstructures2.michangetypepointer.caption"
 msgid "Pointer"
-msgstr ""
+msgstr "指针"
 
 
 #: tfrmstructures2.michangetypestring.caption
 msgctxt "tfrmstructures2.michangetypestring.caption"
 msgid "String"
-msgstr ""
+msgstr "字符串"
 
 
 #: tfrmstructures2.michangetypeunicode.caption
 msgctxt "tfrmstructures2.michangetypeunicode.caption"
 msgid "Unicode"
-msgstr ""
+msgstr "Unicode"
 
 
 #: tfrmstructures2.micollapseall.caption
 msgid "Collapse all pointers"
-msgstr ""
+msgstr "折叠所有指针"
 
 
 #: tfrmstructures2.micommonalityscan.caption
 msgid "Scan for commonalities using the structure compare window"
-msgstr ""
+msgstr "使用结构比较窗口扫描共同点"
 
 
 #: tfrmstructures2.midefinenewstructurefromdebugdata.caption
 msgid "Define new structure from debug data"
-msgstr ""
+msgstr "从调试数据定义新结构"
 
 
 #: tfrmstructures2.mifindnext.caption
 msgctxt "tfrmstructures2.mifindnext.caption"
 msgid "Find Next"
-msgstr ""
+msgstr "查找下一个"
 
 
 #: tfrmstructures2.mifindprevious.caption
 msgctxt "tfrmstructures2.mifindprevious.caption"
 msgid "Find Previous"
-msgstr ""
+msgstr "查找上一个"
 
 
 #: tfrmstructures2.mifindvalue.caption
 msgid "Find value"
-msgstr ""
+msgstr "查找值"
 
 
 #: tfrmstructures2.migotooffset.caption
 msgctxt "tfrmstructures2.migotooffset.caption"
 msgid "Go to Offset"
-msgstr ""
+msgstr "转到偏移"
 
 
 #: tfrmstructures2.miopeninnewwindow.caption
 msgid "Open in new window"
-msgstr ""
+msgstr "在新窗口中打开"
 
 
 #: tfrmstructures2.miview.caption
 msgctxt "tfrmstructures2.miview.caption"
 msgid "View"
-msgstr ""
+msgstr "查看"
 
 
 #: tfrmstructures2elementinfo.cbnestedstructure.caption
 msgid "Nested Structure"
-msgstr ""
+msgstr "嵌套结构"
 
 
 #: tfrmsymboleventtakinglong.button1.caption
 msgid "Cancel this symbol lookup"
-msgstr ""
+msgstr "取消此符号查找"
 
 
 #: tfrmsymboleventtakinglong.caption
 msgid "Symbol lookup taking long"
-msgstr ""
+msgstr "符号查找耗时较长"
 
 
 #: tfrmsymboleventtakinglong.cbskipallsymbols.caption
 msgid "And skip all symbols until loaded"
-msgstr ""
+msgstr "并跳过所有符号直到加载完成"
 
 
 #: tfrmsymboleventtakinglong.cbskipthissymbol.caption
 msgid "And skip this symbol until loaded"
-msgstr ""
+msgstr "并跳过此符号直到加载完成"
 
 
 #: tfrmsymboleventtakinglong.label1.caption
 msgid "The symbolloader is still busy enumerating the symbols and the current symbol being looked up is taking a while (and taking away time to enumerate the symbols)"
-msgstr ""
+msgstr "符号加载器仍在枚举符号，当前正在查找的符号需要一些时间(这会占用枚举符号的时间)"
 
 
 #: tfrmsymboleventtakinglong.lblautocloseoncefound.caption
 msgctxt "tfrmsymboleventtakinglong.lblautocloseoncefound.caption"
 msgid "This window will autoclose once the symbol has been found"
-msgstr ""
+msgstr "一旦找到符号，此窗口将自动关闭"
 
 
 #: tfrmsymboleventtakinglong.lblsymbol.caption
 msgid "lblSymbol"
-msgstr ""
+msgstr "符号标签"
 
 
 #: tfrmsymboleventtakinglong.lbltype.caption
 msgid "Symbol:"
-msgstr ""
+msgstr "符号："
 
 
 #: tfrmsymbolhandler.label4.caption
 msgid "Symbol groups:"
-msgstr ""
+msgstr "符号组："
 
 
 #: tfrmsymbolhandler.miunregister.caption
 msgid "Unregister"
-msgstr ""
+msgstr "取消注册"
 
 
 #: tfrmsymbolhandler.miunregisterall.caption
 msgid "Unregister all"
-msgstr ""
+msgstr "取消所有注册"
 
 
 #: tfrmthreadlist.micopyvaluetoclipboard.caption
 msgctxt "tfrmthreadlist.micopyvaluetoclipboard.caption"
 msgid "Copy value to clipboard"
-msgstr ""
+msgstr "复制值到剪贴板"
 
 
 #: tfrmthreadlist.mirefresh.caption
 msgctxt "tfrmthreadlist.mirefresh.caption"
 msgid "Refresh"
-msgstr ""
+msgstr "刷新"
 
 
 #: tfrmthreadunsafecodewarning.btnignore.caption
 msgid "Ignore warnings"
-msgstr ""
+msgstr "忽略警告"
 
 
 #: tfrmthreadunsafecodewarning.btnignore.hint
 msgid "Keep running the script and don't show this warning anymore"
-msgstr ""
+msgstr "继续运行脚本并不再显示此警告"
 
 
 #: tfrmthreadunsafecodewarning.btnkill.caption
 msgid "Kill scripts that do this"
-msgstr ""
+msgstr "终止执行此操作的脚本"
 
 
 #: tfrmthreadunsafecodewarning.btnkill.hint
 msgid "Stops the current script"
-msgstr ""
+msgstr "停止当前脚本"
 
 
 #: tfrmthreadunsafecodewarning.caption
 msgid "Threadunsafe GUI access detected"
-msgstr ""
+msgstr "检测到线程不安全的GUI访问"
 
 
 #: tfrmthreadunsafecodewarning.cbremember.caption
 msgid "Remember choice when restarting Cheat Engine"
-msgstr ""
+msgstr "重启Cheat Engine时记住此选择"
 
 
 #: tfrmthreadunsafecodewarning.label1.caption
@@ -22030,36 +22030,42 @@ msgid ""
 "Please edit the script and encaplulate all the access to GUI controls using :\"synchronize(function() <your code> end)\" \n"
 "or ask the person who made the current table to fix this for you"
 msgstr ""
+"当前执行的Lua脚本没有正确地将其GUI访问代码与主GUI线程同步。\n"
+"这可能导致随机的堆内存更改，最终会导致不可预测的'访问违规'\n"
+"错误和其他随机行为\n"
+"\n"
+"请编辑脚本，使用:\"synchronize(function() <你的代码> end)\"来封装所有对GUI控件的访问\n"
+"或者请制作当前表格的人为您修复此问题"
 
 
 #: tfrmtracer.cbfpuxmm.caption
 msgid "Compare FPU/XMM"
-msgstr ""
+msgstr "比较 FPU/XMM"
 
 
 #: tfrmtracer.cbignorestackpointers.caption
 msgid "Ignore stackpointers"
-msgstr ""
+msgstr "忽略栈指针"
 
 
 #: tfrmtracer.menuitem7.caption
 msgid "Change Font"
-msgstr ""
+msgstr "更改字体"
 
 
 #: tfrmtracer.minewtrace.caption
 msgid "New trace"
-msgstr ""
+msgstr "新建跟踪"
 
 
 #: tfrmtracer.miopentraceforcompare.caption
 msgid "Open trace for comparison"
-msgstr ""
+msgstr "打开跟踪进行比较"
 
 
 #: tfrmtracer.mirealigncompare.caption
 msgid "Reallign compare"
-msgstr ""
+msgstr "重新对齐比较"
 
 
 #: tfrmtracer.pnlregisters.hint
@@ -22067,95 +22073,97 @@ msgid ""
 "Rightclick to copy to clipboard\n"
 "Middleclick to ignore it when comparing traces"
 msgstr ""
+"右键点击复制到剪贴板\n"
+"中键点击在比较跟踪时忽略它"
 
 
 #: tfrmtracerconfig.cbbranchesonly.caption
 msgid "Branches only"
-msgstr ""
+msgstr "仅分支"
 
 
 #: tfrmtracerconfig.cbdbvmbreakandtrace.caption
 msgid "DBVM Native Break and Trace"
-msgstr ""
+msgstr "DBVM 原生断点和跟踪"
 
 
 #: tfrmtracerconfig.cbdbvmbreakandtrace.hint
 msgid "Let DBVM do the break and trace internally"
-msgstr ""
+msgstr "让 DBVM 在内部执行断点和跟踪"
 
 
 #: tfrmtracerconfig.cbdbvmtriggercow.caption
 msgid "Trigger copy-on-write"
-msgstr ""
+msgstr "触发写时复制"
 
 
 #: tfrmtracerconfig.cbsavestack.caption
 msgid "Save stack snapshots (Eats memory)"
-msgstr ""
+msgstr "保存栈快照(消耗内存)"
 
 
 #: tfrmtracerconfig.cbstayinsideinitialmodule.caption
 msgid "Stay inside initial module"
-msgstr ""
+msgstr "保持在初始模块内"
 
 
 #: tfrmtracerconfig.cbstepoverrep.caption
 msgid "Step over rep instructions"
-msgstr ""
+msgstr "跳过 rep 指令"
 
 
 #: tfrmtracerconfig.groupbox1.caption
 msgid "Breakpoint method"
-msgstr ""
+msgstr "断点方法"
 
 
 #: tfrmtracerconfig.label3.caption
 msgid "Start condition (Optional, LUA format)"
-msgstr ""
+msgstr "启动条件(可选，LUA格式)"
 
 
 #: tfrmtracerconfig.rbbpdbvm.caption
 msgctxt "tfrmtracerconfig.rbbpdbvm.caption"
 msgid "DBVM Breakpoint"
-msgstr ""
+msgstr "DBVM 断点"
 
 
 #: tfrmtracerconfig.rbbpexception.caption
 msgctxt "tfrmtracerconfig.rbbpexception.caption"
 msgid "Exception Breakpoint"
-msgstr ""
+msgstr "异常断点"
 
 
 #: tfrmtracerconfig.rbbphardware.caption
 msgctxt "tfrmtracerconfig.rbbphardware.caption"
 msgid "Hardware Breakpoint"
-msgstr ""
+msgstr "硬件断点"
 
 
 #: tfrmtracerconfig.rbbpsoftware.caption
 msgid "Software breakpoint"
-msgstr ""
+msgstr "软件断点"
 
 
 #: tfrmultimap.micopytoclipboard.caption
 msgctxt "tfrmultimap.micopytoclipboard.caption"
 msgid "Copy selection to clipboard"
-msgstr ""
+msgstr "复制选择到剪贴板"
 
 
 #: tfrmultimap2.cbiptdonotprocessnewthreads.caption
 msgid "Do not process new threads after initial launch"
-msgstr ""
+msgstr "初始启动后不处理新线程"
 
 
 #: tfrmultimap2.cbkernelmode.caption
 msgid "Kernelmode"
-msgstr ""
+msgstr "内核模式"
 
 
 #: tfrmultimap2.cbnointerrupts.caption
 msgid "Do not trigger interrupts when full"
-msgstr ""
+msgstr "满时不触发中断"
 
 
 #: tfrmultimap2.cbnointerrupts.hint
@@ -22165,22 +22173,26 @@ msgid ""
 "Tip: Use a huge buffer and autoprocess/flush the tracefiles\n"
 "Tip2: If DBVM is running it will hide the fact that regions are used from windows, and this you can just use interrupts like before"
 msgstr ""
+"在 Windows 10 中，当 PMI 触发时，如果使用范围且没有附加内核模式调试器，将会出现\"PROFILER_CONFIGURATION_ILLEGAL\"蓝屏\n"
+"\n"
+"提示：使用大缓冲区并自动处理/刷新跟踪文件\n"
+"提示2：如果 DBVM 正在运行，它会对 Windows 隐藏正在使用区域的事实，这样你就可以像以前一样使用中断"
 
 
 #: tfrmultimap2.cbtraceallprocesses.caption
 msgid "Trace all processes"
-msgstr ""
+msgstr "跟踪所有进程"
 
 
 #: tfrmultimap2.cbusermode.caption
 msgid "Usermode"
-msgstr ""
+msgstr "用户模式"
 
 
 #: tfrmultimap2.cbwindowsbasedipt.caption
 msgctxt "tfrmultimap2.cbwindowsbasedipt.caption"
 msgid "Use Built-in windows IPT suport"
-msgstr ""
+msgstr "使用 Windows 内置 IPT 支持"
 
 
 #: tfrmultimap2.cbwiniptbuffersize.text
@@ -22191,30 +22203,30 @@ msgstr ""
 #: tfrmultimap2.gbthreads.caption
 msgctxt "tfrmultimap2.gbthreads.caption"
 msgid "Threads"
-msgstr ""
+msgstr "线程"
 
 
 #: tfrmultimap2.lblbuffersizeperthread.caption
 msgid "Buffersize per Thread"
-msgstr ""
+msgstr "每个线程的缓冲区大小"
 
 
 #: tfrmultimap2.lvthreads.columns[0].caption
 msgctxt "tfrmultimap2.lvthreads.columns[0].caption"
 msgid "ThreadID"
-msgstr ""
+msgstr "线程ID"
 
 
 #: tfrmultimap2.lvthreads.columns[1].caption
 msgctxt "tfrmultimap2.lvthreads.columns[1].caption"
 msgid "Data received"
-msgstr ""
+msgstr "已接收数据"
 
 
 #: tfrmultimap2.lvthreads.columns[2].caption
 msgctxt "tfrmultimap2.lvthreads.columns[2].caption"
 msgid "Buffers missed"
-msgstr ""
+msgstr "缓冲区丢失"
 
 
 #: tfrmultimap2.lvthreads.columns[3].caption
@@ -22236,29 +22248,29 @@ msgstr "打开跟踪文件阅读器"
 #: tfrmultimap2.menuitem4.caption
 msgctxt "tfrmultimap2.menuitem4.caption"
 msgid "Close"
-msgstr ""
+msgstr "关闭"
 
 
 #: tfrmultimap2.menuitem5.caption
 msgid "Debug: Process tracefile"
-msgstr ""
+msgstr "调试：处理跟踪文件"
 
 
 #: tfrmultimap2.migetrangeconfig.caption
 msgid "Get rangeconfig"
-msgstr ""
+msgstr "获取范围配置"
 
 
 #: tfrmultimap2.miremovehotkey.caption
 msgctxt "tfrmultimap2.miremovehotkey.caption"
 msgid "Remove hotkey"
-msgstr ""
+msgstr "移除热键"
 
 
 #: tfrmultimap2.misethotkey.caption
 msgctxt "tfrmultimap2.misethotkey.caption"
 msgid "Set hotkey"
-msgstr ""
+msgstr "设置热键"
 
 
 #: thotkeyform.btnok.caption
@@ -22270,40 +22282,40 @@ msgstr ""
 #: thotkeyform.cbactivatesound.text
 msgctxt "thotkeyform.cbactivatesound.text"
 msgid "Activate"
-msgstr ""
+msgstr "激活"
 
 
 #: thotkeyform.cbdeactivatesound.text
 msgctxt "thotkeyform.cbdeactivatesound.text"
 msgid "Deactivate"
-msgstr ""
+msgstr "停用"
 
 
 #: thotkeyform.cbfreezedirection.text
 msgctxt "thotkeyform.cbfreezedirection.text"
 msgid "Toggle freeze"
-msgstr ""
+msgstr "切换冻结"
 
 
 #: thotkeyform.cbonlywhiledown.caption
 msgid "Only while hotkey is down/Restore when released"
-msgstr ""
+msgstr "仅在按住热键时生效/释放时恢复"
 
 
 #: tmainform.btnfirst.caption
 msgid "First Scan2"
-msgstr ""
+msgstr "首次扫描2"
 
 
 #: tmainform.btnnext.caption
 msgid "Next scan 2"
-msgstr ""
+msgstr "下一次扫描2"
 
 
 #: tmainform.cbcomparetosavedscan.caption
 msgctxt "tmainform.cbcomparetosavedscan.caption"
 msgid "Compare to first/saved scan"
-msgstr ""
+msgstr "与首次/已保存的扫描比较"
 
 
 #: tmainform.cbluaformula.hint
@@ -22314,120 +22326,120 @@ msgid ""
 "\n"
 "example:\n"
 "value>5 and value~=8"
-msgstr ""
+msgstr "选中时,该值将被解释为Lua脚本。\n可用的局部变量:\nvalue, previousvalue\n\n示例:\nvalue>5 and value~=8"
 
 
 #: tmainform.cbnewluastate.caption
 msgid "Separate Lua state"
-msgstr ""
+msgstr "独立的Lua状态"
 
 
 #: tmainform.cbnewluastate.hint
 msgid ""
 "When checked, the Lua environment used will be limited to just some basic functions and you won't have access to userdefined functions.\n"
 "The positive side is that this allows multiple threads to scan at the same time, so will be a lot faster"
-msgstr ""
+msgstr "选中时,使用的Lua环境将仅限于一些基本函数,您将无法访问用户定义的函数。\n好处是这允许多个线程同时扫描,因此会快得多"
 
 
 #: tmainform.cbpresentmemoryonly.hint
 msgid "Only scans the working set of a process"
-msgstr ""
+msgstr "仅扫描进程的工作集"
 
 
 #: tmainform.cbrepeatuntilstopped.caption
 msgid "Repeat"
-msgstr ""
+msgstr "重复"
 
 
 #: tmainform.cbrepeatuntilstopped.hint
 msgid "Repeats the unchanged value scan until it gets stopped"
-msgstr ""
+msgstr "重复执行未改变值的扫描直到停止"
 
 
 #: tmainform.copyselectedaddresses1.caption
 msgid "Copy selected addresses"
-msgstr ""
+msgstr "复制选中的地址"
 
 
 #: tmainform.menuitem15.caption
 msgid "Cheat Engine Tutorial Games"
-msgstr ""
+msgstr "Cheat Engine 教程游戏"
 
 
 #: tmainform.menuitem16.caption
 msgid "Cheat Engine Tutorial (AArch64)"
-msgstr ""
+msgstr "Cheat Engine 教程 (AArch64)"
 
 
 #: tmainform.menuitem17.caption
 msgid "Memory read method"
-msgstr ""
+msgstr "内存读取方法"
 
 
 #: tmainform.menuitem18.caption
 msgid "Memory write method"
-msgstr ""
+msgstr "内存写入方法"
 
 
 #: tmainform.mialwayshidechildren.caption
 msgid "Always hide children"
-msgstr ""
+msgstr "始终隐藏子项"
 
 
 #: tmainform.miautoassembleerrormessage.caption
 msgid "<Error message here>"
-msgstr ""
+msgstr "<错误信息>"
 
 
 #: tmainform.michangevalueback.caption
 msgid "Change value of selected addresses back to previous/saved value"
-msgstr ""
+msgstr "将选中地址的值恢复为之前/已保存的值"
 
 
 #: tmainform.midbvmfindwhatwritesoraccesses.caption
 msgid "DBVM Find out what writes or accesses this address"
-msgstr ""
+msgstr "使用DBVM查找写入或访问此地址的内容"
 
 
 #: tmainform.mideletesavedscanresults.caption
 msgid "Delete scanresult"
-msgstr ""
+msgstr "删除扫描结果"
 
 
 #: tmainform.midotnet.caption
 msgid ".Net"
-msgstr ""
+msgstr ".Net"
 
 
 #: tmainform.miforgotscan.caption
 msgid "Reload the previous value list (Forgot value scan)"
-msgstr ""
+msgstr "重新加载之前的值列表(忘记值扫描)"
 
 
 #: tmainform.mifoundlistpreferences.caption
 msgctxt "tmainform.mifoundlistpreferences.caption"
 msgid "Preferences"
-msgstr ""
+msgstr "首选项"
 
 
 #: tmainform.migetdotnetobjectlist.caption
 msgid "Get object list"
-msgstr ""
+msgstr "获取对象列表"
 
 
 #: tmainform.miluadocumentation.caption
 msgid "Lua documentation"
-msgstr ""
+msgstr "Lua 文档"
 
 
 #: tmainform.mimemrechidecheckbox.caption
 msgid "Hide checkbox"
-msgstr ""
+msgstr "隐藏复选框"
 
 
 #: tmainform.mimemrecwithnocheckboxstartsleft.caption
 msgid "Description at start"
-msgstr ""
+msgstr "描述在开头"
 
 
 #: tmainform.minetworkreaduseprocmem.caption
@@ -22469,393 +22481,393 @@ msgstr "混淆当前加载的表"
 
 #: tmainform.mionlyshowcurrentcomparetocolumn.caption
 msgid "Only show current \"compare to\" column"
-msgstr ""
+msgstr "仅显示当前"比较"列"
 
 
 #: tmainform.mirecordconfig.caption
 msgid "Record config"
-msgstr ""
+msgstr "记录配置"
 
 
 #: tmainform.mirecordconfigactivatesetvalue.caption
 msgctxt "tmainform.mirecordconfigactivatesetvalue.caption"
 msgid "Set Value"
-msgstr ""
+msgstr "设置值"
 
 
 #: tmainform.mirecordconfigdeactivaterestore.caption
 msgid "Restore to original"
-msgstr ""
+msgstr "恢复到原始值"
 
 
 #: tmainform.mirecordconfigdeactivatesetvalue.caption
 msgid "Set value"
-msgstr ""
+msgstr "设置值"
 
 
 #: tmainform.mirecordconfigonactivate.caption
 msgid "On Activate"
-msgstr ""
+msgstr "激活时"
 
 
 #: tmainform.mirecordconfigondeactivate.caption
 msgid "On Deactivate"
-msgstr ""
+msgstr "停用时"
 
 
 #: tmainform.mitestaccessviolationthread.caption
 msgid "Test access violation in thread"
-msgstr ""
+msgstr "测试线程中的访问违规"
 
 
 #: tmainform.mitriggeraccessviolation.caption
 msgctxt "tmainform.mitriggeraccessviolation.caption"
 msgid "Test access violation"
-msgstr ""
+msgstr "测试访问违规"
 
 
 #: tmainform.mitutorial64.caption
 msgctxt "tmainform.mitutorial64.caption"
 msgid "Cheat Engine Tutorial (x86_64)"
-msgstr ""
+msgstr "Cheat Engine 教程 (x86_64)"
 
 
 #: tmainform.sbclearactivememory.hint
 msgid "Clear RAM usage of target process"
-msgstr ""
+msgstr "清除目标进程的内存使用"
 
 
 #: tmainform.scantype.text
 msgid "Exact value"
-msgstr ""
+msgstr "精确值"
 
 
 #: tmainform.vartype.text
 msgctxt "tmainform.vartype.text"
 msgid "Binary"
-msgstr ""
+msgstr "二进制"
 
 
 #: tmemorybrowser.copybytesandopcodesandcomments.caption
 msgid "Bytes+Opcodes+Comments"
-msgstr ""
+msgstr "字节+操作码+注释"
 
 
 #: tmemorybrowser.lblflags.caption
 msgctxt "tmemorybrowser.lblflags.caption"
 msgid "Flags"
-msgstr ""
+msgstr "标志"
 
 
 #: tmemorybrowser.lblregisters.caption
 msgctxt "tmemorybrowser.lblregisters.caption"
 msgid "Registers:"
-msgstr ""
+msgstr "寄存器:"
 
 
 #: tmemorybrowser.lblspecial.caption
 msgctxt "tmemorybrowser.lblspecial.caption"
 msgid "Special"
-msgstr ""
+msgstr "特殊"
 
 
 #: tmemorybrowser.miarcharm.caption
 msgid "ARM"
-msgstr ""
+msgstr "ARM"
 
 
 #: tmemorybrowser.miarchautodetect.caption
 msgctxt "tmemorybrowser.miarchautodetect.caption"
 msgid "Autodetect"
-msgstr ""
+msgstr "自动检测"
 
 
 #: tmemorybrowser.miarchitecture.caption
 msgid "Architecture"
-msgstr ""
+msgstr "架构"
 
 
 #: tmemorybrowser.miarchx86.caption
 msgid "X86"
-msgstr ""
+msgstr "X86"
 
 
 #: tmemorybrowser.mibinutilsselect.caption
 msgctxt "tmemorybrowser.mibinutilsselect.caption"
 msgid "None"
-msgstr ""
+msgstr "无"
 
 
 #: tmemorybrowser.mibreakandtrace.caption
 msgctxt "tmemorybrowser.mibreakandtrace.caption"
 msgid "Break and trace"
-msgstr ""
+msgstr "中断并跟踪"
 
 
 #: tmemorybrowser.mibreakonexceptions.caption
 msgid "Break on unexpected exceptions"
-msgstr ""
+msgstr "在意外异常时中断"
 
 
 #: tmemorybrowser.michangeprotectionr.caption
 msgctxt "tmemorybrowser.michangeprotectionr.caption"
 msgid "Read"
-msgstr ""
+msgstr "读取"
 
 
 #: tmemorybrowser.michangeprotectionre.caption
 msgid "Read Execute"
-msgstr ""
+msgstr "读取执行"
 
 
 #: tmemorybrowser.michangeprotectionrw.caption
 msgid "Read Write"
-msgstr ""
+msgstr "读取写入"
 
 
 #: tmemorybrowser.michangeprotectionrwe.caption
 msgid "Read Write Execute"
-msgstr ""
+msgstr "读取写入执行"
 
 
 #: tmemorybrowser.miclearcache.caption
 msgid "Clear GDB cache for this page"
-msgstr ""
+msgstr "清除此页面的GDB缓存"
 
 
 #: tmemorybrowser.micodefilter.caption
 msgctxt "tmemorybrowser.micodefilter.caption"
 msgid "Code Filter"
-msgstr ""
+msgstr "代码过滤器"
 
 
 #: tmemorybrowser.micomparestructures.caption
 msgctxt "tmemorybrowser.micomparestructures.caption"
 msgid "Compare data/structures"
-msgstr ""
+msgstr "比较数据/结构"
 
 
 #: tmemorybrowser.micopyaddressesonly.caption
 msgid "Addresses only"
-msgstr ""
+msgstr "仅地址"
 
 
 #: tmemorybrowser.micopyopcodesonly.caption
 msgid "Opcodes only (no address)"
-msgstr ""
+msgstr "仅操作码(无地址)"
 
 
 #: tmemorybrowser.micr3switcher.caption
 msgid "CR3 Switcher"
-msgstr ""
+msgstr "CR3切换器"
 
 
 #: tmemorybrowser.midatabreakpointmenu.caption
 msgid "Data Breakpoint"
-msgstr ""
+msgstr "数据断点"
 
 
 #: tmemorybrowser.midbvmactivatecloak.caption
 msgid "DBVM Activate Cloak"
-msgstr ""
+msgstr "DBVM激活隐藏"
 
 
 #: tmemorybrowser.midbvmdisablecloak.caption
 msgid "DBVM Disable Cloak"
-msgstr ""
+msgstr "DBVM禁用隐藏"
 
 
 #: tmemorybrowser.midbvmfindoutwhataddressesthisinstructionaccesses.caption
 msgid "DBVM Find out what addresses this instruction accesses"
-msgstr ""
+msgstr "DBVM 查找此指令访问的地址"
 
 
 #: tmemorybrowser.midebugbreak.caption
 msgctxt "tmemorybrowser.midebugbreak.caption"
 msgid "Break"
-msgstr ""
+msgstr "中断"
 
 
 #: tmemorybrowser.midebugexecutetillreturn.caption
 msgid "Step Out - Execute till return"
-msgstr ""
+msgstr "单步退出 - 执行到返回"
 
 
 #: tmemorybrowser.midebugrun.caption
 msgctxt "tmemorybrowser.midebugrun.caption"
 msgid "Run"
-msgstr ""
+msgstr "运行"
 
 
 #: tmemorybrowser.midebugruntill.caption
 msgctxt "tmemorybrowser.midebugruntill.caption"
 msgid "Run till..."
-msgstr ""
+msgstr "运行到..."
 
 
 #: tmemorybrowser.midebugsetaddress.caption
 msgid "Set Address"
-msgstr ""
+msgstr "设置地址"
 
 
 #: tmemorybrowser.midebugstep.caption
 msgctxt "tmemorybrowser.midebugstep.caption"
 msgid "Step Into"
-msgstr ""
+msgstr "单步进入"
 
 
 #: tmemorybrowser.midebugstepover.caption
 msgctxt "tmemorybrowser.midebugstepover.caption"
 msgid "Step Over"
-msgstr ""
+msgstr "单步跳过"
 
 
 #: tmemorybrowser.midebugtogglebreakpoint.caption
 msgid "Toggle breakpoint"
-msgstr ""
+msgstr "切换断点"
 
 
 #: tmemorybrowser.miexceptionignorelist.caption
 msgid "Manage exception code filter"
-msgstr ""
+msgstr "管理异常代码过滤器"
 
 
 #: tmemorybrowser.miexceptionregionautoaddallocs.caption
 msgctxt "tmemorybrowser.miexceptionregionautoaddallocs.caption"
 msgid "Automatically add allocated memory by CE as watched regions"
-msgstr ""
+msgstr "自动将CE分配的内存添加为监视区域"
 
 
 #: tmemorybrowser.miexceptionregionmanagelist.caption
 msgid "Manage exception region list"
-msgstr ""
+msgstr "管理异常区域列表"
 
 
 #: tmemorybrowser.mifollowinhexview.caption
 msgid "Follow in hexview when stepping"
-msgstr ""
+msgstr "单步执行时在十六进制视图中跟随"
 
 
 #: tmemorybrowser.migotobookmark.caption
 msgctxt "tmemorybrowser.migotobookmark.caption"
 msgid "Goto bookmark"
-msgstr ""
+msgstr "转到书签"
 
 
 #: tmemorybrowser.mihidetoolbar.caption
 msgid "Hide toolbar"
-msgstr ""
+msgstr "隐藏工具栏"
 
 
 #: tmemorybrowser.miiptlog.caption
 msgid "IPT Log"
-msgstr ""
+msgstr "IPT 日志"
 
 
 #: tmemorybrowser.mikernelmodesymbols.caption
 msgid "Kernelmode symbols"
-msgstr ""
+msgstr "内核模式符号"
 
 
 #: tmemorybrowser.miloadtrace.caption
 msgctxt "tmemorybrowser.miloadtrace.caption"
 msgid "Load trace"
-msgstr ""
+msgstr "加载跟踪"
 
 
 #: tmemorybrowser.miopenindissectdata.caption
 msgid "Open in dissect data/structure"
-msgstr ""
+msgstr "在解析数据/结构中打开"
 
 
 #: tmemorybrowser.mirununhandled.caption
 msgctxt "tmemorybrowser.mirununhandled.caption"
 msgid "Run Unhandled"
-msgstr ""
+msgstr "运行未处理"
 
 
 #: tmemorybrowser.misearchforaccessiblestrings.caption
 msgctxt "tmemorybrowser.misearchforaccessiblestrings.caption"
 msgid "Search for accessible strings"
-msgstr ""
+msgstr "搜索可访问的字符串"
 
 
 #: tmemorybrowser.miselectcurrentfunction.caption
 msgctxt "tmemorybrowser.miselectcurrentfunction.caption"
 msgid "Select current function"
-msgstr ""
+msgstr "选择当前函数"
 
 
 #: tmemorybrowser.misetbreakpointdbvmexec.caption
 msgid "DBVM Breakpoint (+1 instruction)"
-msgstr ""
+msgstr "DBVM 断点 (+1 指令)"
 
 
 #: tmemorybrowser.misetbreakpointhw.caption
 msgctxt "tmemorybrowser.misetbreakpointhw.caption"
 msgid "Hardware Breakpoint"
-msgstr ""
+msgstr "硬件断点"
 
 
 #: tmemorybrowser.misetbreakpointpe.caption
 msgid "Exception Breakpoint (+1 instruction)"
-msgstr ""
+msgstr "异常断点 (+1 指令)"
 
 
 #: tmemorybrowser.misetbreakpointsw.caption
 msgctxt "tmemorybrowser.misetbreakpointsw.caption"
 msgid "Software Breakpoint"
-msgstr ""
+msgstr "软件断点"
 
 
 #: tmemorybrowser.misetspecificbreakpoint.caption
 msgid "Set specific breakpoint type"
-msgstr ""
+msgstr "设置特定断点类型"
 
 
 #: tmemorybrowser.misetunsetbookmark.caption
 msgctxt "tmemorybrowser.misetunsetbookmark.caption"
 msgid "Set/Unset bookmark"
-msgstr ""
+msgstr "设置/取消书签"
 
 
 #: tmemorybrowser.mishowmoduleaddresses.caption
 msgid "Show module addresses"
-msgstr ""
+msgstr "显示模块地址"
 
 
 #: tmemorybrowser.mishowrelativedisassembler.caption
 msgctxt "tmemorybrowser.mishowrelativedisassembler.caption"
 msgid "Show relative addresses"
-msgstr ""
+msgstr "显示相对地址"
 
 
 #: tmemorybrowser.mishowsectionaddresses.caption
 msgid "Show section addresses"
-msgstr ""
+msgstr "显示节地址"
 
 
 #: tmemorybrowser.mishowsymbols.caption
 msgid "Show symbols"
-msgstr ""
+msgstr "显示符号"
 
 
 #: tmemorybrowser.mitextencoding.caption
 msgctxt "tmemorybrowser.mitextencoding.caption"
 msgid "Text Encoding"
-msgstr ""
+msgstr "文本编码"
 
 
 #: tmemorybrowser.mitextencodingcodepage.caption
 msgctxt "tmemorybrowser.mitextencodingcodepage.caption"
 msgid "Codepage"
-msgstr ""
+msgstr "代码页"
 
 
 #: tmemorybrowser.miultimap.caption
 msgctxt "tmemorybrowser.miultimap.caption"
 msgid "Ultimap"
-msgstr ""
+msgstr "Ultimap"
 
 
 #: tmemorybrowser.miultimap2.caption
@@ -22867,7 +22879,7 @@ msgstr ""
 #: tmemorybrowser.miundolastedit.caption
 msgctxt "tmemorybrowser.miundolastedit.caption"
 msgid "Undo last edit"
-msgstr ""
+msgstr "撤销上次编辑"
 
 
 #: tmemorybrowser.miunexpectedexceptionbreakalways.caption
@@ -22878,77 +22890,77 @@ msgstr ""
 
 #: tmemorybrowser.miunexpectedexceptionbreakifinregion.caption
 msgid "Only in specified regions"
-msgstr ""
+msgstr "仅在指定区域"
 
 
 #: tmemorybrowser.miunexpectedexceptionbreaknever.caption
 msgctxt "tmemorybrowser.miunexpectedexceptionbreaknever.caption"
 msgid "Never"
-msgstr ""
+msgstr "从不"
 
 
 #: tmemorybrowser.miuserdefinedsymbols.caption
 msgid "Userdefined symbols"
-msgstr ""
+msgstr "用户定义的符号"
 
 
 #: tmemorybrowser.miuserwriteinteger.caption
 msgctxt "tmemorybrowser.miuserwriteinteger.caption"
 msgid "User write history"
-msgstr ""
+msgstr "用户写入历史"
 
 
 #: tmemorybrowser.miwatchaccess.caption
 msgctxt "tmemorybrowser.miwatchaccess.caption"
 msgid "Break on Access"
-msgstr ""
+msgstr "访问时中断"
 
 
 #: tmemorybrowser.miwatchbpdbvm.caption
 msgctxt "tmemorybrowser.miwatchbpdbvm.caption"
 msgid "DBVM Breakpoint"
-msgstr ""
+msgstr "DBVM 断点"
 
 
 #: tmemorybrowser.miwatchbpexception.caption
 msgctxt "tmemorybrowser.miwatchbpexception.caption"
 msgid "Exception Breakpoint"
-msgstr ""
+msgstr "异常断点"
 
 
 #: tmemorybrowser.miwatchbphardware.caption
 msgctxt "tmemorybrowser.miwatchbphardware.caption"
 msgid "Hardware Breakpoint"
-msgstr ""
+msgstr "硬件断点"
 
 
 #: tmemorybrowser.miwatchlist.caption
 msgctxt "tmemorybrowser.miwatchlist.caption"
 msgid "Watchlist"
-msgstr ""
+msgstr "监视列表"
 
 
 #: tmemorybrowser.miwatchmemorypageaccess.caption
 msgctxt "tmemorybrowser.miwatchmemorypageaccess.caption"
 msgid "Watch memory page access"
-msgstr ""
+msgstr "监视内存页面访问"
 
 
 #: tmemorybrowser.miwatchwrite.caption
 msgctxt "tmemorybrowser.miwatchwrite.caption"
 msgid "Break on Write"
-msgstr ""
+msgstr "写入时中断"
 
 
 #: tmemorybrowser.showdebugtoolbar1.caption
 msgid "Show debug toolbar"
-msgstr ""
+msgstr "显示调试工具栏"
 
 
 #: tmemorybrowser.tbdebug.caption
 msgctxt "tmemorybrowser.tbdebug.caption"
 msgid "tbDebug"
-msgstr ""
+msgstr "调试"
 
 
 #: tmemorybrowser.tbrun.caption
@@ -22975,7 +22987,7 @@ msgstr ""
 
 #: tmemorybrowser.tbrununhandled.caption
 msgctxt "tmemorybrowser.tbrununhandled.caption"
-msgid "Run Unhandled"
+msgid "运行未处理"
 msgstr ""
 
 
@@ -22987,25 +22999,25 @@ msgstr ""
 #: tmemorybrowser.tbseparator1.caption
 msgctxt "tmemorybrowser.tbseparator1.caption"
 msgid "tbSeparator1"
-msgstr ""
+msgstr "分隔符1"
 
 
 #: tmemorybrowser.tbseparator2.caption
 msgctxt "tmemorybrowser.tbseparator2.caption"
 msgid "tbSeparator2"
-msgstr ""
+msgstr "分隔符2"
 
 
 #: tmemorybrowser.tbseparator3.caption
 msgctxt "tmemorybrowser.tbseparator3.caption"
 msgid "tbSeparator3"
-msgstr ""
+msgstr "分隔符3"
 
 
 #: tmemorybrowser.tbstepinto.caption
 msgctxt "tmemorybrowser.tbstepinto.caption"
 msgid "Step Into"
-msgstr ""
+msgstr "单步进入"
 
 
 #: tmemorybrowser.tbstepinto.hint
@@ -23047,13 +23059,13 @@ msgstr ""
 
 #: tprocesswindow.btnattachdebugger.caption
 msgid "Attach debugger to process"
-msgstr ""
+msgstr "附加调试器到进程"
 
 
 #: tprocesswindow.menuitem3.caption
 msgctxt "tprocesswindow.menuitem3.caption"
 msgid "Process watcher"
-msgstr ""
+msgstr "进程监视器"
 
 
 #: tprocesswindow.miconvertpidtodecimal.caption
@@ -23088,6 +23100,7 @@ msgstr "窗口"
 #: tregisters.labelregisters.caption
 msgctxt "tregisters.labelregisters.caption"
 msgid "Registers:"
+msgstr "寄存器:"
 msgstr ""
 
 
@@ -23176,13 +23189,13 @@ msgstr ""
 #: ttypeform.cbhex.caption
 msgctxt "ttypeform.cbhex.caption"
 msgid "Hexadecimal"
-msgstr ""
+msgstr "十六进制"
 
 
 #: ttypeform.cbsigned.caption
 msgctxt "ttypeform.cbsigned.caption"
 msgid "Signed"
-msgstr ""
+msgstr "有符号"
 
 
 #: ttypeform.labelbit0.caption
@@ -23236,13 +23249,13 @@ msgstr ""
 #: ttypeform.labelbitlength.caption
 msgctxt "ttypeform.labelbitlength.caption"
 msgid "Length"
-msgstr ""
+msgstr "长度"
 
 
 #: ttypeform.labellength.caption
 msgctxt "ttypeform.labellength.caption"
 msgid "Length"
-msgstr ""
+msgstr "长度"
 
 
 #: ttypeform.lengthedit.text
@@ -23254,28 +23267,28 @@ msgstr ""
 #: ttypeform.vartype.text
 msgctxt "ttypeform.vartype.text"
 msgid "Binary"
-msgstr ""
+msgstr "二进制"
 
 
 #: valuechange.rsunicode
 msgctxt "valuechange.rsunicode"
 msgid "Unicode"
-msgstr ""
+msgstr "Unicode"
 
 
 #: vartypestrings.rs_vtpointerornested
 msgid "Pointer or Nested Structure"
-msgstr ""
+msgstr "指针或嵌套结构"
 
 
 #: vartypestrings.rs_vtwidestring
 msgid "Widestring"
-msgstr ""
+msgstr "宽字符串"
 
 
 #: vehdebugger.rsthevehdllseemstohavefailedtoload
 msgid "The VEH dll seems to have failed to load"
-msgstr ""
+msgstr "VEH dll 似乎加载失败"
 
 
 #: vehdebugger.rswrongvehdllversion
