@@ -1,4 +1,4 @@
-﻿#: java-AAF
+#: java-AAF
 msgid "Auto assembler failed:"
 msgstr "自动汇编失败:"
 

@@ -1,4 +1,4 @@
-﻿#: monoscript-FITM
+#: monoscript-FITM
 msgid "Failure injecting the MonoDatacollector dll"
 msgstr "注入MonoDatacollector的dll失败"
 
